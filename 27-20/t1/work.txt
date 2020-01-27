@@ -1,0 +1,1373 @@
+Script started on Monday 27 January 2020 10:15:49 AM IST
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ ls
+abc.txt  report.txt  report.txt~  work.txt
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ ls -l
+total 12
+-rw-rw-r-- 1 s4c2 s4c2  15 Jan 27 10:00 abc.txt
+-rw-rw-r-- 1 s4c2 s4c2 633 Jan 27 10:15 report.txt
+-rw-rw-r-- 1 s4c2 s4c2 633 Jan 27 10:14 report.txt~
+-rw-rw-r-- 1 s4c2 s4c2   0 Jan 27 10:15 work.txt
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ ls -lt
+total 12
+-rw-rw-r-- 1 s4c2 s4c2   0 Jan 27 10:15 work.txt
+-rw-rw-r-- 1 s4c2 s4c2 633 Jan 27 10:15 report.txt
+-rw-rw-r-- 1 s4c2 s4c2 633 Jan 27 10:14 report.txt~
+-rw-rw-r-- 1 s4c2 s4c2  15 Jan 27 10:00 abc.txt
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ ll abc.txt
+-rw-rw-r-- 1 s4c2 s4c2 15 Jan 27 10:00 abc.txt
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ cat>abc.txt
+hi hello q world
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ sort -n fn[K[Kwork.txt
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ cut f3-
+cut: you must specify a list of bytes, characters, or fields
+Try `cut --help' for more information.
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ cut -f-3
+t hi
+hi
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ ln -s
+ln: missing file operand
+Try `ln --help' for more information.
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ ifcon[K[K[K[K[Kman grep
+[?1049h[?1h=
+GREP(1)                                                                GREP(1)[m
+[m
+[1mNAME[0m[m
+       grep, egrep, fgrep, rgrep - print lines matching a pattern[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mgrep[0m [[4mOPTIONS[24m] [4mPATTERN[24m [[4mFILE[24m...][m
+       [1mgrep[0m [[4mOPTIONS[24m] [[1m-e[0m [4mPATTERN[24m | [1m-f[0m [4mFILE[24m] [[4mFILE[24m...][m
+[m
+[1mDESCRIPTION[0m[m
+       [1mgrep[0m  searches the named input [4mFILE[24ms (or standard input if no files are[m
+       named, or if a single hyphen-minus ([1m-[0m) is given as file name) for lines[m
+       containing  a  match to the given [4mPATTERN[24m.  By default, [1mgrep[0m prints the[m
+       matching lines.[m
+[m
+       In  addition,  three  variant  programs  [1megrep,[0m  [1mfgrep[0m  and  [1mrgrep[0m  are[m
+       available.   [1megrep[0m  is  the  same  as  [1mgrep[0m [1m-E[0m.   [1mfgrep[0m  is the same as[m
+       [1mgrep[0m [1m-F[0m.  [1mrgrep[0m is the same as [1mgrep[0m [1m-r[0m.  Direct  invocation  as  either[m
+       [1megrep[0m  or  [1mfgrep[0m  is  deprecated,  but  is provided to allow historical[m
+       applications that rely on them to run unmodified.[m
+[m
+[1mOPTIONS[0m[m
+   [1mGeneric[0m [1mProgram[0m [1mInformation[0m[m
+[7m Manual page grep(1) line 1 (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ man paste
+[?1049h[?1h=
+PASTE(1)                         User Commands                        PASTE(1)[m
+[m
+[1mNAME[0m[m
+       paste - merge lines of files[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mpaste[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       Write  lines  consisting  of  the sequentially corresponding lines from[m
+       each FILE, separated by TABs, to standard output.   With  no  FILE,  or[m
+       when FILE is -, read standard input.[m
+[m
+       Mandatory  arguments  to  long  options are mandatory for short options[m
+       too.[m
+[m
+       [1m-d[0m, [1m--delimiters[0m=[4mLIST[24m[m
+              reuse characters from LIST instead of TABs[m
+[m
+       [1m-s[0m, [1m--serial[0m[m
+              paste one file at a time instead of in parallel[m
+[m
+       [1m--help[0m display this help and exit[m
+[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 2 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1m--version[0m[m
+[7m Manual page paste(1) line 5 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              output version information and exit[m
+[7m Manual page paste(1) line 6 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 7 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mAUTHOR[0m[m
+[7m Manual page paste(1) line 8 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Written by David M. Ihnat and David MacKenzie.[m
+[7m Manual page paste(1) line 9 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 10 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mREPORTING[0m [1mBUGS[0m[m
+[7m Manual page paste(1) line 11 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Report paste bugs to bug-coreutils@gnu.org[m
+[7m Manual page paste(1) line 12 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       GNU coreutils home page: <http://www.gnu.org/software/coreutils/>[m
+[7m Manual page paste(1) line 13 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       General help using GNU software: <http://www.gnu.org/gethelp/>[m
+[7m Manual page paste(1) line 14 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Report paste translation bugs to <http://translationproject.org/team/>[m
+[7m Manual page paste(1) line 15 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 16 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mCOPYRIGHT[0m[m
+[7m Manual page paste(1) line 17 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Copyright © 2011 Free Software Foundation, Inc.   License  GPLv3+:  GNU[m
+[7m Manual page paste(1) line 18 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
+[7m Manual page paste(1) line 19 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       This  is  free  software:  you  are free to change and redistribute it.[m
+[7m Manual page paste(1) line 20 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page paste(1) line 21 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 22 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page paste(1) line 23 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       The full documentation for [1mpaste[0m is maintained as a Texinfo manual.  If[m
+[7m Manual page paste(1) line 24 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       the  [1minfo[0m  and  [1mpaste[0m programs are properly installed at your site, the[m
+[7m Manual page paste(1) line 25 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       command[m
+[7m Manual page paste(1) line 26 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 27 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              [1minfo[0m [1mcoreutils[0m [1m'paste[0m [1minvocation'[0m[m
+[7m Manual page paste(1) line 28 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 29 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       should give you access to the complete manual.[m
+[7m Manual page paste(1) line 30 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 31 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[KGNU coreutils 8.12.197-032bb    September 2011                        PASTE(1)[m
+[7m Manual page paste(1) line 32 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       Written by David M. Ihnat and David MacKenzie.[m
+[24;1H
+[K[7m Manual page paste(1) line 31/56 96% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mAUTHOR[0m[m
+[24;1H
+[K[7m Manual page paste(1) line 30/56 96% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[24;1H
+[K[7m Manual page paste(1) line 29/56 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              output version information and exit[m
+[24;1H
+[K[7m Manual page paste(1) line 28/56 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1m--version[0m[m
+[24;1H
+[K[7m Manual page paste(1) line 27/56 88% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[24;1H
+[K[7m Manual page paste(1) line 26/56 88% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1m--help[0m display this help and exit[m
+[24;1H
+[K[7m Manual page paste(1) line 25/56 88% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[24;1H
+[K[7m Manual page paste(1) line 24/56 83% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              paste one file at a time instead of in parallel[m
+[24;1H
+[K[7m Manual page paste(1) line 23/56 79% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1m-s[0m, [1m--serial[0m[m
+[24;1H
+[K[7m Manual page paste(1) line 22/56 78% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[24;1H
+[K[7m Manual page paste(1) line 21/56 77% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              reuse characters from LIST instead of TABs[m
+[24;1H
+[K[7m Manual page paste(1) line 20/56 75% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1m-d[0m, [1m--delimiters[0m=[4mLIST[24m[m
+[24;1H
+[K[7m Manual page paste(1) line 19/56 71% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[24;1H
+[K[7m Manual page paste(1) line 18/56 68% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       too.[m
+[24;1H
+[K[7m Manual page paste(1) line 17/56 64% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Copyright © 2011 Free Software Foundation, Inc.   License  GPLv3+:  GNU[m
+[7m Manual page paste(1) line 18/56 68% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
+[7m Manual page paste(1) line 19/56 71% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       This  is  free  software:  you  are free to change and redistribute it.[m
+[7m Manual page paste(1) line 20/56 75% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page paste(1) line 21/56 77% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 22/56 78% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page paste(1) line 23/56 79% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       The full documentation for [1mpaste[0m is maintained as a Texinfo manual.  If[m
+[7m Manual page paste(1) line 24/56 83% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       the  [1minfo[0m  and  [1mpaste[0m programs are properly installed at your site, the[m
+[7m Manual page paste(1) line 25/56 88% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       command[m
+[7m Manual page paste(1) line 26/56 88% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 27/56 88% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              [1minfo[0m [1mcoreutils[0m [1m'paste[0m [1minvocation'[0m[m
+[7m Manual page paste(1) line 28/56 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 29/56 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       should give you access to the complete manual.[m
+[7m Manual page paste(1) line 30/56 96% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 31/56 96% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[KGNU coreutils 8.12.197-032bb    September 2011                        PASTE(1)[m
+[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 32/56 (END) (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ man ifconfig
+[?1049h[?1h=
+IFCONFIG(8)                Linux Programmer's Manual               IFCONFIG(8)[m
+[m
+[1mNAME[0m[m
+       ifconfig - configure a network interface[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mifconfig[0m [1m[-v][0m [1m[-a][0m [1m[-s][0m [1m[interface][0m[m
+       [1mifconfig[0m [1m[-v][0m [1minterface[0m [1m[aftype][0m [1moptions[0m [1m|[0m [1maddress[0m [1m...[0m[m
+[m
+[1mDESCRIPTION[0m[m
+       [1mIfconfig[0m  is  used to configure the kernel-resident network interfaces.[m
+       It is used at boot time to set up interfaces as necessary.  After that,[m
+       it  is  usually  only  needed  when  debugging or when system tuning is[m
+       needed.[m
+[m
+       If no arguments are given, [1mifconfig[0m displays the  status  of  the  cur‐[m
+       rently  active interfaces.  If a single [1minterface[0m argument is given, it[m
+       displays the status of the given interface only; if a single  [1m-a[0m  argu‐[m
+       ment  is  given,  it  displays the status of all interfaces, even those[m
+       that are down.  Otherwise, it configures an interface.[m
+[m
+[1mAddress[0m [1mFamilies[0m[m
+       If the first argument after the interface name  is  recognized  as  the[m
+[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       name  of  a  supported  address family, that address family is used for[m
+[7m Manual page ifconfig(8) line 2 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       decoding and displaying all protocol  addresses.   Currently  supported[m
+[7m Manual page ifconfig(8) line 5 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       address  families  include  [1minet[0m  (TCP/IP, default), [1minet6[0m (IPv6), [1max25[0m[m
+[7m Manual page ifconfig(8) line 6 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       (AMPR Packet Radio), [1mddp[0m (Appletalk Phase  2),  [1mipx[0m  (Novell  IPX)  and[m
+[7m Manual page ifconfig(8) line 7 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mnetrom[0m (AMPR Packet radio).[m
+[7m Manual page ifconfig(8) line 8 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 9 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mOPTIONS[0m[m
+[7m Manual page ifconfig(8) line 10 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1m-a[0m     display  all  interfaces  which are currently available, even if[m
+[7m Manual page ifconfig(8) line 11 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              down[m
+[7m Manual page ifconfig(8) line 12 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 13 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1m-s[0m     display a short list (like netstat -i)[m
+[7m Manual page ifconfig(8) line 14 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 15 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1m-v[0m     be more verbose for some error conditions[m
+[7m Manual page ifconfig(8) line 16 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 17 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1minterface[0m[m
+[7m Manual page ifconfig(8) line 18 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              The name of the interface.  This is usually a driver  name  fol‐[m
+[7m Manual page ifconfig(8) line 19 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              lowed  by a unit number, for example [1meth0[0m for the first Ethernet[m
+[7m Manual page ifconfig(8) line 20 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              interface. If your kernel supports  alias  interfaces,  you  can[m
+[7m Manual page ifconfig(8) line 21 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              specify  them  with  [1meth0:0[0m for the first alias of eth0. You can[m
+[7m Manual page ifconfig(8) line 22 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              use them to assign a second address. To delete an  alias  inter‐[m
+[7m Manual page ifconfig(8) line 23 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              face use [1mifconfig[0m [1meth0:0[0m [1mdown[0m.  Note: for every scope (i.e. same[m
+[7m Manual page ifconfig(8) line 25 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              net with address/netmask combination) all aliases  are  deleted,[m
+[7m Manual page ifconfig(8) line 26 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              if you delete the first (primary).[m
+[7m Manual page ifconfig(8) line 27 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 28 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mup[0m     This  flag  causes the interface to be activated.  It is implic‐[m
+[7m Manual page ifconfig(8) line 29 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              itly specified if an address is assigned to the interface.[m
+[7m Manual page ifconfig(8) line 30 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 31 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mdown[0m   This flag causes the driver for this interface to be shut down.[m
+[7m Manual page ifconfig(8) line 32 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 33 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1m[-]arp[0m Enable or disable the use of the ARP protocol on this interface.[m
+[7m Manual page ifconfig(8) line 34 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 35 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1m[-]promisc[0m[m
+[7m Manual page ifconfig(8) line 36 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Enable or disable the [1mpromiscuous[0m mode  of  the  interface.   If[m
+[7m Manual page ifconfig(8) line 37 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              selected,  all  packets  on  the network will be received by the[m
+[7m Manual page ifconfig(8) line 38 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              interface.[m
+[7m Manual page ifconfig(8) line 39 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 40 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1m[-]allmulti[0m[m
+[7m Manual page ifconfig(8) line 41 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Enable or disable [1mall-multicast[0m mode.  If selected,  all  multi‐[m
+[7m Manual page ifconfig(8) line 42 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              cast packets on the network will be received by the interface.[m
+[7m Manual page ifconfig(8) line 43 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 44 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mmetric[0m [1mN[0m[m
+[7m Manual page ifconfig(8) line 45 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              This parameter sets the interface metric.[m
+[7m Manual page ifconfig(8) line 46 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 47 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mmtu[0m [1mN[0m  This parameter sets the Maximum Transfer Unit (MTU) of an inter‐[m
+[7m Manual page ifconfig(8) line 48 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              face.[m
+[7m Manual page ifconfig(8) line 49 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 50 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mdstaddr[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 51 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Set the remote IP address for a  point-to-point  link  (such  as[m
+[7m Manual page ifconfig(8) line 52 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              PPP).  This keyword is now obsolete; use the [1mpointopoint[0m keyword[m
+[7m Manual page ifconfig(8) line 53 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              instead.[m
+[7m Manual page ifconfig(8) line 54 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 55 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mnetmask[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 56 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Set the IP network mask for this interface.  This value defaults[m
+[7m Manual page ifconfig(8) line 57 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              to  the  usual class A, B or C network mask (as derived from the[m
+[7m Manual page ifconfig(8) line 58 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              interface IP address), but it can be set to any value.[m
+[7m Manual page ifconfig(8) line 59 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 60 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1madd[0m [1maddr/prefixlen[0m[m
+[7m Manual page ifconfig(8) line 61 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Add an IPv6 address to an interface.[m
+[7m Manual page ifconfig(8) line 62 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 63 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mdel[0m [1maddr/prefixlen[0m[m
+[7m Manual page ifconfig(8) line 64 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Remove an IPv6 address from an interface.[m
+[7m Manual page ifconfig(8) line 65 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 66 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mtunnel[0m [1maa.bb.cc.dd[0m[m
+[7m Manual page ifconfig(8) line 67 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Create a new SIT (IPv6-in-IPv4) device, tunnelling to the  given[m
+[7m Manual page ifconfig(8) line 68 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              destination.[m
+[7m Manual page ifconfig(8) line 69 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 70 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mirq[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 71 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Set the interrupt line used by this device.  Not all devices can[m
+[7m Manual page ifconfig(8) line 72 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              dynamically change their IRQ setting.[m
+[7m Manual page ifconfig(8) line 73 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 74 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mio_addr[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 75 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Set the start address in I/O space for this device.[m
+[7m Manual page ifconfig(8) line 76 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 77 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mmem_start[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 78 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Set the start address for shared memory  used  by  this  device.[m
+[7m Manual page ifconfig(8) line 79 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Only a few devices need this.[m
+[7m Manual page ifconfig(8) line 80 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 81 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mmedia[0m [1mtype[0m[m
+[7m Manual page ifconfig(8) line 82 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Set  the  physical port or medium type to be used by the device.[m
+[7m Manual page ifconfig(8) line 83 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Not all devices can change this setting, and those that can vary[m
+[7m Manual page ifconfig(8) line 84 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              in  what  values  they  support.   Typical  values  for [1mtype[0m are[m
+[7m Manual page ifconfig(8) line 85 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              [1m10base2[0m (thin Ethernet), [1m10baseT[0m (twisted-pair 10Mbps Ethernet),[m
+[7m Manual page ifconfig(8) line 86 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              [1mAUI[0m  (external  transceiver) and so on.  The special medium type[m
+[7m Manual page ifconfig(8) line 87 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              of [1mauto[0m can be used to tell the driver to auto-sense the  media.[m
+[7m Manual page ifconfig(8) line 88 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Again, not all drivers can do this.[m
+[7m Manual page ifconfig(8) line 89 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 90 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1m[-]broadcast[0m [1m[addr][0m[m
+[7m Manual page ifconfig(8) line 91 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              If  the  address  argument  is given, set the protocol broadcast[m
+[7m Manual page ifconfig(8) line 92 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              address for this  interface.   Otherwise,  set  (or  clear)  the[m
+[7m Manual page ifconfig(8) line 93 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              [1mIFF_BROADCAST[0m flag for the interface.[m
+[7m Manual page ifconfig(8) line 94 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 95 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1m[-]pointopoint[0m [1m[addr][0m[m
+[7m Manual page ifconfig(8) line 96 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              This  keyword  enables  the [1mpoint-to-point[0m mode of an interface,[m
+[7m Manual page ifconfig(8) line 97 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              meaning that it is a  direct  link  between  two  machines  with[m
+[7m Manual page ifconfig(8) line 98 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              nobody else listening on it.[m
+[7m Manual page ifconfig(8) line 99 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              If  the address argument is also given, set the protocol address[m
+[7m Manual page ifconfig(8) line 100 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              of the other side of the link, just like  the  obsolete  [1mdstaddr[0m[m
+[7m Manual page ifconfig(8) line 101 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              keyword  does.  Otherwise, set or clear the [1mIFF_POINTOPOINT[0m flag[m
+[7m Manual page ifconfig(8) line 102 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              for the interface.[m
+[7m Manual page ifconfig(8) line 103 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 104 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mhw[0m [1mclass[0m [1maddress[0m[m
+[7m Manual page ifconfig(8) line 105 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Set the hardware address of this interface, if the device driver[m
+[7m Manual page ifconfig(8) line 106 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              supports  this  operation.   The keyword must be followed by the[m
+[7m Manual page ifconfig(8) line 107 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              name of the hardware class and the printable ASCII equivalent of[m
+[7m Manual page ifconfig(8) line 108 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              the  hardware  address.   Hardware  classes  currently supported[m
+[7m Manual page ifconfig(8) line 109 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              include [1mether[0m (Ethernet), [1max25[0m (AMPR AX.25), [1mARCnet[0m  and  [1mnetrom[0m[m
+[7m Manual page ifconfig(8) line 110 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              (AMPR NET/ROM).[m
+[7m Manual page ifconfig(8) line 111 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 112 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mmulticast[0m[m
+[7m Manual page ifconfig(8) line 113 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Set  the  multicast  flag on the interface. This should not nor‐[m
+[7m Manual page ifconfig(8) line 114 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              mally be needed as the drivers  set  the  flag  correctly  them‐[m
+[7m Manual page ifconfig(8) line 115 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              selves.[m
+[7m Manual page ifconfig(8) line 116 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 117 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1maddress[0m[m
+[7m Manual page ifconfig(8) line 118 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              The IP address to be assigned to this interface.[m
+[7m Manual page ifconfig(8) line 119 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 120 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [1mtxqueuelen[0m [1mlength[0m[m
+[7m Manual page ifconfig(8) line 121 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Set the length of the transmit queue of the device. It is useful[m
+[7m Manual page ifconfig(8) line 122 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              to set this to small values  for  slower  devices  with  a  high[m
+[7m Manual page ifconfig(8) line 123 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              latency  (modem links, ISDN) to prevent fast bulk transfers from[m
+[7m Manual page ifconfig(8) line 124 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              disturbing interactive traffic like telnet too much.[m
+[7m Manual page ifconfig(8) line 125 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 126 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mNOTES[0m[m
+[7m Manual page ifconfig(8) line 127 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Since kernel release 2.2 there are no explicit interface statistics for[m
+[7m Manual page ifconfig(8) line 128 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       alias  interfaces  anymore.  The  statistics  printed  for the original[m
+[7m Manual page ifconfig(8) line 129 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       address are shared with all alias addresses on the same device. If  you[m
+[7m Manual page ifconfig(8) line 130 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       want  per-address  statistics  you should add explicit accounting rules[m
+[7m Manual page ifconfig(8) line 131 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       for the address using the [1mipchains[0m(8) or [1miptables[0m(8) command.[m
+[7m Manual page ifconfig(8) line 132 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 133 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Interrupt problems with Ethernet device drivers fail with EAGAIN [4m(SIOC‐[24m[m
+[7m Manual page ifconfig(8) line 134 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [4mSIIFLAGS:[24m  [4mResource[24m [4mtemporarily[24m [4munavailable)[24m it is most likely a inter‐[m
+[7m Manual page ifconfig(8) line 135 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       rupt conflict.  See  [4mhttp://www.scyld.com/expert/irq-conflict.html[24m  for[m
+[7m Manual page ifconfig(8) line 136 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       more information.[m
+[7m Manual page ifconfig(8) line 137 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 138 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mFILES[0m[m
+[7m Manual page ifconfig(8) line 139 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [4m/proc/net/socket[24m[m
+[7m Manual page ifconfig(8) line 140 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [4m/proc/net/dev[24m[m
+[7m Manual page ifconfig(8) line 141 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       [4m/proc/net/if_inet6[24m[m
+[7m Manual page ifconfig(8) line 142 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 143 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mBUGS[0m[m
+[7m Manual page ifconfig(8) line 144 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       While  appletalk DDP and IPX addresses will be displayed they cannot be[m
+[7m Manual page ifconfig(8) line 145 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       altered by this command.[m
+[7m Manual page ifconfig(8) line 146 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 147 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page ifconfig(8) line 148 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       route(8),  netstat(8),  arp(8),  rarp(8),   ipchains(8),   iptables(8),[m
+[7m Manual page ifconfig(8) line 149 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       ifup(8), interfaces(5).[m
+[7m Manual page ifconfig(8) line 150 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       http://physics.nist.gov/cuu/Units/binary.html  -  Prefixes  for  binary[m
+[7m Manual page ifconfig(8) line 151 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       multiples[m
+[7m Manual page ifconfig(8) line 152 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 153 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mAUTHORS[0m[m
+[7m Manual page ifconfig(8) line 154 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Fred N. van Kempen, <waltje@uwalt.nl.mugnet.org>[m
+[7m Manual page ifconfig(8) line 155 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Alan Cox, <Alan.Cox@linux.org>[m
+[7m Manual page ifconfig(8) line 156 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Phil Blundell, <Philip.Blundell@pobox.com>[m
+[7m Manual page ifconfig(8) line 157 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Andi Kleen[m
+[7m Manual page ifconfig(8) line 158 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Bernd Eckenfels, <net-tools@lina.inka.de>[m
+[7m Manual page ifconfig(8) line 159 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 160 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[Knet-tools                         2007-12-02                       IFCONFIG(8)[m
+[7m Manual page ifconfig(8) line 161 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 160/185 99% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       more information.[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 159/185 99% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       rupt conflict.  See  [4mhttp://www.scyld.com/expert/irq-conflict.html[24m  for[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 158/185 99% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [4mSIIFLAGS:[24m  [4mResource[24m [4mtemporarily[24m [4munavailable)[24m it is most likely a inter‐[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 157/185 98% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       Interrupt problems with Ethernet device drivers fail with EAGAIN [4m(SIOC‐[24m[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 156/185 98% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 155/185 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       for the address using the [1mipchains[0m(8) or [1miptables[0m(8) command.[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 154/185 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       want  per-address  statistics  you should add explicit accounting rules[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 153/185 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       address are shared with all alias addresses on the same device. If  you[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 152/185 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       alias  interfaces  anymore.  The  statistics  printed  for the original[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 151/185 96% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       Since kernel release 2.2 there are no explicit interface statistics for[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 150/185 96% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mNOTES[0m[m
+[24;1H
+[K[7m Manual page ifconfig(8) line 149/185 95% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       ifup(8), interfaces(5).[m
+[7m Manual page ifconfig(8) line 150/185 96% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       http://physics.nist.gov/cuu/Units/binary.html  -  Prefixes  for  binary[m
+[7m Manual page ifconfig(8) line 151/185 96% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       multiples[m
+[7m Manual page ifconfig(8) line 152/185 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 153/185 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mAUTHORS[0m[m
+[7m Manual page ifconfig(8) line 154/185 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Fred N. van Kempen, <waltje@uwalt.nl.mugnet.org>[m
+[7m Manual page ifconfig(8) line 155/185 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Alan Cox, <Alan.Cox@linux.org>[m
+[7m Manual page ifconfig(8) line 156/185 98% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Phil Blundell, <Philip.Blundell@pobox.com>[m
+[7m Manual page ifconfig(8) line 157/185 98% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Andi Kleen[m
+[7m Manual page ifconfig(8) line 158/185 99% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Bernd Eckenfels, <net-tools@lina.inka.de>[m
+[7m Manual page ifconfig(8) line 159/185 99% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page ifconfig(8) line 160/185 99% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[Knet-tools                         2007-12-02                       IFCONFIG(8)[m
+[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page ifconfig(8) line 161/185 (END) (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ man process
+No manual entry for process
+]0;s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower: ~/cs232s4c2@lab2-HP-Compaq-dc7900-Convertible-Minitower:~/cs232$ exit
+exit
+
+Script done on Monday 27 January 2020 10:25:53 AM IST

@@ -1,0 +1,234 @@
+CEC CS 18 c53
+SAURAV K J
+
+--------------------------------
+#1: Aim/task
+---------------------------------
+To copy the terminal input and output to a text file
+
+---------------------------------
+
+Input:scipt work.txt
+---------------
+
+--------------------------------
+Output:Script started, file is work.txt
+
+
+
+-------------------------------------
+
+
+-------------------------------------
+-------------------------------------
+#2: Aim/task
+---------------------------------
+To list all files
+
+---------------------------------
+
+Input:ls
+---------------
+
+--------------------------------
+Output:
+abc.txt  report.txt  report.txt~  work.txt
+
+
+-------------------
+
+#3: Aim/task
+---------------------------------
+To list all files
+
+---------------------------------
+
+Input:ls-l
+---------------
+
+--------------------------------
+Output:
+total 12
+-rw-rw-r-- 1 s4c2 s4c2  15 Jan 27 10:00 abc.txt
+-rw-rw-r-- 1 s4c2 s4c2 633 Jan 27 10:15 report.txt
+-rw-rw-r-- 1 s4c2 s4c2 633 Jan 27 10:14 report.txt~
+-rw-rw-r-- 1 s4c2 s4c2   0 Jan 27 10:15 work.txt
+
+
+-------------------
+
+#4:Aim/task
+---------------------------------
+
+
+---------------------------------
+
+Input:ll abc.txt
+---------------
+
+--------------------------------
+Output:-rw-rw-r-- 1 s4c2 s4c2 15 Jan 27 10:00 abc.txt
+
+
+
+-------------------
+
+#5:Aim/task
+---------------------------------
+To add text to a file
+
+---------------------------------
+
+Input:cat>abc.txt
+hi hello world
+---------------
+
+--------------------------------
+Output:
+
+
+
+-------------------
+
+#6:Aim/task
+---------------------------------
+Display contents of text file
+-------------------------------
+
+Input:cat abc.txt
+---------------
+
+--------------------------------
+Output:hi hello world
+
+
+
+-------------------
+#7:Aim/task
+---------------------------------
+To know commands of sort
+-------------------------------
+
+Input:man sort
+---------------
+
+--------------------------------
+Output:NAME
+       sort - sort lines of text files
+
+SYNOPSIS
+       sort [OPTION]... [FILE]...
+       sort [OPTION]... --files0-from=F
+
+DESCRIPTION
+       Write sorted concatenation of all FILE(s) to standard output.
+
+       Mandatory arguments to long options are mandatory for short options too.  Ordering options:
+
+       -b, --ignore-leading-blanks
+              ignore leading blanks
+
+       -d, --dictionary-order
+              consider only blanks and alphanumeric characters
+
+       -f, --ignore-case
+              fold lower case to upper case characters
+       -g, --general-numeric-sort
+              compare according to general numerical value
+
+       -i, --ignore-nonprinting
+              consider only printable characters
+
+       -M, --month-sort
+              compare (unknown) < `JAN' < ... < `DEC'
+
+       -h, --human-numeric-sort
+              compare human readable numbers (e.g., 2K 1G)
+
+       -n, --numeric-sort
+              compare according to string numerical value
+
+       -R, --random-sort
+              sort by random hash of keys
+
+
+q
+
+
+-------------------
+#6:Aim/task
+---------------------------------
+To display all commands of ifconfig
+-------------------------------
+
+Input:man ifconfig
+---------------
+
+--------------------------------
+Output:NAME
+       ifconfig - configure a network interface
+
+SYNOPSIS
+       ifconfig [-v] [-a] [-s] [interface]
+       ifconfig [-v] interface [aftype] options | address ...
+
+DESCRIPTION
+       Ifconfig is used to configure the kernel-resident network interfaces.  It is used at boot time
+       to set up interfaces as necessary.  After that, it is usually only needed  when  debugging  or
+       when system tuning is needed.
+
+       If  no  arguments  are given, ifconfig displays the status of the currently active interfaces.
+       If a single interface argument is given, it displays the status of the given  interface  only;
+       if  a  single  -a argument is given, it displays the status of all interfaces, even those that
+       are down.  Otherwise, it configures an interface.
+
+Address Families
+       If the first argument after the interface name is  recognized  as  the  name  of  a  supported
+       address  family,  that  address  family  is  used  for  decoding  and  displaying all protocol
+       addresses.  Currently supported address families include inet (TCP/IP, default), inet6 (IPv6),
+OPTIONS
+       -a     display all interfaces which are currently available, even if down
+
+       -s     display a short list (like netstat -i)
+
+       -v     be more verbose for some error conditions
+
+       interface
+              The name of the interface.  This is usually a driver name followed by  a  unit  number,
+              for example eth0 for the first Ethernet interface. If your kernel supports alias inter‐
+              faces, you can specify them with eth0:0 for the first alias of eth0. You can  use  them
+              to  assign  a  second  address.  To delete an alias interface use ifconfig eth0:0 down.
+              Note: for every scope (i.e. same net with address/netmask combination) all aliases  are
+              deleted, if you delete the first (primary).
+
+       up     This  flag  causes  the  interface  to  be activated.  It is implicitly specified if an
+              address is assigned to the interface.
+
+       down   This flag causes the driver for this interface to be shut down.
+
+       [-]arp Enable or disable the use of the ARP protocol on this interface.
+        [-]arp Enable or disable the use of the ARP protocol on this interface.
+
+       [-]promisc
+              Enable or disable the promiscuous mode of the interface.  If selected, all  packets  on
+              the network will be received by the interface.
+
+       [-]allmulti
+              Enable  or  disable all-multicast mode.  If selected, all multicast packets on the net‐
+              work will be received by the interface.
+
+       metric N
+              This parameter sets the interface metric.
+
+       mtu N  This parameter sets the Maximum Transfer Unit (MTU) of an interface.
+
+       dstaddr addr
+              Set the remote IP address for a point-to-point link (such as PPP).  This keyword is now
+              obsolete; use the pointopoint keyword instead.
+
+q   
+
+
+--------------------------------------------------------------------
+
+

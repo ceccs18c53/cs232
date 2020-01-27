@@ -1,0 +1,55 @@
+CEC CS 18 xxx
+John Jafer Janaky
+
+--------------------------------
+#1: Aim/task
+---------------------------------
+Convert downloaded pdf to a text file
+
+---------------------------------
+
+Input: pdftotext -layout result_CHN.pdf result.txt
+---------------
+
+--------------------------------
+Output:
+
+-------------------
+Remarks if any:Converted pdf to text file.
+
+
+--------------------------------
+#2: Aim/task
+---------------------------------
+Get result of CS batch to a new file
+
+---------------------------------
+
+Input: grep 'CHN18CS' result.txt> a.txt
+---------------
+
+--------------------------------
+Output:
+
+-------------------
+Remarks if any:Results of CS students in a.txt
+
+--------------------------------
+#3: Aim/task
+---------------------------------
+To get the list of students who passed all subjects to a new file
+
+---------------------------------
+
+Input: grep -v '(F)' a.txt> b.txt
+---------------
+
+--------------------------------
+Output:
+
+-------------------
+Remarks if any:b.txt contains CS students who passed all the subjects
+
+
+
+
