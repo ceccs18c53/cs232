@@ -1,0 +1,41 @@
+Script started on 2020-02-03 10:33:30+0530
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$ ll>ab.txt
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$ ls
+[0m[01;34m0302[0m  ab.txt  work.txt
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$ cat>ab.txt
+hi hello wol rld
+cs232
+s4c53
+foss lab
+cs232-ceccs
+^C
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$ cat ab.txt
+hi hello world
+cs232
+s4c53
+foss lab
+cs232-ceccs
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$ grep 'cs232' ab.txt>cd.txt
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$ cat cd.txt
+cs232
+cs232-ceccs
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$ cat cd.txtgrep 'cs232' ab.txt>cd.txt[C[1@ [1@-[1@v[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[Kfg.txt
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$ cat fg.txt
+hi hello world
+s4c53
+foss lab
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$ sort ab.txt
+cs232
+cs232-ceccs
+foss lab
+hi hello world
+s4c53
+]0;dell@Dell: ~/s4c53[01;32mdell@Dell[00m:[01;34m~/s4c53[00m$
+dell@Dell:~$ ps
+  PID TTY          TIME CMD
+ 2964 pts/0    00:00:00 bash
+ 2972 pts/0    00:00:00 ps
+ exit
+exit
+
+Script done on 2020-02-03 10:36:41+0530

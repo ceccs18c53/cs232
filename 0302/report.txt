@@ -1,0 +1,213 @@
+CEC CS 18 C53
+SAURAV KJ
+
+--------------------------------
+#1: Aim/task
+---------------------------------
+To make directory
+
+---------------------------------
+
+Input: mkdir s4c53
+---------------
+
+--------------------------------
+Output: 
+
+-------------------
+Remarks if any:Directory s4c53 created
+
+
+--------------------------------
+#2: Aim/task
+---------------------------
+To go to a directory
+---------------------------------
+
+Input: cd s4c53
+---------------
+
+--------------------------------
+Output: or Input & Output (whichever is applicable)
+
+
+-------------------
+Remarks if any:
+
+--------------------------------
+#3: Aim/task
+----------------------------
+
+---------------------------------
+
+Input: script work.txt
+---------------
+
+--------------------------------
+Output:Script started, file is work.txt
+
+
+
+-------------------
+Remarks if any:
+
+
+
+
+
+-------------------------------------
+-------------------------------------
+#4: Aim/task
+---------------------------------
+To create a file
+
+---------------------------------
+
+Input:ll>ab.txt
+---------------
+
+--------------------------------
+Output: or Input & Output (whichever is applicable)
+
+
+-------------------
+Remarks if any:
+--------------------------------
+#5: Aim/task
+---------------------------------
+To list all files in directory
+
+---------------------------------
+
+Input:ls
+---------------
+
+--------------------------------
+Output: ab.txt report.txt
+
+-------------------
+Remarks if any:
+
+#6: Aim/task
+---------------------------------
+To write to a file
+
+---------------------------------
+
+Input:cat>ab.txt
+---------------
+
+--------------------------------
+Output: hi hello world
+cs232
+s4c53
+foss lab
+cs232-ceccs
+
+
+-------------------
+Remarks if any:
+
+
+#7: Aim/task
+---------------------------------
+To display contents of a file
+
+---------------------------------
+
+Input:cat ab.txt
+---------------
+
+--------------------------------
+Output: hi hello world
+cs232
+s4c53
+foss lab
+cs232-ceccs
+
+
+-------------------
+Remarks if any:
+
+#8: Aim/task
+---------------------------------
+To sort out  a line which contains that character or word in a file to another file
+
+---------------------------------
+
+Input: grep 'cs232' ab.txt>cd.txt
+
+---------------
+
+--------------------------------
+Output: or Input & Output (whichever is applicable)
+
+
+-------------------
+Remarks if any:
+
+#8: Aim/task
+--------------------------------
+To do inverse of grep
+
+---------------------------------
+
+Input: grep -v 'cs232' a.txt>fg.txt
+
+---------------
+
+--------------------------------
+Output: or Input & Output (whichever is applicable)
+
+
+-------------------
+Remarks if any:
+
+#9: Aim/task
+--------------------------------
+To sort
+
+---------------------------------
+
+Input: sort ab.txt
+---------------
+
+--------------------------------
+Output: cs232
+cs232-ceccs
+foss lab
+hi hello world
+s4c53
+
+
+
+-------------------
+Remarks if any:
+
+#10: Aim/task
+--------------------------------
+
+
+---------------------------------
+
+Input: ps
+---------------
+
+--------------------------------
+Output: 
+ PID TTY          TIME CMD
+ 2964 pts/0    00:00:00 bash
+ 2972 pts/0    00:00:00 ps
+
+
+
+-------------------
+Remarks if any:
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+Script started on 2020-02-03 11:22:49+0530
+]0;dell@Dell: ~[01;32mdell@Dell[00m:[01;34m~[00m$ sudo ifconfig apt-get install net-tools[C[C[C[C[C[C[C[C[C[C[C[C[C[1@sudo ap[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cifconfig[Ksudo apt install net-tools[C[C[C[C[C[C[C[C[C[C[C[C[Cifconfig[Ksftp cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> cd 0302
+sftp> ls
+ab.txt       cd.txt       fg.txt       report.txt   work.txt     
+sftp> put work2.tx[K[K[K[K[K[K[K[Kwo[K[Kwork.txt
+Uploading work.txt to /home/cs18c53/0302/work.txt
+work.txt                                        0%    0     0.0KB/s   --:-- ETAwork.txt                                      100% 1402   623.7KB/s   00:00    
+sftp> get cd.txt
+Fetching /home/cs18c53/0302/cd.txt to cd.txt
+/home/cs18c53/0302/cd.txt                       0%    0     0.0KB/s   --:-- ETA/home/cs18c53/0302/cd.txt                     100%   18     6.0KB/s   00:00    
+sftp> exit[K[K[K[Kquir[Kt
+]0;dell@Dell: ~[01;32mdell@Dell[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-02-03 11:30:33+0530
