@@ -1,0 +1,570 @@
+Script started on Friday 07 February 2020 09:17:56 PM IST
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod +X code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.sh
+bash: ./code.sh: Permission denied
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod +X code.sh[3Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x mc.sh[1P.sh[1P.shc.sho.shd.she.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+grep: result.txt: No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+grep: unrecognized option '--no-group-seperatorCHN18CS'
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+grep: unrecognized option '--no-group-seperator'
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+grep: unrecognized option '--no-group-seperator'
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+grep: unrecognized option '--no-group-seperator'
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shgedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ sssh[K[Kh cecsc18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cecsc18c53@192.168.0.30's password: 
+
+[1]+  Stopped                 ssh cecsc18c53@192.168.0.30
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ssh cecsc18c53@192.168.0.30[14Pgedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.shssh cecsc18c53@192.168.0.30[14Pgedit code.sh[4P./code.shgedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[Cssh cecsc18c53@192.168.0.30[14Pgedit code.sh[4P./code.sh
+./code.sh: line 27: $'awk{\n$1,$3,$5,$7,$9,$11,&13,$15,$17,$19}result.txt': command not found
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+awk: line 2: syntax error at or near ,
+awk: 2: unexpected character '.'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[8P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4@chmod u+x[C[C[C[C[C[C[C[C[8P./code.sh
+tr: when not truncating set1, string2 must be non-empty
+tr: when not truncating set1, string2 must be non-empty
+awk: line 2: syntax error at or near ,
+awk: 2: unexpected character '.'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+awk: line 2: syntax error at or near ,
+awk: 2: unexpected character '.'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[8P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4@chmod u+x[C[C[C[C[C[C[C[C[8P./code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpdftotext -layout result.txt[C[C[C[C[C result.txtr result.txte result.txts result.txtu result.txtl result.txtt result.txt_ result.txtC result.txtH result.txtN result.txt. result.txtp result.txtd result.txtf result.txt[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[Kresult.txt
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ pdftotext -layout result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgedit code.sh[K
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.shpdftotext -layout result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgedit code.sh[K[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[Cpdftotext -layout result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgedit code.sh[K[4P./code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[Cpdftotext -layout result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgedit code.sh[K
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: can't read cs6.trt: No such file or directory
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+^Z
+[2]+  Stopped                 gedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+[2]+  Killed                  gedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shgedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shgedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: can't read cs6.tx: No such file or directory
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[8P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[8P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+awk: 2: unexpected character '&'
+./code.sh: line 61: awk{
+sum=0
+fl=0
+flag=0
+var=2
+
+while($var<=NF)
+ {
+   if($var==0)
+     { 
+       flag=1
+       fl=fl+1
+      }
+   else
+    {
+       sum=sum+$var
+     
+    }
+ $var++
+
+}
+cgpa=sum/9
+   
+if(flag=0)
+ {
+  print(CGPA:%0.2f,&cgpa)
+ }
+else
+ {
+   print(%d,&fl)
+ }
+
+}: No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[K[K[K
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code[1P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[K
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[K.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[K.sh[K[1P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[K.sh[K[1P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+awk: 2: unexpected character '&'
+awk: 2: unexpected character '.'
+./code.sh: line 61: awk{
+sum=0
+fl=0
+flag=0
+var=2
+
+while($var<=NF)
+ {
+   if($var==0)
+     { 
+       flag=1
+       fl=fl+1
+      }
+   else
+    {
+       sum=sum+$var
+     
+    }
+ $var++
+
+}
+cgpa=sum/9
+   
+if(flag=0)
+ {
+  print(CGPA:%0.2f,&cgpa)
+ }
+else
+ {
+   print(%d,&fl)
+ }
+
+}: No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh[8P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+awk: 2: unexpected character '.'
+./code.sh: line 61: awk{
+sum=0
+fl=0
+flag=0
+var=2
+
+while($var<=NF)
+ {
+   if($var==0)
+     { 
+       flag=1
+       fl=fl+1
+      }
+   else
+    {
+       sum=sum+$var
+     
+    }
+ $var++
+
+}
+cgpa=sum/9
+   
+if(flag=0)
+ {
+  print(CGPA:%0.2f,&cgpa)
+ }
+else
+ {
+   print(%d,&fl)
+ }
+
+}: No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shgedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shgedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shgedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+awk: 1: unexpected character '.'
+./code.sh: line 61: awk{
+sum=0
+fl=0
+flag=0
+var=2
+
+while($var<=NF)
+ {
+   
+if($var==0)
+     { 
+       flag=1
+       fl=fl+1
+      }
+else
+    {
+       sum=sum+$var
+     
+    }
+$var++
+
+}
+cgpa=sum/9
+   
+if(flag=0)
+ {
+  printf("CGPA:%0.2f",&cgpa)
+ }
+else
+ {
+   printf("%d",&fl)
+ }
+
+}: No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+awk: 27: unexpected character '&'
+awk: 31: unexpected character '&'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4@chmod u+x[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4@chmod u+x[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.shgedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+awk: line 12: syntax error at or near else
+awk: line 29: missing } near end of file
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[8P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C[8P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4@chmod u+x[C[C[C[C[C[C[C[C[4Pgedit[C[C[C[C[C[C[C[C[4@chmod u+x[C[C[C[C[C[C[C[C[8P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+awk: line 12: syntax error at or near else
+awk: line 29: missing } near end of file
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit students.txt
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit students.txt[5Pcode.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.shstudents.txt[5Pcode.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.shstudents.txt[5Pcode.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[Cstudents.txt[5Pcode.sh[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shgedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ gedit code.sh[4P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[Cstudents.txt[5Pcode.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ cd s1(copy)
+bash: syntax error near unexpected token `('
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ cd s1a
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ cd s1a(copy)gedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ chmod u+x code.shd s1a[K(copy)gedit code.sh[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ chmod u+x code.sh[8P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ chmod u+x code.sh[8P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ exit
+exit
+There are stopped jobs.
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ce[Klear
+[3;J[H[2J]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ script work.txt
+Script started, file is work.txt
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ gedt code.sh
+No command 'gedt' found, did you mean:
+ Command 'gedit' from package 'gedit' (main)
+gedt: command not found
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ gedit code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ gedit code.sh[1P[C[C[C[C[C[C[C[C[C
+No command 'gedt' found, did you mean:
+ Command 'gedit' from package 'gedit' (main)
+gedt: command not found
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ gedt code.sh[1@i[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[1@i[C[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ gedit code.sh[1P[C[C[C[C[C[C[C[C[C[1@i[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[Cscript work.txt[8Pcd 0702cs232eccs18c25exit[Ksftp cs18c25@192.168.0.30[9Pgedit report.txtsftp cs18c25@192.168.0.30[9Pgedit report.txt[1Pscript work.txt[8Pcd 0702[3@mkdir[C[C[C[C[C[2Pcd cs232eccs18c25exit[Kcho "nameserver 1.1.1.1" >>resolv.conf[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kchmod u=[K+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ chmod u+x code.sh[8P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ chmod u+x code.sh[8P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ./code.shchmod u+x code.sh[8P./code.shchmod u+x code.sh[8P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ./code.shchmod u+x code.sh[8P./code.shchmod u+x code.sh[8P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C
+No command 'gedt' found, did you mean:
+ Command 'gedit' from package 'gedit' (main)
+gedt: command not found
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ gedt code.sh[3P./code.shchmod u+x code.sh[8P./code.shchmod u+x code.sh[8P./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ gedit code.sh[1P[C[C[C[C[C[C[C[C[C[3P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ gedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C[4Pgedit[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[3P./code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ./code.shgedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ gedit code.sh[4P./code.shgedit code.sh[4P./code.shgedit code.sh[4@chmod u+x[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ chmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C[4P./code.sh
+CHN18CS002 ABHIITHP  Failed in 4
+CHN18CS003 ABIN BINU SAM  CGPA:8.22
+CHN18CS005 ADHIL SHAHANAD K K  CGPA:6.94
+CHN18CS006 ADWAITH SIVAN  Failed in 3
+CHN18CS007 Aju George Jacob  CGPA:7.44
+CHN18CS008 AKHIL RAVINDRAN  CGPA:6.83
+CHN18CS012 ALKA ANNA SABU  CGPA:6.11
+CHN18CS015 Amal Ramachandran  Failed in 4
+CHN18CS018 ANJANA S  CGPA:8.22
+CHN18CS023 ARAVIND R  CGPA:6.78
+CHN18CS024 ARJUN A  Failed in 3
+CHN18CS025 ARJUN G KRISHNA  CGPA:7.00
+CHN18CS028 ASHIK DAVID ABRAHAM  Failed in 2
+CHN18CS029 Ashna A  CGPA:8.06
+CHN18CS035 DEEPA MARIAM GEORGE  CGPA:8.06
+CHN18CS037 DEVIKA J  CGPA:7.33
+CHN18CS039 Emmanuel Shine Joseph  CGPA:7.06
+CHN18CS043 GEORGE MANI  CGPA:6.94
+CHN18CS046 GOPIKA PRADEEP  Failed in 2
+CHN18CS047 GOPIKA SURESH  Failed in 1
+CHN18CS048 GOPUDAS KM  Failed in 4
+CHN18CS049 GOVIND KARTHA  CGPA:7.44
+CHN18CS051 HABEL JAMES GEORGE  Failed in 2
+CHN18CS052 HARI S R  Failed in 5
+CHN18CS053 HELEENA ANNA VARGHESE  CGPA:6.83
+CHN18CS055 lrene Maria Zachariah  Failed in 1
+CHN18CS056 JALENA MATHEW  CGPA:7.28
+CHN18CS057 JEENU CHACKO  CGPA:6.94
+CHN18CS060 Jessal John Mammen  Failed in 1
+CHN18CS061 Jesswin W Varghese  Failed in 2
+CHN18CS063 Jibin Joseph  CGPA:7.33
+CHN18CS064 JISA SURENDRAN  Failed in 1
+CHN18CS068 Jonathan John Varghese  CGPA:6.72
+CHN18CS069 JOSHENA JOSEPH  CGPA:7.11
+CHN18CS071 JUSTIN JOSEPH  Failed in 3
+CHN18CS073 KAVYA M  CGPA:7.72
+CHN18CS076 KIRAN U  Failed in 1
+CHN18CS079 Manu Mathew  CGPA:6.78
+CHN18CS080 MARGRET JAISON  CGPA:8.22
+CHN18CS082 Muhammad Jalal  CGPA:6.78
+CHN18CS083 MUNISH KUMAR  Failed in 4
+CHN18CS084 NAJEEB  CGPA:6.67
+CHN18CS090 NIMMY GEORGE  Failed in 5
+CHN18CS092 NIVEA GIGEN  CGPA:7.72
+CHN18CS093 Nivya Maria Mathew  CGPA:8.50
+CHN18CS095 PARVATHY KRISHNAN  CGPA:8.00
+CHN18CS096 PARVATHY SANTHOSH  CGPA:6.89
+CHN18CS097 Prayank P Nair  CGPA:6.94
+CHN18CS100 Remya C  CGPA:7.72
+CHN18CS101 REMYA RAVEEDRANATHAN CGPA:6.83
+CHN18CS103 RINU ELISABATH MATHEW  CGPA:7.00
+CHN18CS104 Rojin K Sunny  CGPA:8.00
+CHN18CS108 SARATH KUMAR S  Failed in 3
+CHN18CS109 SAURAV K.J.  Failed in 2
+CHN18CS110 SEBA SUSAN MATHEW  Failed in 1
+CHN18CS111 SHILPA SAJAN PUNNOOSE CGPA:6.33
+CHN18CS113 SONA SEBASTIAN  CGPA:7.39
+CHN18CS114 SOUMYAMOL S  Failed in 1
+CHN18CS115 SREEJITH MURALI  CGPA:7.61
+CHN18CS118 THEJUS R  CGPA:6.94
+CHN18CS120 VISHNUSS  CGPA:6.00
+CHN18CS121 VISHWANATH R ATHREY  CGPA:7.11
+CHN18CS122 VIVEK K P  CGPA:7.44
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ ./code.shchmod u+x code.sh[4Pgedit[C[C[C[C[C[C[C[C
+]0;s4c1@lab2-Veriton-Series: ~/0702/s1a[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s1a[00m$ cd
+]0;s4c1@lab2-Veriton-Series: ~[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~[00m$ cd 0702
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ cd s1
+bash: cd: s1: No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ cs S1[1P S1d S1[C S1
+]0;s4c1@lab2-Veriton-Series: ~/0702/S1[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/S1[00m$ cd  S1[1Ps10702[Kgedit code.sh[4P./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/S1[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/S1[00m$ chmod u+x code.shd  S1[K[1Ps10702[Kgedit code.sh[4P./code.sh
+sed: -e expression #1, char 15: unknown option to `s'
+]0;s4c1@lab2-Veriton-Series: ~/0702/S1[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/S1[00m$ ./code.shchmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/S1[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/S1[00m$ chmod u+x code.sh[8P./code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/S1[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/S1[00m$ w[Kcd[Kd
+]0;s4c1@lab2-Veriton-Series: ~[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~[00m$ cd 0702
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ cd s2
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ w[Kscripr[Kt work.txt
+Script started, file is work.txt
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ gedit  [K[K code2.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ gedit code2.shscript work.txt[8Pcd 0702cs232eccs18c25exit[Ksftp cs18c25@192.168.0.30[9Pgedit report.txtsftp cs18c25@192.168.0.30[9Pgedit report.txt[1Pscript work.txt[8Pcd 0702[3@mkdir[C[C[C[C[C[2Pcd cs232eccs18c25[K[K[K[K[K[K[K[K[K[K[K[K[Kchmod u+x code2.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ ./code2.sh
+join: students.txt: No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ ./code2.shchmod u+x code2.sh[4Pgedit[C[C[C[C[C[C[C[C[Cscript work.txt[8Pcd 0702cs232eccs18c25exit[Ksftp cs18c25@192.168.0.30[9Pgedit report.txtsftp cs18c25@192.168.0.30[9Pgedit report.txt[1Pscript work.txt[8Pcd 0702[3@mkdir[C[C[C[C[C[2Pcd cs232eccs18c25exit[Kcho "nameserver 1.1.1.1" >>resolv.conf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pcat /etc/resolv.conf[4Pping 192.168.0.2[Kroute add default gw 192.168.0.2-n[K[Kifconfig eth0 192.168.0.2-a[K[7Pexitsftp cs18c25@192.168.0.30cd cs232[K[K[K[K[K[K[K[K[Kchmod u+x code2.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ ./code2.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ cat cgpa.txt
+CHN18CS002 ABHIITHP  Failed in 6
+CHN18CS003 ABIN BINU SAM  CGPA:9.11
+CHN18CS005 ADHIL SHAHANAD K K  CGPA:7.94
+CHN18CS006 ADWAITH SIVAN  Failed in 2
+CHN18CS007 Aju George Jacob  CGPA:8.56
+CHN18CS008 AKHIL RAVINDRAN  CGPA:8.44
+CHN18CS012 ALKA ANNA SABU  CGPA:7.94
+CHN18CS015 Amal Ramachandran  Failed in 1
+CHN18CS018 ANJANA S  CGPA:9.67
+CHN18CS023 ARAVIND R  CGPA:8.56
+CHN18CS024 ARJUN A  Failed in 4
+CHN18CS025 ARJUN G KRISHNA  CGPA:8.06
+CHN18CS028 ASHIK DAVID ABRAHAM  Failed in 2
+CHN18CS029 Ashna A  CGPA:9.33
+CHN18CS035 DEEPA MARIAM GEORGE  CGPA:9.22
+CHN18CS037 DEVIKA J  CGPA:8.22
+CHN18CS039 Emmanuel Shine Joseph  CGPA:8.50
+CHN18CS043 GEORGE MANI  CGPA:8.61
+CHN18CS046 GOPIKA PRADEEP  CGPA:7.89
+CHN18CS047 GOPIKA SURESH  Failed in 1
+CHN18CS048 GOPUDAS KM  Failed in 4
+CHN18CS049 GOVIND KARTHA  CGPA:8.78
+CHN18CS051 HABEL JAMES GEORGE  Failed in 2
+CHN18CS052 HARI S R  Failed in 4
+CHN18CS053 HELEENA ANNA VARGHESE  Failed in 1
+CHN18CS055 lrene Maria Zachariah  CGPA:8.17
+CHN18CS056 JALENA MATHEW  CGPA:8.11
+CHN18CS057 JEENU CHACKO  CGPA:8.17
+CHN18CS060 Jessal John Mammen  Failed in 3
+CHN18CS061 Jesswin W Varghese  Failed in 5
+CHN18CS063 Jibin Joseph  CGPA:8.28
+CHN18CS064 JISA SURENDRAN  Failed in 1
+CHN18CS068 Jonathan John Varghese  CGPA:8.11
+CHN18CS069 JOSHENA JOSEPH  CGPA:8.28
+CHN18CS071 JUSTIN JOSEPH  Failed in 3
+CHN18CS073 KAVYA M  CGPA:8.83
+CHN18CS076 KIRAN U  Failed in 1
+CHN18CS079 Manu Mathew  CGPA:7.67
+CHN18CS080 MARGRET JAISON  CGPA:9.44
+CHN18CS082 Muhammad Jalal  Failed in 1
+CHN18CS083 MUNISH KUMAR  Failed in 1
+CHN18CS084 NAJEEB  CGPA:8.00
+CHN18CS090 NIMMY GEORGE  Failed in 5
+CHN18CS092 NIVEA GIGEN  CGPA:9.33
+CHN18CS093 Nivya Maria Mathew  CGPA:9.44
+CHN18CS095 PARVATHY KRISHNAN  CGPA:9.44
+CHN18CS096 PARVATHY SANTHOSH  CGPA:8.11
+CHN18CS097 Prayank P Nair  Failed in 2
+CHN18CS100 Remya C  Failed in 1
+CHN18CS101 REMYA RAVEEDRANATHAN Failed in 1
+CHN18CS103 RINU ELISABATH MATHEW  CGPA:9.00
+CHN18CS104 Rojin K Sunny  CGPA:8.83
+CHN18CS108 SARATH KUMAR S  CGPA:7.56
+CHN18CS109 SAURAV K.J.  CGPA:7.33
+CHN18CS110 SEBA SUSAN MATHEW  Failed in 3
+CHN18CS111 SHILPA SAJAN PUNNOOSE CGPA:8.56
+CHN18CS113 SONA SEBASTIAN  CGPA:7.89
+CHN18CS114 SOUMYAMOL S  Failed in 3
+CHN18CS115 SREEJITH MURALI  Failed in 1
+CHN18CS118 THEJUS R  Failed in 2
+CHN18CS120 VISHNUSS  Failed in 2
+CHN18CS121 VISHWANATH R ATHREY  CGPA:7.78
+CHN18CS122 VIVEK K P  CGPA:9.00
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ exit
+exit
+Script done, file is work.txt
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ gedit report.txt
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ gedit report.txt[1Pscript work.txt[10Pcd s20702[K./code.shchmod u+x code.sh[8P./code.shchmod u+x code.shd  S1[K[1Ps10702[Kgedit code.sh[4P./code.shgedit code.shcd[K[K[Kgedit report.txt
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ gedit report.txt[1Pscript work.txt[10Pcd s20702[K./code.shchmod u+x code.sh
+chmod: cannot access 'code.sh': No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ cd
+]0;s4c1@lab2-Veriton-Series: ~[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~[00m$ cd 0702
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ cd S1
+]0;s4c1@lab2-Veriton-Series: ~/0702/S1[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/S1[00m$ cd S10702[Khmod u+x code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/S1[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/S1[00m$ chmod u+x code.shd S1[K0702[Khmod u+x code.sh[1Pgedit report.txt[1Pscript work.txt[10Pcd s20702[K./code.shchmod u+x code.sh[8P./code.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/S1[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/S1[00m$ cd
+]0;s4c1@lab2-Veriton-Series: ~[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~[00m$ cd./code.shchmod u+x code.sh2.sh
+chmod: cannot access 'code2.sh': No such file or directory
+]0;s4c1@lab2-Veriton-Series: ~[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~[00m$ cs [K[K[Kcd 0702
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ cs s2
+The program 'cs' is currently not installed. To run 'cs' please ask your administrator to install the package 'csound'
+]0;s4c1@lab2-Veriton-Series: ~/0702[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702[00m$ cs s2[1P s2d s2
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ cd s2s[C[C[Cd 0702hmod u+x code2.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ chmod u+x code2.shd s2[Ks[C[C[Cd[C[C[Chmod u+x code2.sh[Kchmod u+x code2.shd s2[Ks[C[C[Cd 0702hmod u+x code2.shd[K./code.shw.sh[C[C[C[K[K[K[K[K[K[K[K[K[K.?[K/code2.sh
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ sftp 192.168.0.30
+^Z
+[1]+  Stopped                 sftp 192.168.0.30
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ sftp 192.168.0.30[C[C 192.168.0.30c 192.168.0.30e 192.168.0.30c 192.168.0.30s 192.168.0.301 192.168.0.308 192.168.0.30c 192.168.0.305 192.168.0.303 192.168.0.30[C[1P192.168.0.30@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cecs18c53@192.168.0.30's password: 
+Permission denied, please try again.
+cecs18c53@192.168.0.30's password: 
+Permission denied, please try again.
+cecs18c53@192.168.0.30's password: 
+3 Permission denied (publickey,password).
+Couldn't read packet: Connection reset by peer
+]0;s4c1@lab2-Veriton-Series: ~/0702/s2[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~/0702/s2[00m$ sftp cecs18c53@192.168.0.30[10P192.168.0.30[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd
+]0;s4c1@lab2-Veriton-Series: ~[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~[00m$ cdsftp cecs18c53@192.168.0.30[Ccs18c53@192.168.0.30
+clear
+^Z
+[2]+  Stopped                 sftp ceccs18c53@192.168.0.30
+]0;s4c1@lab2-Veriton-Series: ~[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~[00m$ clear
+[3;J[H[2J]0;s4c1@lab2-Veriton-Series: ~[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~[00m$ cs18c53@192,[K.168.0.30
+cs18c53@192.168.0.30: command not found
+]0;s4c1@lab2-Veriton-Series: ~[01;32ms4c1@lab2-Veriton-Series[00m:[01;34m~[00m$ cs18c53@192.168.0.30scs18c53@192.168.0.30fcs18c53@192.168.0.30tcs18c53@192.168.0.30pcs18c53@192.168.0.30 cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-
