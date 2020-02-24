@@ -1,0 +1,1363 @@
+Script started on Monday 24 February 2020 10:25:39 PM IST
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ gedit s2coe.sh[K[K[K[Kde.sh
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ chmod+[K +x s2code.sh
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ .?[K/s2code.sh
+join: students.txt: No such file or directory
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ./s2code.shchmod +x s2code.sh[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgedit students.txt
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ gedit students.txt[7P./s2code.shchmod +x s2code.sh
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ chmod +x s2code.shgedit students.txt[7P./s2code.sh
+join: students.txt:64: is not sorted: 
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ sort studentstx[K[K.txt>s[Kst.txt
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ sort students.txt>st.txt[13P./s2code.shchmod +x s2code.shgedit students.txt[7P./s2code.shchmod +x s2code.sh[3Pgedit[C[C[C[C[C[C[C[C[C[C
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ gedit s2code.shsort students.txt>st.txt[13P./s2code.shchmod +x s2code.sh
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ chmod +x s2code.sh[3Pgedit[C[C[C[C[C[C[C[C[C[Csort students.txt>st.txt[13P./s2code.sh
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ./s2code.sh[K[K[K[K[K[K[K[K[K[K[Ksftp 192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+s4c2@192.168.0.30's password: 
+
+[1]+  Stopped                 sftp 192.168.0.30
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ sftp 192.168.0.30[C 192.168.0.30c 192.168.0.30e 192.168.0.30c 192.168.0.30c 192.168.0.30s 192.168.0.301 192.168.0.308 192.168.0.30c 192.168.0.305 192.168.0.303 192.168.0.30@ 192.168.0.30[C[1P192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+ceccs18c53@192.168.0.30's password: 
+Permission denied, please try again.
+ceccs18c53@192.168.0.30's password: 
+^Z
+[2]+  Stopped                 sftp ceccs18c53@192.168.0.30
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ sftp ceccs18c53@192.168.0.30[1Ps18c53@192.168.0.30[1Pcs18c53@192.168.0.30[1Ps18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> mkdir 2402
+sftp> cd 2402
+sftp> mkdir t[K[K[K[K[K[K
+[3]+  Stopped                 sftp cs18c53@192.168.0.30
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ssh[K[K[Ksftp cs18c53@192.168.0.30[1P cs18c53@192.168.0.30[1P cs18c53@192.168.0.30[1P cs18c53@192.168.0.30s cs18c53@192.168.0.30h cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+402 packages can be updated.
+0 updates are security updates.
+
+$ ex exit
+teee -sh: 1: eexit: not found
+$     exit
+-sh: 2: teee: not found
+$ quit
+-sh: 3: quit: not found
+$ ^Zexit    
+$ exit
+Connection to 192.168.0.30 closed.
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ man rsy[K[K[K[K[Kn ifconfig
+[?1049h[?1h=IFCONFIG(8)                                              Linux Programmer's Manual                                              IFCONFIG(8)[m
+[m
+[1mNAME[0m[m
+       ifconfig - configure a network interface[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mifconfig[0m [1m[-v][0m [1m[-a][0m [1m[-s][0m [1m[interface][0m[m
+       [1mifconfig[0m [1m[-v][0m [1minterface[0m [1m[aftype][0m [1moptions[0m [1m|[0m [1maddress[0m [1m...[0m[m
+[m
+[1mDESCRIPTION[0m[m
+       [1mIfconfig[0m  is  used  to configure the kernel-resident network interfaces.  It is used at boot time to set up interfaces as necessary.[m
+       After that, it is usually only needed when debugging or when system tuning is needed.[m
+[m
+       If no arguments are given, [1mifconfig[0m displays the status of the currently active interfaces.   If  a  single  [1minterface[0m  argument  is[m
+       given,  it  displays  the status of the given interface only; if a single [1m-a[0m argument is given, it displays the status of all inter‐[m
+       faces, even those that are down.  Otherwise, it configures an interface.[m
+[m
+[1mAddress[0m [1mFamilies[0m[m
+       If the first argument after the interface name is recognized as the name of a supported address family, that address family is  used[m
+       for  decoding  and  displaying  all  protocol addresses.  Currently supported address families include [1minet[0m (TCP/IP, default), [1minet6[0m[m
+       (IPv6), [1max25[0m (AMPR Packet Radio), [1mddp[0m (Appletalk Phase 2), [1mipx[0m (Novell IPX) and [1mnetrom[0m (AMPR Packet radio).[m
+[m
+[1mOPTIONS[0m[m
+       [1m-a[0m     display all interfaces which are currently available, even if down[m
+[m
+       [1m-s[0m     display a short list (like netstat -i)[m
+[m
+       [1m-v[0m     be more verbose for some error conditions[m
+[m
+       [1minterface[0m[m
+              The name of the interface.  This is usually a driver name followed by a unit number, for example [1meth0[0m for the first  Ethernet[m
+              interface.  If  your  kernel supports alias interfaces, you can specify them with [1meth0:0[0m for the first alias of eth0. You can[m
+              use them to assign a second address. To delete an alias interface use [1mifconfig[0m [1meth0:0[0m [1mdown[0m.  Note: for every scope (i.e. same[m
+              net with address/netmask combination) all aliases are deleted, if you delete the first (primary).[m
+[m
+       [1mup[0m     This flag causes the interface to be activated.  It is implicitly specified if an address is assigned to the interface.[m
+[m
+       [1mdown[0m   This flag causes the driver for this interface to be shut down.[m
+[m
+       [1m[-]arp[0m Enable or disable the use of the ARP protocol on this interface.[m
+[m
+       [1m[-]promisc[0m[m
+[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Enable  or  disable  the  [1mpromiscuous[0m mode of the interface.  If selected, all packets on the network will be received by the[m
+[7m Manual page ifconfig(8) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              interface.[m
+[7m Manual page ifconfig(8) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m[-]allmulti[0m[m
+[7m Manual page ifconfig(8) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Enable or disable [1mall-multicast[0m mode.  If selected, all multicast packets on the network will be received by the interface.[m
+[7m Manual page ifconfig(8) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mmetric[0m [1mN[0m[m
+[7m Manual page ifconfig(8) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              This parameter sets the interface metric.[m
+[7m Manual page ifconfig(8) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mmtu[0m [1mN[0m  This parameter sets the Maximum Transfer Unit (MTU) of an interface.[m
+[7m Manual page ifconfig(8) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mdstaddr[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the remote IP address for a point-to-point link (such as PPP).  This keyword is now obsolete; use the [1mpointopoint[0m keyword[m
+[7m Manual page ifconfig(8) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              instead.[m
+[7m Manual page ifconfig(8) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mnetmask[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set  the  IP network mask for this interface.  This value defaults to the usual class A, B or C network mask (as derived from[m
+[7m Manual page ifconfig(8) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              the interface IP address), but it can be set to any value.[m
+[7m Manual page ifconfig(8) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madd[0m [1maddr/prefixlen[0m[m
+[7m Manual page ifconfig(8) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       for  decoding  and  displaying  all  protocol addresses.  Currently supported address families include [1minet[0m (TCP/IP, default), [1minet6[0m[m
+[43;1H[K[7m Manual page ifconfig(8) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       If the first argument after the interface name is recognized as the name of a supported address family, that address family is  used[m
+[43;1H[K[7m Manual page ifconfig(8) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mAddress[0m [1mFamilies[0m[m
+[43;1H[K[7m Manual page ifconfig(8) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page ifconfig(8) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       faces, even those that are down.  Otherwise, it configures an interface.[m
+[43;1H[K[7m Manual page ifconfig(8) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       given,  it  displays  the status of the given interface only; if a single [1m-a[0m argument is given, it displays the status of all inter‐[m
+[43;1H[K[7m Manual page ifconfig(8) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       If no arguments are given, [1mifconfig[0m displays the status of the currently active interfaces.   If  a  single  [1minterface[0m  argument  is[m
+[43;1H[K[7m Manual page ifconfig(8) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page ifconfig(8) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       After that, it is usually only needed when debugging or when system tuning is needed.[m
+[43;1H[K[7m Manual page ifconfig(8) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mIfconfig[0m  is  used  to configure the kernel-resident network interfaces.  It is used at boot time to set up interfaces as necessary.[m
+[43;1H[K[7m Manual page ifconfig(8) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
+[43;1H[K[7m Manual page ifconfig(8) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page ifconfig(8) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mifconfig[0m [1m[-v][0m [1minterface[0m [1m[aftype][0m [1moptions[0m [1m|[0m [1maddress[0m [1m...[0m[m
+[43;1H[K[7m Manual page ifconfig(8) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mifconfig[0m [1m[-v][0m [1m[-a][0m [1m[-s][0m [1m[interface][0m[m
+[43;1H[K[7m Manual page ifconfig(8) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
+[43;1H[K[7m Manual page ifconfig(8) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page ifconfig(8) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       ifconfig - configure a network interface[m
+[43;1H[K[7m Manual page ifconfig(8) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
+[43;1H[K[7m Manual page ifconfig(8) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page ifconfig(8) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HMIFCONFIG(8)                                              Linux Programmer's Manual                                              IFCONFIG(8)[m
+[43;1H[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Enable  or  disable  the  [1mpromiscuous[0m mode of the interface.  If selected, all packets on the network will be received by the[m
+[7m Manual page ifconfig(8) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              interface.[m
+[7m Manual page ifconfig(8) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m[-]allmulti[0m[m
+[7m Manual page ifconfig(8) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Enable or disable [1mall-multicast[0m mode.  If selected, all multicast packets on the network will be received by the interface.[m
+[7m Manual page ifconfig(8) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page ifconfig(8) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       ifconfig - configure a network interface[m
+[43;1H[K[7m Manual page ifconfig(8) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
+[43;1H[K[7m Manual page ifconfig(8) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page ifconfig(8) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HMIFCONFIG(8)                                              Linux Programmer's Manual                                              IFCONFIG(8)[m
+[43;1H[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Enable  or  disable  the  [1mpromiscuous[0m mode of the interface.  If selected, all packets on the network will be received by the[m
+[7m Manual page ifconfig(8) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              interface.[m
+[7m Manual page ifconfig(8) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m[-]allmulti[0m[m
+[7m Manual page ifconfig(8) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Enable or disable [1mall-multicast[0m mode.  If selected, all multicast packets on the network will be received by the interface.[m
+[7m Manual page ifconfig(8) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mmetric[0m [1mN[0m[m
+[7m Manual page ifconfig(8) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              This parameter sets the interface metric.[m
+[7m Manual page ifconfig(8) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mmtu[0m [1mN[0m  This parameter sets the Maximum Transfer Unit (MTU) of an interface.[m
+[7m Manual page ifconfig(8) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mdstaddr[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the remote IP address for a point-to-point link (such as PPP).  This keyword is now obsolete; use the [1mpointopoint[0m keyword[m
+[7m Manual page ifconfig(8) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              instead.[m
+[7m Manual page ifconfig(8) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mnetmask[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set  the  IP network mask for this interface.  This value defaults to the usual class A, B or C network mask (as derived from[m
+[7m Manual page ifconfig(8) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              the interface IP address), but it can be set to any value.[m
+[7m Manual page ifconfig(8) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1madd[0m [1maddr/prefixlen[0m[m
+[7m Manual page ifconfig(8) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Add an IPv6 address to an interface.[m
+[7m Manual page ifconfig(8) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mdel[0m [1maddr/prefixlen[0m[m
+[7m Manual page ifconfig(8) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Remove an IPv6 address from an interface.[m
+[7m Manual page ifconfig(8) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mtunnel[0m [1maa.bb.cc.dd[0m[m
+[7m Manual page ifconfig(8) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Create a new SIT (IPv6-in-IPv4) device, tunnelling to the given destination.[m
+[7m Manual page ifconfig(8) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mirq[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the interrupt line used by this device.  Not all devices can dynamically change their IRQ setting.[m
+[7m Manual page ifconfig(8) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mio_addr[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the start address in I/O space for this device.[m
+[7m Manual page ifconfig(8) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mmem_start[0m [1maddr[0m[m
+[7m Manual page ifconfig(8) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the start address for shared memory used by this device.  Only a few devices need this.[m
+[7m Manual page ifconfig(8) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mmedia[0m [1mtype[0m[m
+[7m Manual page ifconfig(8) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the physical port or medium type to be used by the device.  Not all devices can change this setting, and those  that  can[m
+[7m Manual page ifconfig(8) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              vary  in  what values they support.  Typical values for [1mtype[0m are [1m10base2[0m (thin Ethernet), [1m10baseT[0m (twisted-pair 10Mbps Ether‐[m
+[7m Manual page ifconfig(8) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              net), [1mAUI[0m (external transceiver) and so on.  The special medium type of [1mauto[0m can be used to tell the driver to auto-sense the[m
+[7m Manual page ifconfig(8) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              media.  Again, not all drivers can do this.[m
+[7m Manual page ifconfig(8) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m[-]broadcast[0m [1m[addr][0m[m
+[7m Manual page ifconfig(8) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              If  the  address  argument  is  given,  set the protocol broadcast address for this interface.  Otherwise, set (or clear) the[m
+[7m Manual page ifconfig(8) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [1mIFF_BROADCAST[0m flag for the interface.[m
+[7m Manual page ifconfig(8) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m[-]pointopoint[0m [1m[addr][0m[m
+[7m Manual page ifconfig(8) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              This keyword enables the [1mpoint-to-point[0m mode of an interface, meaning that it is a direct  link  between  two  machines  with[m
+[7m Manual page ifconfig(8) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              nobody else listening on it.[m
+[7m Manual page ifconfig(8) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              If the address argument is also given, set the protocol address of the other side of the link, just like the obsolete [1mdstaddr[0m[m
+[7m Manual page ifconfig(8) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              keyword does.  Otherwise, set or clear the [1mIFF_POINTOPOINT[0m flag for the interface.[m
+[7m Manual page ifconfig(8) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mhw[0m [1mclass[0m [1maddress[0m[m
+[7m Manual page ifconfig(8) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the hardware address of this interface, if the device driver supports this operation.  The keyword must  be  followed  by[m
+[7m Manual page ifconfig(8) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              the  name  of the hardware class and the printable ASCII equivalent of the hardware address.  Hardware classes currently sup‐[m
+[7m Manual page ifconfig(8) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              ported include [1mether[0m (Ethernet), [1max25[0m (AMPR AX.25), [1mARCnet[0m and [1mnetrom[0m (AMPR NET/ROM).[m
+[7m Manual page ifconfig(8) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mmulticast[0m[m
+[7m Manual page ifconfig(8) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the multicast flag on the interface. This should not normally be needed as the drivers set the flag correctly themselves.[m
+[7m Manual page ifconfig(8) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1maddress[0m[m
+[7m Manual page ifconfig(8) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The IP address to be assigned to this interface.[m
+[7m Manual page ifconfig(8) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mtxqueuelen[0m [1mlength[0m[m
+[7m Manual page ifconfig(8) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Set the length of the transmit queue of the device. It is useful to set this to small values for slower devices with  a  high[m
+[7m Manual page ifconfig(8) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              latency (modem links, ISDN) to prevent fast bulk transfers from disturbing interactive traffic like telnet too much.[m
+[7m Manual page ifconfig(8) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mNOTES[0m[m
+[7m Manual page ifconfig(8) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Since  kernel  release  2.2  there are no explicit interface statistics for alias interfaces anymore. The statistics printed for the[m
+[7m Manual page ifconfig(8) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       original address are shared with all alias addresses on the same device. If you want per-address statistics you should add  explicit[m
+[7m Manual page ifconfig(8) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       accounting rules for the address using the [1mipchains[0m(8) or [1miptables[0m(8) command.[m
+[7m Manual page ifconfig(8) line 73 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 74 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Interrupt  problems with Ethernet device drivers fail with EAGAIN [4m(SIOCSIIFLAGS:[24m [4mResource[24m [4mtemporarily[24m [4munavailable)[24m it is most likely[m
+[7m Manual page ifconfig(8) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       a interrupt conflict. See [4mhttp://www.scyld.com/expert/irq-conflict.html[24m for more information.[m
+[7m Manual page ifconfig(8) line 76 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 77 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mFILES[0m[m
+[7m Manual page ifconfig(8) line 78 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [4m/proc/net/socket[24m[m
+[7m Manual page ifconfig(8) line 79 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [4m/proc/net/dev[24m[m
+[7m Manual page ifconfig(8) line 80 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [4m/proc/net/if_inet6[24m[m
+[7m Manual page ifconfig(8) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 82 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mBUGS[0m[m
+[7m Manual page ifconfig(8) line 83 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       While appletalk DDP and IPX addresses will be displayed they cannot be altered by this command.[m
+[7m Manual page ifconfig(8) line 84 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 85 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page ifconfig(8) line 86 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       route(8), netstat(8), arp(8), rarp(8), ipchains(8), iptables(8), ifup(8), interfaces(5).[m
+[7m Manual page ifconfig(8) line 87 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       http://physics.nist.gov/cuu/Units/binary.html - Prefixes for binary multiples[m
+[7m Manual page ifconfig(8) line 88 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 89 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mAUTHORS[0m[m
+[7m Manual page ifconfig(8) line 90 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Fred N. van Kempen, <waltje@uwalt.nl.mugnet.org>[m
+[7m Manual page ifconfig(8) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Alan Cox, <Alan.Cox@linux.org>[m
+[7m Manual page ifconfig(8) line 92 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Phil Blundell, <Philip.Blundell@pobox.com>[m
+[7m Manual page ifconfig(8) line 93 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Andi Kleen[m
+[7m Manual page ifconfig(8) line 94 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Bernd Eckenfels, <net-tools@lina.inka.de>[m
+[7m Manual page ifconfig(8) line 95 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ifconfig(8) line 96 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[Knet-tools                                                        2007-12-02                                                     IFCONFIG(8)[m
+[7m Manual page ifconfig(8) line 97 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ifconfig(8) line 97/138 (END) (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ rsync h[K[K[K[K[K[K[Krsync -a
+rsync  version 3.1.1  protocol version 31
+Copyright (C) 1996-2014 by Andrew Tridgell, Wayne Davison, and others.
+Web site: http://rsync.samba.org/
+Capabilities:
+    64-bit files, 64-bit inums, 64-bit timestamps, 64-bit long ints,
+    socketpairs, hardlinks, symlinks, IPv6, batchfiles, inplace,
+    append, ACLs, xattrs, iconv, symtimes, prealloc
+
+rsync comes with ABSOLUTELY NO WARRANTY.  This is free software, and you
+are welcome to redistribute it under certain conditions.  See the GNU
+General Public Licence for details.
+
+rsync is a file transfer program capable of efficient remote update
+via a fast differencing algorithm.
+
+Usage: rsync [OPTION]... SRC [SRC]... DEST
+  or   rsync [OPTION]... SRC [SRC]... [USER@]HOST:DEST
+  or   rsync [OPTION]... SRC [SRC]... [USER@]HOST::DEST
+  or   rsync [OPTION]... SRC [SRC]... rsync://[USER@]HOST[:PORT]/DEST
+  or   rsync [OPTION]... [USER@]HOST:SRC [DEST]
+  or   rsync [OPTION]... [USER@]HOST::SRC [DEST]
+  or   rsync [OPTION]... rsync://[USER@]HOST[:PORT]/SRC [DEST]
+The ':' usages connect via remote shell, while '::' & 'rsync://' usages connect
+to an rsync daemon, and require SRC or DEST to start with a module name.
+
+Options
+ -v, --verbose               increase verbosity
+     --info=FLAGS            fine-grained informational verbosity
+     --debug=FLAGS           fine-grained debug verbosity
+     --msgs2stderr           special output handling for debugging
+ -q, --quiet                 suppress non-error messages
+     --no-motd               suppress daemon-mode MOTD (see manpage caveat)
+ -c, --checksum              skip based on checksum, not mod-time & size
+ -a, --archive               archive mode; equals -rlptgoD (no -H,-A,-X)
+     --no-OPTION             turn off an implied OPTION (e.g. --no-D)
+ -r, --recursive             recurse into directories
+ -R, --relative              use relative path names
+     --no-implied-dirs       don't send implied dirs with --relative
+ -b, --backup                make backups (see --suffix & --backup-dir)
+     --backup-dir=DIR        make backups into hierarchy based in DIR
+     --suffix=SUFFIX         set backup suffix (default ~ w/o --backup-dir)
+ -u, --update                skip files that are newer on the receiver
+     --inplace               update destination files in-place (SEE MAN PAGE)
+     --append                append data onto shorter files
+     --append-verify         like --append, but with old data in file checksum
+ -d, --dirs                  transfer directories without recursing
+ -l, --links                 copy symlinks as symlinks
+ -L, --copy-links            transform symlink into referent file/dir
+     --copy-unsafe-links     only "unsafe" symlinks are transformed
+     --safe-links            ignore symlinks that point outside the source tree
+     --munge-links           munge symlinks to make them safer (but unusable)
+ -k, --copy-dirlinks         transform symlink to a dir into referent dir
+ -K, --keep-dirlinks         treat symlinked dir on receiver as dir
+ -H, --hard-links            preserve hard links
+ -p, --perms                 preserve permissions
+ -E, --executability         preserve the file's executability
+     --chmod=CHMOD           affect file and/or directory permissions
+ -A, --acls                  preserve ACLs (implies --perms)
+ -X, --xattrs                preserve extended attributes
+ -o, --owner                 preserve owner (super-user only)
+ -g, --group                 preserve group
+     --devices               preserve device files (super-user only)
+     --specials              preserve special files
+ -D                          same as --devices --specials
+ -t, --times                 preserve modification times
+ -O, --omit-dir-times        omit directories from --times
+ -J, --omit-link-times       omit symlinks from --times
+     --super                 receiver attempts super-user activities
+     --fake-super            store/recover privileged attrs using xattrs
+ -S, --sparse                handle sparse files efficiently
+     --preallocate           allocate dest files before writing them
+ -n, --dry-run               perform a trial run with no changes made
+ -W, --whole-file            copy files whole (without delta-xfer algorithm)
+ -x, --one-file-system       don't cross filesystem boundaries
+ -B, --block-size=SIZE       force a fixed checksum block-size
+ -e, --rsh=COMMAND           specify the remote shell to use
+     --rsync-path=PROGRAM    specify the rsync to run on the remote machine
+     --existing              skip creating new files on receiver
+     --ignore-existing       skip updating files that already exist on receiver
+     --remove-source-files   sender removes synchronized files (non-dirs)
+     --del                   an alias for --delete-during
+     --delete                delete extraneous files from destination dirs
+     --delete-before         receiver deletes before transfer, not during
+     --delete-during         receiver deletes during the transfer
+     --delete-delay          find deletions during, delete after
+     --delete-after          receiver deletes after transfer, not during
+     --delete-excluded       also delete excluded files from destination dirs
+     --ignore-missing-args   ignore missing source args without error
+     --delete-missing-args   delete missing source args from destination
+     --ignore-errors         delete even if there are I/O errors
+     --force                 force deletion of directories even if not empty
+     --max-delete=NUM        don't delete more than NUM files
+     --max-size=SIZE         don't transfer any file larger than SIZE
+     --min-size=SIZE         don't transfer any file smaller than SIZE
+     --partial               keep partially transferred files
+     --partial-dir=DIR       put a partially transferred file into DIR
+     --delay-updates         put all updated files into place at transfer's end
+ -m, --prune-empty-dirs      prune empty directory chains from the file-list
+     --numeric-ids           don't map uid/gid values by user/group name
+     --usermap=STRING        custom username mapping
+     --groupmap=STRING       custom groupname mapping
+     --chown=USER:GROUP      simple username/groupname mapping
+     --timeout=SECONDS       set I/O timeout in seconds
+     --contimeout=SECONDS    set daemon connection timeout in seconds
+ -I, --ignore-times          don't skip files that match in size and mod-time
+ -M, --remote-option=OPTION  send OPTION to the remote side only
+     --size-only             skip files that match in size
+     --modify-window=NUM     compare mod-times with reduced accuracy
+ -T, --temp-dir=DIR          create temporary files in directory DIR
+ -y, --fuzzy                 find similar file for basis if no dest file
+     --compare-dest=DIR      also compare destination files relative to DIR
+     --copy-dest=DIR         ... and include copies of unchanged files
+     --link-dest=DIR         hardlink to files in DIR when unchanged
+ -z, --compress              compress file data during the transfer
+     --compress-level=NUM    explicitly set compression level
+     --skip-compress=LIST    skip compressing files with a suffix in LIST
+ -C, --cvs-exclude           auto-ignore files the same way CVS does
+ -f, --filter=RULE           add a file-filtering RULE
+ -F                          same as --filter='dir-merge /.rsync-filter'
+                             repeated: --filter='- .rsync-filter'
+     --exclude=PATTERN       exclude files matching PATTERN
+     --exclude-from=FILE     read exclude patterns from FILE
+     --include=PATTERN       don't exclude files matching PATTERN
+     --include-from=FILE     read include patterns from FILE
+     --files-from=FILE       read list of source-file names from FILE
+ -0, --from0                 all *-from/filter files are delimited by 0s
+ -s, --protect-args          no space-splitting; only wildcard special-chars
+     --address=ADDRESS       bind address for outgoing socket to daemon
+     --port=PORT             specify double-colon alternate port number
+     --sockopts=OPTIONS      specify custom TCP options
+     --blocking-io           use blocking I/O for the remote shell
+     --stats                 give some file-transfer stats
+ -8, --8-bit-output          leave high-bit chars unescaped in output
+ -h, --human-readable        output numbers in a human-readable format
+     --progress              show progress during transfer
+ -P                          same as --partial --progress
+ -i, --itemize-changes       output a change-summary for all updates
+     --out-format=FORMAT     output updates using the specified FORMAT
+     --log-file=FILE         log what we're doing to the specified FILE
+     --log-file-format=FMT   log updates using the specified FMT
+     --password-file=FILE    read daemon-access password from FILE
+     --list-only             list the files instead of copying them
+     --bwlimit=RATE          limit socket I/O bandwidth
+     --outbuf=N|L|B          set output buffering to None, Line, or Block
+     --write-batch=FILE      write a batched update to FILE
+     --only-write-batch=FILE like --write-batch but w/o updating destination
+     --read-batch=FILE       read a batched update from FILE
+     --protocol=NUM          force an older protocol version to be used
+     --iconv=CONVERT_SPEC    request charset conversion of filenames
+     --checksum-seed=NUM     set block/file checksum seed (advanced)
+     --noatime               do not alter atime when opening source files
+ -4, --ipv4                  prefer IPv4
+ -6, --ipv6                  prefer IPv6
+     --version               print version number
+(-h) --help                  show this help (-h is --help only if used alone)
+
+Use "rsync --daemon --help" to see the daemon-mode command-line options.
+Please see the rsync(1) and rsyncd.conf(5) man pages for full documentation.
+See http://rsync.samba.org/ for updates, bug reports, and answers
+rsync error: syntax or usage error (code 1) at main.c(1640) [Receiver=3.1.1]
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ gedit ine[K[K[Kt9.html
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ gedit t9.html
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ gedit t9.html[5Prsync -aman ifconfigssh cs18c53@192.168.0.30[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgedit report.txt
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ gedit report.txt[3Pt9.html[K[K[K[K[K[K[K[K[K[K[K[K[Krsync -aman ifconfigssh cs18c53@192.168.0.30[1@ftp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ceccs18c53@192.168.0.30[11P192.168.0.30[6P./s2code.shchmod +x s2code.sh[3Pgedit[C[C[C[C[C[C[C[C[C[Csort students.txt>st.txt[13P./s2code.sh[K[K[K[K[K[K[K[K[K[K[Kgedit report.txt
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ssh ceccs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+ceccs18c53@192.168.0.30's password: 
+Permission denied, please try again.
+ceccs18c53@192.168.0.30's password: 
+Permission denied, please try again.
+ceccs18c53@192.168.0.30's password: 
+
+[4]+  Stopped                 ssh ceccs18c53@192.168.0.30
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ssh ceccs18c53@192.168.0.30[1Ps18c53@192.168.0.30[1Pcs18c53@192.168.0.30[1Ps18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+402 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Feb 24 10:33:08 2020 from 192.168.0.219
+$ exit
+Connection to 192.168.0.30 closed.
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ \[Krsync -av 0302/ test/[C[1P[1P[1@2[1@4
+sending incremental file list
+rsync: change_dir "/home/s4c2/24021//2402" failed: No such file or directory (2)
+created directory test
+
+sent 20 bytes  received 39 bytes  118.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ sftp cs18c53@192.168.03[K.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> ls
+0302                1002                2402                examples.desktop    
+sftp> cd 2402
+sftp> mkdir t2
+sftp> cd t2
+sftp> put s2.pdf
+Uploading s2.pdf to /home/cs18c53/2402/t2/s2.pdf
+^Z
+[5]+  Stopped                 sftp cs18c53@192.168.0.30
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ifconfig -a
+enp0s25   Link encap:Ethernet  HWaddr 10:78:d2:e0:a8:00  
+          inet addr:192.168.0.219  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::b56:272f:6b7c:a52d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:265940 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:47426 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:117658678 (117.6 MB)  TX bytes:5983003 (5.9 MB)
+          Interrupt:20 Memory:fbbc0000-fbbe0000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:2556 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2556 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:176208 (176.2 KB)  TX bytes:176208 (176.2 KB)
+
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ route -n
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+169.254.0.0     0.0.0.0         255.255.0.0     U     1000   0        0 enp0s25
+192.168.0.0     0.0.0.0         255.255.254.0   U     100    0        0 enp0s25
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ping 192.168.0.1
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=128 time=0.533 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=128 time=0.265 ms
+64 bytes from 192.168.0.1: icmp_seq=3 ttl=128 time=0.488 ms
+64 bytes from 192.168.0.1: icmp_seq=4 ttl=128 time=0.500 ms
+64 bytes from 192.168.0.1: icmp_seq=5 ttl=128 time=0.503 ms
+64 bytes from 192.168.0.1: icmp_seq=6 ttl=128 time=0.493 ms
+64 bytes from 192.168.0.1: icmp_seq=7 ttl=128 time=0.244 ms
+64 bytes from 192.168.0.1: icmp_seq=8 ttl=128 time=0.268 ms
+64 bytes from 192.168.0.1: icmp_seq=9 ttl=128 time=0.269 ms
+64 bytes from 192.168.0.1: icmp_seq=10 ttl=128 time=0.260 ms
+64 bytes from 192.168.0.1: icmp_seq=11 ttl=128 time=0.276 ms
+64 bytes from 192.168.0.1: icmp_seq=12 ttl=128 time=0.266 ms
+64 bytes from 192.168.0.1: icmp_seq=13 ttl=128 time=0.498 ms
+^Z
+[6]+  Stopped                 ping 192.168.0.1
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ping 192.168.0.1[8Proute -nifconfig -asftp cs18c53@192.168.0.30[4Prsync -av 2402/ test/ssh cs18c53@192.168.0.30eccs18c53@192.168.0.30[3Ps18c53@192.168.0.30[3Prsync -av 2402/ test/sftp cs18c53@192.168.0.30[14Pifconfig -asftp cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> cd 2402
+sftp> cd t2
+sftp> put s2[K2_cgpa.txt
+Uploading s2_cgpa.txt to /home/cs18c53/2402/t2/s2_cgpa.txt
+s2_cgpa.txt                                                                                                    0%    0     0.0KB/s   --:-- ETAs2_cgpa.txt                                                                                                  100% 2359     2.3KB/s   00:00    
+sftp> s2_code.sh
+Invalid command.
+sftp> s2_code.sh[1@ps[1@us[1@ts[1@ s
+stat s2_code.sh: No such file or directory
+sftp> put s2code.sh
+Uploading s2code.sh to /home/cs18c53/2402/t2/s2code.sh
+s2code.sh                                                                                                      0%    0     0.0KB/s   --:-- ETAs2code.sh                                                                                                    100% 1104     1.1KB/s   00:00    
+sftp> put result.txt
+Uploading result.txt to /home/cs18c53/2402/t2/result.txt
+result.txt                                                                                                     0%    0     0.0KB/s   --:-- ETAresult.txt                                                                                                   100%   43KB  43.5KB/s   00:00    
+sftp> put s2.pdf
+Uploading s2.pdf to /home/cs18c53/2402/t2/s2.pdf
+s2.pdf                                                                                                         0%    0     0.0KB/s   --:-- ETAs2.pdf                                                                                                       100%   26KB  26.4KB/s   00:00    
+sftp> cd[K[Kput s2.pdfpdf[K[K[K[K[K[Kreport.txt
+Uploading report.txt to /home/cs18c53/2402/t2/report.txt
+report.txt                                                                                                     0%    0     0.0KB/s   --:-- ETAreport.txt                                                                                                   100%  345     0.3KB/s   00:00    
+sftp> 
+[7]+  Stopped                 sftp cs18c53@192.168.0.30
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ifconfig -a
+enp0s25   Link encap:Ethernet  HWaddr 10:78:d2:e0:a8:00  
+          inet addr:192.168.0.219  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::b56:272f:6b7c:a52d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:290429 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:47979 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:119797333 (119.7 MB)  TX bytes:6125174 (6.1 MB)
+          Interrupt:20 Memory:fbbc0000-fbbe0000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:2572 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2572 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:177184 (177.1 KB)  TX bytes:177184 (177.1 KB)
+
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ pi[K[Kgedit report2.txt
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ gedit report2.txt[6Pifconfig -a
+enp0s25   Link encap:Ethernet  HWaddr 10:78:d2:e0:a8:00  
+          inet addr:192.168.0.219  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::b56:272f:6b7c:a52d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:297885 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:48076 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:120425030 (120.4 MB)  TX bytes:6137869 (6.1 MB)
+          Interrupt:20 Memory:fbbc0000-fbbe0000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:2572 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2572 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:177184 (177.1 KB)  TX bytes:177184 (177.1 KB)
+
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ route -n
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+169.254.0.0     0.0.0.0         255.255.0.0     U     1000   0        0 enp0s25
+192.168.0.0     0.0.0.0         255.255.254.0   U     100    0        0 enp0s25
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ route add default gw 192.168.0.2
+SIOCADDRT: Operation not permitted
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ man ifconfig
+[?1049h[?1h=IFCONFIG(8)                                              Linux Programmer's Manual                                              IFCONFIG(8)[m
+[m
+[1mNAME[0m[m
+       ifconfig - configure a network interface[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mifconfig[0m [1m[-v][0m [1m[-a][0m [1m[-s][0m [1m[interface][0m[m
+       [1mifconfig[0m [1m[-v][0m [1minterface[0m [1m[aftype][0m [1moptions[0m [1m|[0m [1maddress[0m [1m...[0m[m
+[m
+[1mDESCRIPTION[0m[m
+       [1mIfconfig[0m  is  used  to configure the kernel-resident network interfaces.  It is used at boot time to set up interfaces as necessary.[m
+       After that, it is usually only needed when debugging or when system tuning is needed.[m
+[m
+       If no arguments are given, [1mifconfig[0m displays the status of the currently active interfaces.   If  a  single  [1minterface[0m  argument  is[m
+       given,  it  displays  the status of the given interface only; if a single [1m-a[0m argument is given, it displays the status of all inter‐[m
+       faces, even those that are down.  Otherwise, it configures an interface.[m
+[m
+[1mAddress[0m [1mFamilies[0m[m
+       If the first argument after the interface name is recognized as the name of a supported address family, that address family is  used[m
+       for  decoding  and  displaying  all  protocol addresses.  Currently supported address families include [1minet[0m (TCP/IP, default), [1minet6[0m[m
+       (IPv6), [1max25[0m (AMPR Packet Radio), [1mddp[0m (Appletalk Phase 2), [1mipx[0m (Novell IPX) and [1mnetrom[0m (AMPR Packet radio).[m
+[m
+[1mOPTIONS[0m[m
+       [1m-a[0m     display all interfaces which are currently available, even if down[m
+[m
+       [1m-s[0m     display a short list (like netstat -i)[m
+[m
+       [1m-v[0m     be more verbose for some error conditions[m
+[m
+       [1minterface[0m[m
+              The name of the interface.  This is usually a driver name followed by a unit number, for example [1meth0[0m for the first  Ethernet[m
+              interface.  If  your  kernel supports alias interfaces, you can specify them with [1meth0:0[0m for the first alias of eth0. You can[m
+              use them to assign a second address. To delete an alias interface use [1mifconfig[0m [1meth0:0[0m [1mdown[0m.  Note: for every scope (i.e. same[m
+              net with address/netmask combination) all aliases are deleted, if you delete the first (primary).[m
+[m
+       [1mup[0m     This flag causes the interface to be activated.  It is implicitly specified if an address is assigned to the interface.[m
+[m
+       [1mdown[0m   This flag causes the driver for this interface to be shut down.[m
+[m
+       [1m[-]arp[0m Enable or disable the use of the ARP protocol on this interface.[m
+[m
+       [1m[-]promisc[0m[m
+[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ifconfig -s
+Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp0s25    1500 0    305295      0      0 0         48110      0      0      0 BMRU
+lo        65536 0      2572      0      0 0          2572      0      0      0 LRU
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ping 192.168.0.0[K1
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=128 time=0.760 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=128 time=0.478 ms
+64 bytes from 192.168.0.1: icmp_seq=3 ttl=128 time=0.475 ms
+64 bytes from 192.168.0.1: icmp_seq=4 ttl=128 time=0.479 ms
+64 bytes from 192.168.0.1: icmp_seq=5 ttl=128 time=0.474 ms
+64 bytes from 192.168.0.1: icmp_seq=6 ttl=128 time=0.269 ms
+64 bytes from 192.168.0.1: icmp_seq=7 ttl=128 time=0.472 ms
+64 bytes from 192.168.0.1: icmp_seq=8 ttl=128 time=0.269 ms
+64 bytes from 192.168.0.1: icmp_seq=9 ttl=128 time=0.284 ms
+64 bytes from 192.168.0.1: icmp_seq=10 ttl=128 time=0.264 ms
+64 bytes from 192.168.0.1: icmp_seq=11 ttl=128 time=0.492 ms
+64 bytes from 192.168.0.1: icmp_seq=12 ttl=128 time=0.267 ms
+^Z
+[8]+  Stopped                 ping 192.168.0.1
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ ssh cs18c53@ce[K[K192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+402 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Feb 24 11:01:30 2020 from 192.168.0.219
+$ exir t
+Connection to 192.168.0.30 closed.
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ rsync -[K[K[K[K[K[K[Kman rsync
+[?1049h[?1h=rsync(1)                                                                                                                           rsync(1)[m
+[m
+[1mNAME[0m[m
+       rsync - a fast, versatile, remote (and local) file-copying tool[m
+[m
+[1mSYNOPSIS[0m[m
+       Local:  rsync [OPTION...] SRC... [DEST][m
+[m
+       Access via remote shell:[m
+         Pull: rsync [OPTION...] [USER@]HOST:SRC... [DEST][m
+         Push: rsync [OPTION...] SRC... [USER@]HOST:DEST[m
+[m
+       Access via rsync daemon:[m
+         Pull: rsync [OPTION...] [USER@]HOST::SRC... [DEST][m
+               rsync [OPTION...] rsync://[USER@]HOST[:PORT]/SRC... [DEST][m
+         Push: rsync [OPTION...] SRC... [USER@]HOST::DEST[m
+               rsync [OPTION...] SRC... rsync://[USER@]HOST[:PORT]/DEST[m
+[m
+       Usages with just one SRC arg and no DEST arg will list the source files instead of copying.[m
+[m
+[1mDESCRIPTION[0m[m
+       Rsync  is  a fast and extraordinarily versatile file copying tool.  It can copy locally, to/from another host over any remote shell,[m
+       or to/from a remote rsync daemon.  It offers a large number of options that control every aspect of its  behavior  and  permit  very[m
+       flexible specification of the set of files to be copied.  It is famous for its delta-transfer algorithm, which reduces the amount of[m
+       data sent over the network by sending only the differences between the source files and  the  existing  files  in  the  destination.[m
+       Rsync is widely used for backups and mirroring and as an improved copy command for everyday use.[m
+[m
+       Rsync finds files that need to be transferred using a "quick check" algorithm (by default) that looks for files that have changed in[m
+       size or in last-modified time.  Any changes in the other preserved attributes (as requested by options) are made on the  destination[m
+       file directly when the quick check indicates that the file’s data does not need to be updated.[m
+[m
+       Some of the additional features of rsync are:[m
+[m
+       o      support for copying links, devices, owners, groups, and permissions[m
+[m
+       o      exclude and exclude-from options similar to GNU tar[m
+[m
+       o      a CVS exclude mode for ignoring the same files that CVS would ignore[m
+[m
+       o      can use any transparent remote shell, including ssh or rsh[m
+[m
+       o      does not require super-user privileges[m
+[7m Manual page rsync(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       o      pipelining of file transfers to minimize latency costs[m
+[7m Manual page rsync(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       o      support for anonymous or authenticated rsync daemons (ideal for mirroring)[m
+[7m Manual page rsync(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mGENERAL[0m[m
+[7m Manual page rsync(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Rsync  copies  files  either to or from a remote host, or locally on the current host (it does not support copying files between two[m
+[7m Manual page rsync(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       remote hosts).[m
+[7m Manual page rsync(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       There are two different ways for rsync to contact a remote system: using a remote-shell program as the transport  (such  as  ssh  or[m
+[7m Manual page rsync(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       rsh)  or  contacting  an  rsync daemon directly via TCP.  The remote-shell transport is used whenever the source or destination path[m
+[7m Manual page rsync(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       contains a single colon (:) separator after a host specification.  Contacting an rsync daemon directly happens when  the  source  or[m
+[7m Manual page rsync(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       destination  path  contains a double colon (::) separator after a host specification, OR when an rsync:// URL is specified (see also[m
+[7m Manual page rsync(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the "USING RSYNC-DAEMON FEATURES VIA A REMOTE-SHELL CONNECTION" section for an exception to this latter rule).[m
+[7m Manual page rsync(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       As a special case, if a single source arg is specified without a destination, the files are listed in an output  format  similar  to[m
+[7m Manual page rsync(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       "ls -l".[m
+[7m Manual page rsync(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       As  expected,  if  neither  the  source or destination path specify a remote host, the copy occurs locally (see also the [1m--list-only[0m[m
+[7m Manual page rsync(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       option).[m
+[7m Manual page rsync(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Rsync refers to the local side as the "client" and the remote side as the "server".  Don’t confuse "server" with an rsync daemon  --[m
+[7m Manual page rsync(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       a daemon is always a server, but a server can be either a daemon or a remote-shell spawned process.[m
+[7m Manual page rsync(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSETUP[0m[m
+[7m Manual page rsync(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       See the file README for installation instructions.[m
+[7m Manual page rsync(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Once  installed,  you can use rsync to any machine that you can access via a remote shell (as well as some that you can access using[m
+[7m Manual page rsync(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the rsync daemon-mode protocol).  For remote transfers, a modern rsync uses ssh for its communications, but it may have been config‐[m
+[7m Manual page rsync(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ured to use a different remote shell by default, such as rsh or remsh.[m
+[7m Manual page rsync(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       You  can also specify any remote shell you like, either by using the [1m-e[0m command line option, or by setting the RSYNC_RSH environment[m
+[7m Manual page rsync(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       variable.[m
+[7m Manual page rsync(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Note that rsync must be installed on both the source and destination machines.[m
+[7m Manual page rsync(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mUSAGE[0m[m
+[7m Manual page rsync(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       You use rsync in the same way you use rcp. You must specify a source and a destination, one of which may be remote.[m
+[7m Manual page rsync(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Perhaps the best way to explain the syntax is with some examples:[m
+[7m Manual page rsync(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -t *.c foo:src/[m
+[7m Manual page rsync(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This would transfer all files matching the pattern *.c from the current directory to the directory src on the machine foo. If any of[m
+[7m Manual page rsync(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the  files  already  exist on the remote system then the rsync remote-update protocol is used to update the file by sending only the[m
+[7m Manual page rsync(1) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       differences in the data.  Note that the expansion of wildcards on the commandline (*.c) into a list of files is handled by the shell[m
+[7m Manual page rsync(1) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       before it runs rsync and not by rsync itself (exactly the same as all other posix-style programs).[m
+[7m Manual page rsync(1) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -avz foo:src/bar /data/tmp[m
+[7m Manual page rsync(1) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This  would  recursively  transfer  all  files from the directory src/bar on the machine foo into the /data/tmp/bar directory on the[m
+[7m Manual page rsync(1) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       local machine. The files are transferred in "archive" mode, which ensures that symbolic  links,  devices,  attributes,  permissions,[m
+[7m Manual page rsync(1) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ownerships,  etc.  are preserved in the transfer.  Additionally, compression will be used to reduce the size of data portions of the[m
+[7m Manual page rsync(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       transfer.[m
+[7m Manual page rsync(1) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -avz foo:src/bar/ /data/tmp[m
+[7m Manual page rsync(1) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       A trailing slash on the source changes this behavior to avoid creating an additional directory level at the  destination.   You  can[m
+[7m Manual page rsync(1) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       think  of  a trailing / on a source as meaning "copy the contents of this directory" as opposed to "copy the directory by name", but[m
+[7m Manual page rsync(1) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       in both cases the attributes of the containing directory are transferred to the containing directory on the destination.   In  other[m
+[7m Manual page rsync(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       words, each of the following commands copies the files in the same way, including their setting of the attributes of /dest/foo:[m
+[7m Manual page rsync(1) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -av /src/foo /dest[m
+[7m Manual page rsync(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -av /src/foo/ /dest/foo[m
+[7m Manual page rsync(1) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Note  also  that host and module references don’t require a trailing slash to copy the contents of the default directory.  For exam‐[m
+[7m Manual page rsync(1) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ple, both of these copy the remote directory’s contents into "/dest":[m
+[7m Manual page rsync(1) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -av host: /dest[m
+[7m Manual page rsync(1) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -av host::module /dest[m
+[7m Manual page rsync(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       You can also use rsync in local-only mode, where both the source and destination don’t have a ’:’ in  the  name.  In  this  case  it[m
+[7m Manual page rsync(1) line 73 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       behaves like an improved copy command.[m
+[7m Manual page rsync(1) line 74 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Finally, you can list all the (listable) modules available from a particular rsync daemon by leaving off the module name:[m
+[7m Manual page rsync(1) line 76 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 77 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync somehost.mydomain.com::[m
+[7m Manual page rsync(1) line 78 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 79 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       See the following section for more details.[m
+[7m Manual page rsync(1) line 80 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mADVANCED[0m [1mUSAGE[0m[m
+[7m Manual page rsync(1) line 82 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       The  syntax  for requesting multiple files from a remote host is done by specifying additional remote-host args in the same style as[m
+[7m Manual page rsync(1) line 83 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the first, or with the hostname omitted.  For instance, all these work:[m
+[7m Manual page rsync(1) line 84 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 85 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -av host:file1 :file2 host:file{3,4} /dest/[m
+[7m Manual page rsync(1) line 86 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -av host::modname/file{1,2} host::modname/file3 /dest/[m
+[7m Manual page rsync(1) line 87 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -av host::modname/file1 ::modname/file{3,4}[m
+[7m Manual page rsync(1) line 88 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 89 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Older versions of rsync required using quoted spaces in the SRC, like these examples:[m
+[7m Manual page rsync(1) line 90 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -av host:'dir1/file1 dir2/file2' /dest[m
+[7m Manual page rsync(1) line 92 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync host::'modname/dir1/file1 modname/dir2/file2' /dest[m
+[7m Manual page rsync(1) line 93 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 94 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This word-splitting still works (by default) in the latest rsync, but is not as easy to use as the first method.[m
+[7m Manual page rsync(1) line 95 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 96 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If you need to transfer a filename that contains whitespace, you can either specify the [1m--protect-args[0m ([1m-s[0m) option, or  you’ll  need[m
+[7m Manual page rsync(1) line 97 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       to escape the whitespace in a way that the remote shell will understand.  For instance:[m
+[7m Manual page rsync(1) line 98 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 99 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -av host:'file\ name\ with\ spaces' /dest[m
+[7m Manual page rsync(1) line 100 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 101 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCONNECTING[0m [1mTO[0m [1mAN[0m [1mRSYNC[0m [1mDAEMON[0m[m
+[7m Manual page rsync(1) line 102 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       It  is also possible to use rsync without a remote shell as the transport.  In this case you will directly connect to a remote rsync[m
+[7m Manual page rsync(1) line 103 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       daemon, typically using TCP port 873.  (This obviously requires the daemon to be running on the  remote  system,  so  refer  to  the[m
+[7m Manual page rsync(1) line 104 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       STARTING AN RSYNC DAEMON TO ACCEPT CONNECTIONS section below for information on that.)[m
+[7m Manual page rsync(1) line 105 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 106 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Using rsync in this way is the same as using it with a remote shell except that:[m
+[7m Manual page rsync(1) line 107 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 108 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       o      you  either  use  a  double colon :: instead of a single colon to separate the hostname from the path, or you use an rsync://[m
+[7m Manual page rsync(1) line 109 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              URL.[m
+[7m Manual page rsync(1) line 110 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 111 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       o      the first word of the "path" is actually a module name.[m
+[7m Manual page rsync(1) line 112 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 113 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       o      the remote daemon may print a message of the day when you connect.[m
+[7m Manual page rsync(1) line 114 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 115 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       o      if you specify no path name on the remote daemon then the list of accessible paths on the daemon will be shown.[m
+[7m Manual page rsync(1) line 116 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 117 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       o      if you specify no local destination then a listing of the specified files on the remote daemon is provided.[m
+[7m Manual page rsync(1) line 118 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 119 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       o      you must not specify the [1m--rsh[0m ([1m-e[0m) option.[m
+[7m Manual page rsync(1) line 120 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 121 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       An example that copies all the files in a remote module named "src":[m
+[7m Manual page rsync(1) line 122 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 123 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           rsync -av host::src /dest[m
+[7m Manual page rsync(1) line 124 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 125 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Some modules on the remote daemon may require authentication. If so, you will receive a password prompt when you  connect.  You  can[m
+[7m Manual page rsync(1) line 126 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       avoid  the  password  prompt by setting the environment variable RSYNC_PASSWORD to the password you want to use or using the [1m--pass‐[0m[m
+[7m Manual page rsync(1) line 127 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mword-file[0m option. This may be useful when scripting rsync.[m
+[7m Manual page rsync(1) line 128 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 129 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       WARNING: On some systems environment variables are visible to all users. On those systems using [1m--password-file[0m is recommended.[m
+[7m Manual page rsync(1) line 130 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 131 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       You may establish the connection via a web proxy by setting the environment variable RSYNC_PROXY to a hostname:port pair pointing to[m
+[7m Manual page rsync(1) line 132 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       your web proxy.  Note that your web proxy’s configuration must support proxy connections to port 873.[m
+[7m Manual page rsync(1) line 133 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 134 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       You  may also establish a daemon connection using a program as a proxy by setting the environment variable RSYNC_CONNECT_PROG to the[m
+[7m Manual page rsync(1) line 135 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       commands you wish to run in place of making a direct socket connection.  The string may contain the escape  "%H"  to  represent  the[m
+[7m Manual page rsync(1) line 136 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       hostname specified in the rsync command (so use "%%" if you need a single "%" in your string).  For example:[m
+[7m Manual page rsync(1) line 137 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 138 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K         export RSYNC_CONNECT_PROG='ssh proxyhost nc %H 873'[m
+[7m Manual page rsync(1) line 139 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K         rsync -av targethost1::module/src/ /dest/[m
+[7m Manual page rsync(1) line 140 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K         rsync -av rsync:://targethost2/module/src/ /dest/[m
+[7m Manual page rsync(1) line 141 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 142 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       The  command  specified  above uses ssh to run nc (netcat) on a proxyhost, which forwards all data to port 873 (the rsync daemon) on[m
+[7m Manual page rsync(1) line 143 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the targethost (%H).[m
+[7m Manual page rsync(1) line 144 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 145 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mUSING[0m [1mRSYNC-DAEMON[0m [1mFEATURES[0m [1mVIA[0m [1mA[0m [1mREMOTE-SHELL[0m [1mCONNECTION[0m[m
+[7m Manual page rsync(1) line 146 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       It is sometimes useful to use various features of an rsync daemon (such as named modules) without actually allowing any  new  socket[m
+[7m Manual page rsync(1) line 147 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       connections  into  a system (other than what is already required to allow remote-shell access).  Rsync supports connecting to a host[m
+[7m Manual page rsync(1) line 148 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       using a remote shell and then spawning a single-use "daemon" server that expects to read its config file in  the  home  dir  of  the[m
+[7m Manual page rsync(1) line 149 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       remote  user.  This can be useful if you want to encrypt a daemon-style transfer’s data, but since the daemon is started up fresh by[m
+[7m Manual page rsync(1) line 150 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the remote user, you may not be able to use features such as chroot or change the uid used by  the  daemon.   (For  another  way  to[m
+[7m Manual page rsync(1) line 151 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       encrypt a daemon transfer, consider using ssh to tunnel a local port to a remote machine and configure a normal rsync daemon on that[m
+[7m Manual page rsync(1) line 152 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       remote host to only allow connections from "localhost".)[m
+[7m Manual page rsync(1) line 153 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 154 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       From the user’s perspective, a daemon transfer via a remote-shell connection uses nearly the same command-line syntax  as  a  normal[m
+[7m Manual page rsync(1) line 155 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       rsync-daemon  transfer, with the only exception being that you must explicitly set the remote shell program on the command-line with[m
+[7m Manual page rsync(1) line 156 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the [1m--rsh=COMMAND[0m option.  (Setting the RSYNC_RSH in the environment will not turn on this functionality.)  For example:[m
+[7m Manual page rsync(1) line 157 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 158 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           rsync -av --rsh=ssh host::module /dest[m
+[7m Manual page rsync(1) line 159 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 160 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If you need to specify a different remote-shell user, keep in mind that the user@ prefix in front of  the  host  is  specifying  the[m
+[7m Manual page rsync(1) line 161 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       rsync-user  value (for a module that requires user-based authentication).  This means that you must give the ’-l user’ option to ssh[m
+[7m Manual page rsync(1) line 162 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       when specifying the remote-shell, as in this example that uses the short version of the [1m--rsh[0m option:[m
+[7m Manual page rsync(1) line 163 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 164 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           rsync -av -e "ssh -l ssh-user" rsync-user@host::module /dest[m
+[7m Manual page rsync(1) line 165 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 166 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           rsync -av host::src /dest[m
+[43;1H[K[7m Manual page rsync(1) line 165 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page rsync(1) line 164 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       An example that copies all the files in a remote module named "src":[m
+[43;1H[K[7m Manual page rsync(1) line 163 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page rsync(1) line 162 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       o      you must not specify the [1m--rsh[0m ([1m-e[0m) option.[m
+[43;1H[K[7m Manual page rsync(1) line 161 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       rsync-user  value (for a module that requires user-based authentication).  This means that you must give the ’-l user’ option to ssh[m
+[7m Manual page rsync(1) line 162 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       when specifying the remote-shell, as in this example that uses the short version of the [1m--rsh[0m option:[m
+[7m Manual page rsync(1) line 163 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 164 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           rsync -av -e "ssh -l ssh-user" rsync-user@host::module /dest[m
+[7m Manual page rsync(1) line 165 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 166 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       The "ssh-user" will be used at the ssh level; the "rsync-user" will be used to log-in to the "module".[m
+[7m Manual page rsync(1) line 167 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 168 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSTARTING[0m [1mAN[0m [1mRSYNC[0m [1mDAEMON[0m [1mTO[0m [1mACCEPT[0m [1mCONNECTIONS[0m[m
+[7m Manual page rsync(1) line 169 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       In order to connect to an rsync daemon, the remote system needs to have a daemon already running (or it  needs  to  have  configured[m
+[7m Manual page rsync(1) line 170 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       something  like inetd to spawn an rsync daemon for incoming connections on a particular port).  For full information on how to start[m
+[7m Manual page rsync(1) line 171 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       a daemon that will handling incoming socket connections, see the [1mrsyncd.conf[0m(5) man page -- that is the config file for the  daemon,[m
+[7m Manual page rsync(1) line 172 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       and it contains the full details for how to run the daemon (including stand-alone and inetd configurations).[m
+[7m Manual page rsync(1) line 173 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 174 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If you’re using one of the remote-shell transports for the transfer, there is no need to manually start an rsync daemon.[m
+[7m Manual page rsync(1) line 175 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 176 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSORTED[0m [1mTRANSFER[0m [1mORDER[0m[m
+[7m Manual page rsync(1) line 177 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Rsync  always  sorts  the specified filenames into its internal transfer list.  This handles the merging together of the contents of[m
+[7m Manual page rsync(1) line 178 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       identically named directories, makes it easy to remove duplicate filenames, and may confuse someone when the files  are  transferred[m
+[7m Manual page rsync(1) line 179 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       in a different order than what was given on the command-line.[m
+[7m Manual page rsync(1) line 180 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 181 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If  you need a particular file to be transferred prior to another, either separate the files into different rsync calls, or consider[m
+[7m Manual page rsync(1) line 182 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       using [1m--delay-updates[0m (which doesn’t affect the sorted transfer order, but does make the final file-updating phase happen much  more[m
+[7m Manual page rsync(1) line 183 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       rapidly).[m
+[7m Manual page rsync(1) line 184 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 185 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mEXAMPLES[0m[m
+[7m Manual page rsync(1) line 186 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Here are some examples of how I use rsync.[m
+[7m Manual page rsync(1) line 187 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 188 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       To backup my wife’s home directory, which consists of large MS Word files and mail folders, I use a cron job that runs[m
+[7m Manual page rsync(1) line 189 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 190 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rsync -Cavz . arvidsjaur:backup[m
+[7m Manual page rsync(1) line 191 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 192 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       each night over a PPP connection to a duplicate directory on my machine "arvidsjaur".[m
+[7m Manual page rsync(1) line 193 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 194 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       To synchronize my samba source trees I use the following Makefile targets:[m
+[7m Manual page rsync(1) line 195 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 196 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           get:[m
+[7m Manual page rsync(1) line 197 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K                   rsync -avuzb --exclude '*~' samba:samba/ .[m
+[7m Manual page rsync(1) line 198 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           put:[m
+[7m Manual page rsync(1) line 199 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K                   rsync -Cavuzb . samba:samba/[m
+[7m Manual page rsync(1) line 200 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           sync: get put[m
+[7m Manual page rsync(1) line 201 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 202 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       this  allows  me  to  sync  with a CVS directory at the other end of the connection. I then do CVS operations on the remote machine,[m
+[7m Manual page rsync(1) line 203 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       which saves a lot of time as the remote CVS protocol isn’t very efficient.[m
+[7m Manual page rsync(1) line 204 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 205 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       I mirror a directory between my "old" and "new" ftp sites with the command:[m
+[7m Manual page rsync(1) line 206 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 207 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       rsync -az -e ssh --delete ~ftp/pub/samba nimbus:"~ftp/pub/tridge"[m
+[7m Manual page rsync(1) line 208 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 209 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This is launched from cron every few hours.[m
+[7m Manual page rsync(1) line 210 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 211 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mOPTIONS[0m [1mSUMMARY[0m[m
+[7m Manual page rsync(1) line 212 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Here is a short summary of the options available in rsync. Please refer to the detailed description below for  a  complete  descrip‐[m
+[7m Manual page rsync(1) line 213 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       tion.[m
+[7m Manual page rsync(1) line 214 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rsync(1) line 215 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -v, --verbose               increase verbosity[m
+[7m Manual page rsync(1) line 216 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --info=FLAGS            fine-grained informational verbosity[m
+[7m Manual page rsync(1) line 217 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --debug=FLAGS           fine-grained debug verbosity[m
+[7m Manual page rsync(1) line 218 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --msgs2stderr           special output handling for debugging[m
+[7m Manual page rsync(1) line 219 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -q, --quiet                 suppress non-error messages[m
+[7m Manual page rsync(1) line 220 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --no-motd               suppress daemon-mode MOTD (see caveat)[m
+[7m Manual page rsync(1) line 221 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -c, --checksum              skip based on checksum, not mod-time & size[m
+[7m Manual page rsync(1) line 222 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -a, --archive               archive mode; equals -rlptgoD (no -H,-A,-X)[m
+[7m Manual page rsync(1) line 223 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --no-OPTION             turn off an implied OPTION (e.g. --no-D)[m
+[7m Manual page rsync(1) line 224 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -r, --recursive             recurse into directories[m
+[7m Manual page rsync(1) line 225 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -R, --relative              use relative path names[m
+[7m Manual page rsync(1) line 226 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --no-implied-dirs       don't send implied dirs with --relative[m
+[7m Manual page rsync(1) line 227 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -b, --backup                make backups (see --suffix & --backup-dir)[m
+[7m Manual page rsync(1) line 228 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --backup-dir=DIR        make backups into hierarchy based in DIR[m
+[7m Manual page rsync(1) line 229 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --suffix=SUFFIX         backup suffix (default ~ w/o --backup-dir)[m
+[7m Manual page rsync(1) line 230 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -u, --update                skip files that are newer on the receiver[m
+[7m Manual page rsync(1) line 231 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --inplace               update destination files in-place[m
+[7m Manual page rsync(1) line 232 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --append                append data onto shorter files[m
+[7m Manual page rsync(1) line 233 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --append-verify         --append w/old data in file checksum[m
+[7m Manual page rsync(1) line 234 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -d, --dirs                  transfer directories without recursing[m
+[7m Manual page rsync(1) line 235 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -l, --links                 copy symlinks as symlinks[m
+[7m Manual page rsync(1) line 236 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -L, --copy-links            transform symlink into referent file/dir[m
+[7m Manual page rsync(1) line 237 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --copy-unsafe-links     only "unsafe" symlinks are transformed[m
+[7m Manual page rsync(1) line 238 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --safe-links            ignore symlinks that point outside the tree[m
+[7m Manual page rsync(1) line 239 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --munge-links           munge symlinks to make them safer[m
+[7m Manual page rsync(1) line 240 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -k, --copy-dirlinks         transform symlink to dir into referent dir[m
+[7m Manual page rsync(1) line 241 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -K, --keep-dirlinks         treat symlinked dir on receiver as dir[m
+[7m Manual page rsync(1) line 242 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -H, --hard-links            preserve hard links[m
+[7m Manual page rsync(1) line 243 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -p, --perms                 preserve permissions[m
+[7m Manual page rsync(1) line 244 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -E, --executability         preserve executability[m
+[7m Manual page rsync(1) line 245 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --chmod=CHMOD           affect file and/or directory permissions[m
+[7m Manual page rsync(1) line 246 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -A, --acls                  preserve ACLs (implies -p)[m
+[7m Manual page rsync(1) line 247 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -X, --xattrs                preserve extended attributes[m
+[7m Manual page rsync(1) line 248 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -o, --owner                 preserve owner (super-user only)[m
+[7m Manual page rsync(1) line 249 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -g, --group                 preserve group[m
+[7m Manual page rsync(1) line 250 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --devices               preserve device files (super-user only)[m
+[7m Manual page rsync(1) line 251 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --specials              preserve special files[m
+[7m Manual page rsync(1) line 252 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -D                          same as --devices --specials[m
+[7m Manual page rsync(1) line 253 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -t, --times                 preserve modification times[m
+[7m Manual page rsync(1) line 254 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -O, --omit-dir-times        omit directories from --times[m
+[7m Manual page rsync(1) line 255 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -J, --omit-link-times       omit symlinks from --times[m
+[7m Manual page rsync(1) line 256 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --super                 receiver attempts super-user activities[m
+[7m Manual page rsync(1) line 257 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --fake-super            store/recover privileged attrs using xattrs[m
+[7m Manual page rsync(1) line 258 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -S, --sparse                handle sparse files efficiently[m
+[7m Manual page rsync(1) line 259 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --preallocate           allocate dest files before writing[m
+[7m Manual page rsync(1) line 260 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -n, --dry-run               perform a trial run with no changes made[m
+[7m Manual page rsync(1) line 261 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM            --msgs2stderr           special output handling for debugging[m
+[43;1H[K[7m Manual page rsync(1) line 260 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM            --debug=FLAGS           fine-grained debug verbosity[m
+[43;1H[K[7m Manual page rsync(1) line 259 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM            --info=FLAGS            fine-grained informational verbosity[m
+[43;1H[K[7m Manual page rsync(1) line 258 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM        -v, --verbose               increase verbosity[m
+[43;1H[K[7m Manual page rsync(1) line 257 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page rsync(1) line 256 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       tion.[m
+[43;1H[K[7m Manual page rsync(1) line 255 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Here is a short summary of the options available in rsync. Please refer to the detailed description below for  a  complete  descrip‐[m
+[43;1H[K[7m Manual page rsync(1) line 254 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mOPTIONS[0m [1mSUMMARY[0m[m
+[43;1H[K[7m Manual page rsync(1) line 253 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page rsync(1) line 252 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       This is launched from cron every few hours.[m
+[43;1H[K[7m Manual page rsync(1) line 251 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page rsync(1) line 250 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       rsync -az -e ssh --delete ~ftp/pub/samba nimbus:"~ftp/pub/tridge"[m
+[43;1H[K[7m Manual page rsync(1) line 249 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page rsync(1) line 248 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       I mirror a directory between my "old" and "new" ftp sites with the command:[m
+[43;1H[K[7m Manual page rsync(1) line 247 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page rsync(1) line 246 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       which saves a lot of time as the remote CVS protocol isn’t very efficient.[m
+[43;1H[K[7m Manual page rsync(1) line 245 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       this  allows  me  to  sync  with a CVS directory at the other end of the connection. I then do CVS operations on the remote machine,[m
+[43;1H[K[7m Manual page rsync(1) line 244 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[43;1H[K[7m Manual page rsync(1) line 243 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           sync: get put[m
+[43;1H[K[7m Manual page rsync(1) line 242 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM                   rsync -Cavuzb . samba:samba/[m
+[43;1H[K[7m Manual page rsync(1) line 241 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -K, --keep-dirlinks         treat symlinked dir on receiver as dir[m
+[7m Manual page rsync(1) line 242 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -H, --hard-links            preserve hard links[m
+[7m Manual page rsync(1) line 243 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -p, --perms                 preserve permissions[m
+[7m Manual page rsync(1) line 244 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -E, --executability         preserve executability[m
+[7m Manual page rsync(1) line 245 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --chmod=CHMOD           affect file and/or directory permissions[m
+[7m Manual page rsync(1) line 246 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -A, --acls                  preserve ACLs (implies -p)[m
+[7m Manual page rsync(1) line 247 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -X, --xattrs                preserve extended attributes[m
+[7m Manual page rsync(1) line 248 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -o, --owner                 preserve owner (super-user only)[m
+[7m Manual page rsync(1) line 249 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -g, --group                 preserve group[m
+[7m Manual page rsync(1) line 250 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --devices               preserve device files (super-user only)[m
+[7m Manual page rsync(1) line 251 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --specials              preserve special files[m
+[7m Manual page rsync(1) line 252 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -D                          same as --devices --specials[m
+[7m Manual page rsync(1) line 253 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -t, --times                 preserve modification times[m
+[7m Manual page rsync(1) line 254 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -O, --omit-dir-times        omit directories from --times[m
+[7m Manual page rsync(1) line 255 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -J, --omit-link-times       omit symlinks from --times[m
+[7m Manual page rsync(1) line 256 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --super                 receiver attempts super-user activities[m
+[7m Manual page rsync(1) line 257 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --fake-super            store/recover privileged attrs using xattrs[m
+[7m Manual page rsync(1) line 258 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -S, --sparse                handle sparse files efficiently[m
+[7m Manual page rsync(1) line 259 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --preallocate           allocate dest files before writing[m
+[7m Manual page rsync(1) line 260 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -n, --dry-run               perform a trial run with no changes made[m
+[7m Manual page rsync(1) line 261 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -W, --whole-file            copy files whole (w/o delta-xfer algorithm)[m
+[7m Manual page rsync(1) line 262 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -x, --one-file-system       don't cross filesystem boundaries[m
+[7m Manual page rsync(1) line 263 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -B, --block-size=SIZE       force a fixed checksum block-size[m
+[7m Manual page rsync(1) line 264 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K        -e, --rsh=COMMAND           specify the remote shell to use[m
+[7m Manual page rsync(1) line 265 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --rsync-path=PROGRAM    specify the rsync to run on remote machine[m
+[7m Manual page rsync(1) line 266 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --existing              skip creating new files on receiver[m
+[7m Manual page rsync(1) line 267 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --ignore-existing       skip updating files that exist on receiver[m
+[7m Manual page rsync(1) line 268 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --remove-source-files   sender removes synchronized files (non-dir)[m
+[7m Manual page rsync(1) line 269 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --del                   an alias for --delete-during[m
+[7m Manual page rsync(1) line 270 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --delete                delete extraneous files from dest dirs[m
+[7m Manual page rsync(1) line 271 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --delete-before         receiver deletes before xfer, not during[m
+[7m Manual page rsync(1) line 272 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --delete-during         receiver deletes during the transfer[m
+[7m Manual page rsync(1) line 273 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --delete-delay          find deletions during, delete after[m
+[7m Manual page rsync(1) line 274 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --delete-after          receiver deletes after transfer, not during[m
+[7m Manual page rsync(1) line 275 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K            --delete-excluded       also delete excluded files from dest dirs[m
+[7m Manual page rsync(1) line 276 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ rsync -a
+rsync  version 3.1.1  protocol version 31
+Copyright (C) 1996-2014 by Andrew Tridgell, Wayne Davison, and others.
+Web site: http://rsync.samba.org/
+Capabilities:
+    64-bit files, 64-bit inums, 64-bit timestamps, 64-bit long ints,
+    socketpairs, hardlinks, symlinks, IPv6, batchfiles, inplace,
+    append, ACLs, xattrs, iconv, symtimes, prealloc
+
+rsync comes with ABSOLUTELY NO WARRANTY.  This is free software, and you
+are welcome to redistribute it under certain conditions.  See the GNU
+General Public Licence for details.
+
+rsync is a file transfer program capable of efficient remote update
+via a fast differencing algorithm.
+
+Usage: rsync [OPTION]... SRC [SRC]... DEST
+  or   rsync [OPTION]... SRC [SRC]... [USER@]HOST:DEST
+  or   rsync [OPTION]... SRC [SRC]... [USER@]HOST::DEST
+  or   rsync [OPTION]... SRC [SRC]... rsync://[USER@]HOST[:PORT]/DEST
+  or   rsync [OPTION]... [USER@]HOST:SRC [DEST]
+  or   rsync [OPTION]... [USER@]HOST::SRC [DEST]
+  or   rsync [OPTION]... rsync://[USER@]HOST[:PORT]/SRC [DEST]
+The ':' usages connect via remote shell, while '::' & 'rsync://' usages connect
+to an rsync daemon, and require SRC or DEST to start with a module name.
+
+Options
+ -v, --verbose               increase verbosity
+     --info=FLAGS            fine-grained informational verbosity
+     --debug=FLAGS           fine-grained debug verbosity
+     --msgs2stderr           special output handling for debugging
+ -q, --quiet                 suppress non-error messages
+     --no-motd               suppress daemon-mode MOTD (see manpage caveat)
+ -c, --checksum              skip based on checksum, not mod-time & size
+ -a, --archive               archive mode; equals -rlptgoD (no -H,-A,-X)
+     --no-OPTION             turn off an implied OPTION (e.g. --no-D)
+ -r, --recursive             recurse into directories
+ -R, --relative              use relative path names
+     --no-implied-dirs       don't send implied dirs with --relative
+ -b, --backup                make backups (see --suffix & --backup-dir)
+     --backup-dir=DIR        make backups into hierarchy based in DIR
+     --suffix=SUFFIX         set backup suffix (default ~ w/o --backup-dir)
+ -u, --update                skip files that are newer on the receiver
+     --inplace               update destination files in-place (SEE MAN PAGE)
+     --append                append data onto shorter files
+     --append-verify         like --append, but with old data in file checksum
+ -d, --dirs                  transfer directories without recursing
+ -l, --links                 copy symlinks as symlinks
+ -L, --copy-links            transform symlink into referent file/dir
+     --copy-unsafe-links     only "unsafe" symlinks are transformed
+     --safe-links            ignore symlinks that point outside the source tree
+     --munge-links           munge symlinks to make them safer (but unusable)
+ -k, --copy-dirlinks         transform symlink to a dir into referent dir
+ -K, --keep-dirlinks         treat symlinked dir on receiver as dir
+ -H, --hard-links            preserve hard links
+ -p, --perms                 preserve permissions
+ -E, --executability         preserve the file's executability
+     --chmod=CHMOD           affect file and/or directory permissions
+ -A, --acls                  preserve ACLs (implies --perms)
+ -X, --xattrs                preserve extended attributes
+ -o, --owner                 preserve owner (super-user only)
+ -g, --group                 preserve group
+     --devices               preserve device files (super-user only)
+     --specials              preserve special files
+ -D                          same as --devices --specials
+ -t, --times                 preserve modification times
+ -O, --omit-dir-times        omit directories from --times
+ -J, --omit-link-times       omit symlinks from --times
+     --super                 receiver attempts super-user activities
+     --fake-super            store/recover privileged attrs using xattrs
+ -S, --sparse                handle sparse files efficiently
+     --preallocate           allocate dest files before writing them
+ -n, --dry-run               perform a trial run with no changes made
+ -W, --whole-file            copy files whole (without delta-xfer algorithm)
+ -x, --one-file-system       don't cross filesystem boundaries
+ -B, --block-size=SIZE       force a fixed checksum block-size
+ -e, --rsh=COMMAND           specify the remote shell to use
+     --rsync-path=PROGRAM    specify the rsync to run on the remote machine
+     --existing              skip creating new files on receiver
+     --ignore-existing       skip updating files that already exist on receiver
+     --remove-source-files   sender removes synchronized files (non-dirs)
+     --del                   an alias for --delete-during
+     --delete                delete extraneous files from destination dirs
+     --delete-before         receiver deletes before transfer, not during
+     --delete-during         receiver deletes during the transfer
+     --delete-delay          find deletions during, delete after
+     --delete-after          receiver deletes after transfer, not during
+     --delete-excluded       also delete excluded files from destination dirs
+     --ignore-missing-args   ignore missing source args without error
+     --delete-missing-args   delete missing source args from destination
+     --ignore-errors         delete even if there are I/O errors
+     --force                 force deletion of directories even if not empty
+     --max-delete=NUM        don't delete more than NUM files
+     --max-size=SIZE         don't transfer any file larger than SIZE
+     --min-size=SIZE         don't transfer any file smaller than SIZE
+     --partial               keep partially transferred files
+     --partial-dir=DIR       put a partially transferred file into DIR
+     --delay-updates         put all updated files into place at transfer's end
+ -m, --prune-empty-dirs      prune empty directory chains from the file-list
+     --numeric-ids           don't map uid/gid values by user/group name
+     --usermap=STRING        custom username mapping
+     --groupmap=STRING       custom groupname mapping
+     --chown=USER:GROUP      simple username/groupname mapping
+     --timeout=SECONDS       set I/O timeout in seconds
+     --contimeout=SECONDS    set daemon connection timeout in seconds
+ -I, --ignore-times          don't skip files that match in size and mod-time
+ -M, --remote-option=OPTION  send OPTION to the remote side only
+     --size-only             skip files that match in size
+     --modify-window=NUM     compare mod-times with reduced accuracy
+ -T, --temp-dir=DIR          create temporary files in directory DIR
+ -y, --fuzzy                 find similar file for basis if no dest file
+     --compare-dest=DIR      also compare destination files relative to DIR
+     --copy-dest=DIR         ... and include copies of unchanged files
+     --link-dest=DIR         hardlink to files in DIR when unchanged
+ -z, --compress              compress file data during the transfer
+     --compress-level=NUM    explicitly set compression level
+     --skip-compress=LIST    skip compressing files with a suffix in LIST
+ -C, --cvs-exclude           auto-ignore files the same way CVS does
+ -f, --filter=RULE           add a file-filtering RULE
+ -F                          same as --filter='dir-merge /.rsync-filter'
+                             repeated: --filter='- .rsync-filter'
+     --exclude=PATTERN       exclude files matching PATTERN
+     --exclude-from=FILE     read exclude patterns from FILE
+     --include=PATTERN       don't exclude files matching PATTERN
+     --include-from=FILE     read include patterns from FILE
+     --files-from=FILE       read list of source-file names from FILE
+ -0, --from0                 all *-from/filter files are delimited by 0s
+ -s, --protect-args          no space-splitting; only wildcard special-chars
+     --address=ADDRESS       bind address for outgoing socket to daemon
+     --port=PORT             specify double-colon alternate port number
+     --sockopts=OPTIONS      specify custom TCP options
+     --blocking-io           use blocking I/O for the remote shell
+     --stats                 give some file-transfer stats
+ -8, --8-bit-output          leave high-bit chars unescaped in output
+ -h, --human-readable        output numbers in a human-readable format
+     --progress              show progress during transfer
+ -P                          same as --partial --progress
+ -i, --itemize-changes       output a change-summary for all updates
+     --out-format=FORMAT     output updates using the specified FORMAT
+     --log-file=FILE         log what we're doing to the specified FILE
+     --log-file-format=FMT   log updates using the specified FMT
+     --password-file=FILE    read daemon-access password from FILE
+     --list-only             list the files instead of copying them
+     --bwlimit=RATE          limit socket I/O bandwidth
+     --outbuf=N|L|B          set output buffering to None, Line, or Block
+     --write-batch=FILE      write a batched update to FILE
+     --only-write-batch=FILE like --write-batch but w/o updating destination
+     --read-batch=FILE       read a batched update from FILE
+     --protocol=NUM          force an older protocol version to be used
+     --iconv=CONVERT_SPEC    request charset conversion of filenames
+     --checksum-seed=NUM     set block/file checksum seed (advanced)
+     --noatime               do not alter atime when opening source files
+ -4, --ipv4                  prefer IPv4
+ -6, --ipv6                  prefer IPv6
+     --version               print version number
+(-h) --help                  show this help (-h is --help only if used alone)
+
+Use "rsync --daemon --help" to see the daemon-mode command-line options.
+Please see the rsync(1) and rsyncd.conf(5) man pages for full documentation.
+See http://rsync.samba.org/ for updates, bug reports, and answers
+rsync error: syntax or usage error (code 1) at main.c(1640) [Receiver=3.1.1]
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ rsync -a st.txt@192.168.0.30
+rsync: link_stat "/home/s4c2/24021/st.txt@192.168.0.30" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+]0;s4c2@lab2-Veriton-Series: ~/24021[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~/24021[00m$ rsync -[K[K[K[K[K[K[Kcd
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ cdrsync -a st.txt@192.168.0.30
+rsync: link_stat "/home/s4c2/st.txt@192.168.0.30" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ scp report.txt cs18c52@192.168.0.30[C[C[C[1P@192.168.0.303@192.168.0.30[1P[1P[1P[1P[1P[1P[1@s[1@t
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ sftp[K[K[K[Ksftp cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> ls
+0302                1002                2402                examples.desktop    
+sftp> cd 2402
+sftp> ls
+t2  
+sftp> mkdit t3t4t5[P [1@r 
+sftp> cd t3t4t5
+sftp> quit
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ rsync -av st.txt
+sending incremental file list
+-rw-rw-r--          1,678 2020/02/24 22:28:34 st.txt
+
+sent 56 bytes  received 69 bytes  250.00 bytes/sec
+total size is 1,678  speedup is 13.42
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ rsync -av st.txtsftp cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> ls
+0302                1002                2402                examples.desktop    
+sftp> cd 2402
+sftp> cs t3t4t5
+Invalid command.
+sftp> cs t3t4t5[P [1@d 
+sftp> put report2.txrt[K[Kt
+Uploading report2.txt to /home/cs18c53/2402/t3t4t5/report2.txt
+report2.txt                                                                                                    0%    0     0.0KB/s   --:-- ETAreport2.txt                                                                                                  100% 4146     4.1KB/s   00:00    
+sftp> qy[Kuit
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ sftp cs18c53@192.168.0.30[9Prsync -av st.txtsftp cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> cd
+You must specify a path after a cd command.
+sftp> ls
+0302                1002                2402                examples.desktop    
+sftp> cd 0302
+sftp> ls
+ab.txt       cd.txt       fg.txt       report.txt   report2.txt  work.txt     work2.txt    
+sftp> get work.txt
+Fetching /home/cs18c53/0302/work.txt to work.txt
+/home/cs18c53/0302/work.txt                                                                                    0%    0     0.0KB/s   --:-- ETA/home/cs18c53/0302/work.txt                                                                                  100% 1402     1.4KB/s   00:00    
+sftp> get report2.txt
+Fetching /home/cs18c53/0302/report2.txt to report2.txt
+/home/cs18c53/0302/report2.txt                                                                                 0%    0     0.0KB/s   --:-- ETA/home/cs18c53/0302/report2.txt                                                                               100% 1679     1.6KB/s   00:00    
+sftp> cd
+You must specify a path after a cd command.
+sftp> cd 1002
+Couldn't stat remote file: No such file or directory
+sftp> quiy[Kt
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ sftp cs18c53@192.168.0.30[9Prsync -av st.txtsftp cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> cd 1002
+sftp> ls
+S2            s1            s2            students.txt  
+sftp> S[Kcd S@[K@[K2
+sftp> ls
+code2.sh         report.txt       result.txt       result_CHN.pdf   s2_cgpa.txt      students.txt     work.txt         
+sftp> quit
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ sftp cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> cd 100[K[K[K2402
+sftp> ls
+t2      t3t4t5  
+sftp> t[Kl[Kcd t2
+sftp> ls
+report.txt   result.txt   s2.pdf       s2_cgpa.txt  s2code.sh    
+sftp> c[Kquit
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ sftp cs18c53@192.168.0.30[9Prsync -av st.txtsftp cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> cd 2402
+sftp> rm t2
+Removing /home/cs18c53/2402/t2
+Couldn't delete file: Failure
+sftp> ls
+t2      t3t4t5  
+sftp> dele[K[K[K[Kcs t2
+Invalid command.
+sftp> cs t2 t2[Kd t2
+sftp> ls
+report.txt   result.txt   s2.pdf       s2_cgpa.txt  s2code.sh    
+sftp> rm report.txt
+Removing /home/cs18c53/2402/t2/report.txt
+sftp> rm result.txt
+Removing /home/cs18c53/2402/t2/result.txt
+sftp> rm s2.pdf
+Removing /home/cs18c53/2402/t2/s2.pdf
+sftp> rm s2.cgp[K[K[K[K_cgpa.txt
+Removing /home/cs18c53/2402/t2/s2_cgpa.txt
+sftp> rm s2code.sh
+Removing /home/cs18c53/2402/t2/s2code.sh
+sftp> cdrm s2code.sh[K[K[K[K[K[K[K[K[K[K[Kquit
+]0;s4c2@lab2-Veriton-Series: ~[01;32ms4c2@lab2-Veriton-Series[00m:[01;34m~[00m$ sftp cs18c53@192.168.0.30[9Prsync -av st.txtsftp cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> l[Kcd 2402
+sftp> rm t2
+Removing /home/cs18c53/2402/t2
+Couldn't delete file: Failure
+sftp> ls
+t2      t3t4t5  
+sftp> mkdir t9
+sftp> ls t9[K[K[K[Kcd t9
+sftp> put t9.html
+Uploading t9.html to /home/cs18c53/2402/t9/t9.html
+t9.html                                                                                                        0%    0     0.0KB/s   --:-- ETAt9.html                                                                                                      100% 3336     3.3KB/s   00:00    
+sftp> put report.txt
+Uploading report.txt to /home/cs18c53/2402/t9/report.txt
+report.txt                                                                                                     0%    0     0.0KB/s   --:-- ETAreport.txt                                                                                       

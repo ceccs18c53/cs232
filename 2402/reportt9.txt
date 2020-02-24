@@ -1,0 +1,20 @@
+CEC CS 18 C53
+Saurav KJ
+
+--------------------------------
+#1: Aim/task
+---------------------------------
+Command/Shell script/Program name
+Create webpage
+---------------------------------
+
+Input:gedit t9.html
+---------------
+
+--------------------------------
+Output:t9.html
+
+
+-------------------
+Remarks if any:Webpage created
+

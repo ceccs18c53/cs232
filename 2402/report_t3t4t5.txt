@@ -1,0 +1,132 @@
+CEC CS 18 C53
+Saurav KJ
+
+
+--------------------------------
+#1: Networking Tasks (t3)
+---------------------------------
+ifconfig -a
+	route -n
+	route add default gw 192.168.0.2
+	ping 192.168.0.1 		
+	
+	
+
+--------------------------------
+Output: s4c2@lab2-Veriton-Series:~/24021$ ifconfig -a
+enp0s25   Link encap:Ethernet  HWaddr 10:78:d2:e0:a8:00  
+          inet addr:192.168.0.219  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::b56:272f:6b7c:a52d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:297885 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:48076 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:120425030 (120.4 MB)  TX bytes:6137869 (6.1 MB)
+          Interrupt:20 Memory:fbbc0000-fbbe0000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:2572 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2572 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:177184 (177.1 KB)  TX bytes:177184 (177.1 KB)
+
+s4c2@lab2-Veriton-Series:~/24021$ route -n
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+169.254.0.0     0.0.0.0         255.255.0.0     U     1000   0        0 enp0s25
+192.168.0.0     0.0.0.0         255.255.254.0   U     100    0        0 enp0s25
+s4c2@lab2-Veriton-Series:~/24021$ ifconfig -s
+Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp0s25    1500 0    305295      0      0 0         48110      0      0      0 BMRU
+lo        65536 0      2572      0      0 0          2572      0      0      0 LRU
+s4c2@lab2-Veriton-Series:~/24021$ ping 192.168.0.1
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=128 time=0.760 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=128 time=0.478 ms
+64 bytes from 192.168.0.1: icmp_seq=3 ttl=128 time=0.475 ms
+64 bytes from 192.168.0.1: icmp_seq=4 ttl=128 time=0.479 ms
+64 bytes from 192.168.0.1: icmp_seq=5 ttl=128 time=0.474 ms
+64 bytes from 192.168.0.1: icmp_seq=6 ttl=128 time=0.269 ms
+64 bytes from 192.168.0.1: icmp_seq=7 ttl=128 time=0.472 ms
+64 bytes from 192.168.0.1: icmp_seq=8 ttl=128 time=0.269 ms
+64 bytes from 192.168.0.1: icmp_seq=9 ttl=128 time=0.284 ms
+64 bytes from 192.168.0.1: icmp_seq=10 ttl=128 time=0.264 ms
+64 bytes from 192.168.0.1: icmp_seq=11 ttl=128 time=0.492 ms
+64 bytes from 192.168.0.1: icmp_seq=12 ttl=128 time=0.267 ms
+^Z
+[8]+  Stopped                 ping 192.168.0.1
+
+
+
+	
+
+-------------------------------------
+
+
+-------------------------------------
+-------------------------------------
+#2: Further Networking tasks (t4)
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	ssh cs18c53@192.168.0.30
+	scp st.txt cs18c53@192.168.0.30
+        rsync -av st.txt
+--------------------------------
+Output: 
+ssh cs18c53@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c53@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+402 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Feb 24 11:01:30 2020 from 192.168.0.219
+$ exit
+Connection to 192.168.0.30 closed.
+
+scp st.txt cs18c53@192.168.0.30
+	
+
+--------------------------------
+#3: Ftp usage (t5)
+
+---------------------------------
+Command/Shell script/Program name
+---------------------------------
+	
+	sftp cs18c53@192.168.0.30
+	put report.txt
+	ls
+	get work.txt
+	rm work.txt
+	quit
+
+--------------------------------
+Output: 
+
+	 sftp cs18c52@192.168.0.30, connect to host 192.168.0.30 via sftp
+
+	 put report.txt, upload report.txt
+
+	 ls -To list all files
+
+	 lpwd, show local present working directory
+
+	 get work.txt, copy work.txt from host to system
+
+	 rm work.txt, Delete work.txt from host
+
+	
