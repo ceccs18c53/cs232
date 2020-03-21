@@ -1,0 +1,1271 @@
+Script started on Saturday 21 March 2020 11:00:07 AM IST
+bash: /home/user/.env/env/bin/activate: No such file or directory
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ sudo apt-get update
+[sudo] password for user: 
+
+
+0% [Working]
+            
+Ign file: binary/ InRelease
+
+            
+11% [Connecting to in.archive.ubuntu.com] [Connecting to security.ubuntu.com] [
+                                                                               
+Ign file: binary/ Release.gpg
+
+20% [Connecting to in.archive.ubuntu.com] [Connecting to security.ubuntu.com] [
+                                                                               
+Ign file: binary/ Release
+
+29% [Connecting to in.archive.ubuntu.com] [Connecting to security.ubuntu.com] [
+                                                                               
+Ign file: binary/ Translation-en_IN
+
+36% [Connecting to in.archive.ubuntu.com] [Connecting to security.ubuntu.com] [
+36% [Packages gzip 0 B] [Connecting to in.archive.ubuntu.com] [Connecting to se
+                                                                               
+Ign file: binary/ Translation-en
+
+43% [Packages gzip 0 B] [Connecting to in.archive.ubuntu.com] [Connecting to se
+50% [Connecting to in.archive.ubuntu.com] [Connecting to security.ubuntu.com] [
+50% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+                                                                               
+Ign http://extras.ubuntu.com trusty InRelease
+
+53% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+                                                                               
+Hit http://ppa.launchpad.net trusty InRelease
+
+53% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+53% [InRelease gpgv 16.0 kB] [Connecting to in.archive.ubuntu.com (103.97.84.25
+50% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+                                                                               
+Get:1 http://extras.ubuntu.com trusty Release.gpg [72 B]
+
+91% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+91% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+                                                                               
+Hit http://extras.ubuntu.com trusty Release
+
+91% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+91% [Release gpgv 11.9 kB] [Connecting to in.archive.ubuntu.com (103.97.84.254)
+87% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+                                                                               
+Hit http://extras.ubuntu.com trusty/main Sources
+
+87% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+                                                                               
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+
+87% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+87% [Sources 0 B] [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connec
+88% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to securi
+88% [Packages 14.6 kB] [Connecting to in.archive.ubuntu.com (103.97.84.254)] [C
+100% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to secur
+                                                                               
+Hit http://extras.ubuntu.com trusty/main amd64 Packages
+
+100% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to secur
+100% [Packages 0 B] [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Conn
+100% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Connecting to secur
+                                                                               
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+
+100% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Waiting for headers
+100% [Packages 14.6 kB] [Connecting to in.archive.ubuntu.com (103.97.84.254)] [
+100% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Waiting for headers
+                                                                               
+Hit http://extras.ubuntu.com trusty/main i386 Packages
+
+100% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Waiting for headers
+100% [Packages 0 B] [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Wait
+100% [Connecting to in.archive.ubuntu.com (103.97.84.254)] [Waiting for headers
+                                                                               
+Ign http://in.archive.ubuntu.com trusty InRelease
+
+100% [Waiting for headers] [Waiting for headers] [Connecting to ppa.launchpad.n
+                                                                               
+Get:2 http://in.archive.ubuntu.com trusty-updates InRelease [65.9 kB]
+
+32% [2 InRelease 1,182 B/65.9 kB 2%] [Waiting for headers] [Waiting for headers
+                                                                               
+Get:3 http://security.ubuntu.com trusty-security InRelease [65.9 kB]
+
+28% [2 InRelease 14.2 kB/65.9 kB 22%] [3 InRelease 1,141 B/65.9 kB 2%] [Waiting
+68% [3 InRelease 14.2 kB/65.9 kB 22%] [Waiting for headers] [Waiting for header
+68% [2 InRelease gpgv 65.9 kB] [Waiting for headers] [3 InRelease 14.2 kB/65.9 
+68% [Waiting for headers] [3 InRelease 14.2 kB/65.9 kB 22%] [Waiting for header
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports InRelease
+
+68% [3 InRelease 14.2 kB/65.9 kB 22%] [Waiting for headers] [Waiting for header
+68% [InRelease gpgv 65.9 kB] [Waiting for headers] [3 InRelease 14.2 kB/65.9 kB
+                                                                               
+Hit http://in.archive.ubuntu.com trusty Release.gpg
+
+68% [InRelease gpgv 65.9 kB] [3 InRelease 14.2 kB/65.9 kB 22%] [Waiting for hea
+                                                                               
+Hit http://ppa.launchpad.net trusty/main Translation-en
+
+68% [InRelease gpgv 65.9 kB] [Waiting for headers] [3 InRelease 14.2 kB/65.9 kB
+68% [Translation-en 6,592 B] [InRelease gpgv 65.9 kB] [Waiting for headers] [3 
+69% [InRelease gpgv 65.9 kB] [Waiting for headers] [3 InRelease 14.2 kB/65.9 kB
+69% [Waiting for headers] [3 InRelease 14.2 kB/65.9 kB 22%] [Waiting for header
+                                                                               
+Get:4 http://in.archive.ubuntu.com trusty-updates/main Sources [431 kB]
+
+21% [4 Sources 1,181 B/431 kB 0%] [3 InRelease 20.0 kB/65.9 kB 30%] [Waiting fo
+90% [4 Sources 370 kB/431 kB 86%] [3 InRelease 64.9 kB/65.9 kB 98%] [Waiting fo
+                                                                               
+100% [3 InRelease 64.9 kB/65.9 kB 98%] [Waiting for headers]
+                                                            
+100% [4 Sources bzip2 0 B] [Waiting for headers] [3 InRelease 65.9 kB/65.9 kB 1
+                                                                               
+100% [4 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [4 Sources bzip2 0 B] [3 InRelease gpgv 65.9 kB] [Waiting for headers] [Wa
+                                                                               
+100% [4 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]
+                                                                      
+Get:5 http://in.archive.ubuntu.com trusty-updates/restricted Sources [6,313 B]
+
+                                                                      
+99% [4 Sources bzip2 0 B] [5 Sources 2,632 B/6,313 B 42%] [Waiting for headers]
+100% [4 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Get:6 http://in.archive.ubuntu.com trusty-updates/universe Sources [231 kB]
+
+73% [4 Sources bzip2 0 B] [6 Sources 2,629 B/231 kB 1%] [Waiting for headers] [
+                                                                               
+74% [6 Sources 15.7 kB/231 kB 7%] [Waiting for headers] [Waiting for headers]
+                                                                             
+74% [5 Sources bzip2 0 B] [6 Sources 15.7 kB/231 kB 7%] [Waiting for headers] [
+                                                                               
+74% [6 Sources 15.7 kB/231 kB 7%] [Waiting for headers] [Waiting for headers]
+                                                                             
+Get:7 http://security.ubuntu.com trusty-security/main Sources [172 kB]
+
+                                                                             
+64% [6 Sources 43.2 kB/231 kB 19%] [7 Sources 1,105 B/172 kB 1%] [Waiting for h
+                                                                               
+Ign http://extras.ubuntu.com trusty/main Translation-en_IN
+
+                                                                               
+77% [6 Sources 124 kB/231 kB 54%] [7 Sources 47.4 kB/172 kB 28%]
+                                                                
+Ign http://extras.ubuntu.com trusty/main Translation-en
+
+                                                                
+90% [6 Sources 171 kB/231 kB 74%] [7 Sources 133 kB/172 kB 77%]
+                                                               
+95% [6 Sources 185 kB/231 kB 80%]
+                                 
+95% [7 Sources bzip2 0 B] [6 Sources 185 kB/231 kB 80%]
+97% [6 Sources 202 kB/231 kB 88%] [Waiting for headers]
+                                                       
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [6 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]
+                                                                      
+Get:8 http://in.archive.ubuntu.com trusty-updates/multiverse Sources [7,535 B]
+
+                                                                      
+99% [6 Sources bzip2 0 B] [8 Sources 0 B/7,535 B 0%] [Waiting for headers]
+                                                                          
+100% [6 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [8 Sources bzip2 0 B] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Get:9 http://in.archive.ubuntu.com trusty-updates/main amd64 Packages [1,177 kB]
+
+                                                
+46% [9 Packages 2,627 B/1,177 kB 0%] [Waiting for headers]
+                                                          
+Get:10 http://security.ubuntu.com trusty-security/restricted Sources [4,931 B]
+
+                                                          
+52% [9 Packages 129 kB/1,177 kB 11%] [10 Sources 4,931 B/4,931 B 100%]
+                                                                      
+52% [9 Packages 129 kB/1,177 kB 11%]
+52% [9 Packages 129 kB/1,177 kB 11%]
+                                    
+Get:11 http://security.ubuntu.com trusty-security/universe Sources [102 kB]
+
+                                    
+55% [9 Packages 231 kB/1,177 kB 20%] [11 Sources 2,553 B/102 kB 2%]
+                                                                   
+60% [9 Packages 263 kB/1,177 kB 22%]
+                                    
+60% [11 Sources bzip2 0 B] [9 Packages 266 kB/1,177 kB 23%]
+                                                           
+60% [9 Packages 268 kB/1,177 kB 23%] [Waiting for headers]
+                                                          
+Get:12 http://security.ubuntu.com trusty-security/multiverse Sources [3,263 B]
+
+                                                          
+64% [9 Packages 340 kB/1,177 kB 29%] [12 Sources 2,557 B/3,263 B 78%]
+                                                                     
+64% [9 Packages 340 kB/1,177 kB 29%] [Waiting for headers]
+                                                          
+64% [12 Sources bzip2 0 B] [9 Packages 340 kB/1,177 kB 29%] [Waiting for header
+                                                                               
+64% [9 Packages 340 kB/1,177 kB 29%] [Waiting for headers]
+                                                          
+Get:13 http://security.ubuntu.com trusty-security/main amd64 Packages [835 kB]
+
+                                                          
+49% [9 Packages 410 kB/1,177 kB 35%] [13 Packages 2,553 B/835 kB 0%]
+60% [9 Packages 491 kB/1,177 kB 42%] [13 Packages 273 kB/835 kB 33%]
+75% [9 Packages 546 kB/1,177 kB 46%] [13 Packages 695 kB/835 kB 83%]
+                                                                    
+81% [9 Packages 572 kB/1,177 kB 49%]
+                                    
+81% [13 Packages bzip2 0 B] [9 Packages 572 kB/1,177 kB 49%] [Waiting for heade
+                                                                               
+Get:14 http://security.ubuntu.com trusty-security/restricted amd64 Packages [14.2 kB]
+
+82% [13 Packages bzip2 0 B] [9 Packages 618 kB/1,177 kB 53%] [14 Packages 0 B/1
+                                                                               
+82% [13 Packages bzip2 0 B] [9 Packages 618 kB/1,177 kB 53%]
+                                                            
+83% [9 Packages 630 kB/1,177 kB 53%] [Waiting for headers]          434 kB/s 1s
+83% [14 Packages bzip2 0 B] [9 Packages 630 kB/1,177 kB 53%] [Waiting for heade
+83% [9 Packages 630 kB/1,177 kB 53%] [Waiting for headers]          434 kB/s 1s
+                                                                               
+Get:15 http://security.ubuntu.com trusty-security/universe amd64 Packages [294 kB]
+
+                                                                               
+77% [9 Packages 677 kB/1,177 kB 58%] [15 Packages 2,553 B/294 kB 1%]
+                                                                    
+90% [9 Packages 840 kB/1,177 kB 71%] [15 Packages 294 kB/294 kB 100%]
+                                                                     
+91% [9 Packages 879 kB/1,177 kB 75%]                                434 kB/s 0s
+91% [15 Packages bzip2 0 B] [9 Packages 879 kB/1,177 kB 75%] [Waiting for heade
+92% [9 Packages 908 kB/1,177 kB 77%] [Waiting for headers]          434 kB/s 0s
+                                                                               
+Get:16 http://security.ubuntu.com trusty-security/multiverse amd64 Packages [4,806 B]
+
+                                                                               
+93% [9 Packages 921 kB/1,177 kB 78%] [16 Packages 2,537 B/4,806 B 53%]
+                                                                      
+93% [9 Packages 941 kB/1,177 kB 80%]                                434 kB/s 0s
+93% [16 Packages bzip2 0 B] [9 Packages 941 kB/1,177 kB 80%]        434 kB/s 0s
+93% [9 Packages 942 kB/1,177 kB 80%] [Connecting to security.ubuntu.com (91.189
+                                                                               
+Get:17 http://security.ubuntu.com trusty-security/main i386 Packages [748 kB]
+
+                                                                               
+79% [9 Packages 1,063 kB/1,177 kB 90%] [17 Packages 1,105 B/748 kB 0%]
+                                                                      
+83% [17 Packages 28.6 kB/748 kB 4%]                                 434 kB/s 1s
+83% [9 Packages bzip2 0 B] [Waiting for headers] [17 Packages 28.6 kB/748 kB 4%
+                                                                               
+Get:18 http://in.archive.ubuntu.com trusty-updates/restricted amd64 Packages [17.2 kB]
+
+83% [9 Packages bzip2 0 B] [18 Packages 0 B/17.2 kB 0%] [17 Packages 37.3 kB/74
+83% [9 Packages bzip2 0 B] [17 Packages 37.3 kB/748 kB 5%]          434 kB/s 1s
+                                                                               
+Get:19 http://in.archive.ubuntu.com trusty-updates/universe amd64 Packages [525 kB]
+
+74% [9 Packages bzip2 0 B] [19 Packages 0 B/525 kB 0%] [17 Packages 43.1 kB/748
+                                                                               
+78% [19 Packages 136 kB/525 kB 26%] [17 Packages 95.2 kB/748 kB 13%]
+                                                                    
+78% [18 Packages bzip2 0 B] [19 Packages 136 kB/525 kB 26%] [17 Packages 95.2 k
+                                                                               
+78% [19 Packages 139 kB/525 kB 26%] [17 Packages 98.1 kB/748 kB 13%]
+                                                                    
+87% [19 Packages 425 kB/525 kB 81%] [17 Packages 240 kB/748 kB 32%]
+                                                                   
+93% [17 Packages 402 kB/748 kB 54%]                                 434 kB/s 0s
+93% [19 Packages bzip2 0 B] [Waiting for headers] [17 Packages 402 kB/748 kB 54
+                                                                               
+Get:20 http://in.archive.ubuntu.com trusty-updates/multiverse amd64 Packages [14.6 kB]
+
+92% [19 Packages bzip2 0 B] [20 Packages 0 B/14.6 kB 0%] [17 Packages 402 kB/74
+93% [19 Packages bzip2 0 B] [17 Packages 402 kB/748 kB 54%]         434 kB/s 0s
+                                                                               
+Get:21 http://in.archive.ubuntu.com trusty-updates/main i386 Packages [1,089 kB]
+
+76% [19 Packages bzip2 0 B] [21 Packages 0 B/1,089 kB 0%] [17 Packages 431 kB/7
+                                                                               
+77% [21 Packages 34.5 kB/1,089 kB 3%] [17 Packages 431 kB/748 kB 58%]
+                                                                     
+77% [20 Packages bzip2 0 B] [21 Packages 34.5 kB/1,089 kB 3%] [17 Packages 431 
+                                                                               
+77% [21 Packages 34.5 kB/1,089 kB 3%] [17 Packages 431 kB/748 kB 58%]
+                                                                     
+83% [21 Packages 108 kB/1,089 kB 10%]                               434 kB/s 2s
+83% [17 Packages bzip2 0 B] [21 Packages 108 kB/1,089 kB 10%] [Waiting for head
+                                                                               
+Get:22 http://security.ubuntu.com trusty-security/restricted i386 Packages [13.9 kB]
+
+84% [17 Packages bzip2 0 B] [21 Packages 171 kB/1,089 kB 16%] [22 Packages 0 B/
+84% [17 Packages bzip2 0 B] [21 Packages 172 kB/1,089 kB 16%]       434 kB/s 2s
+84% [21 Packages 172 kB/1,089 kB 16%] [Waiting for headers]         434 kB/s 2s
+84% [22 Packages bzip2 0 B] [21 Packages 172 kB/1,089 kB 16%] [Waiting for head
+85% [21 Packages 182 kB/1,089 kB 17%] [Waiting for headers]         434 kB/s 2s
+                                                                               
+Get:23 http://security.ubuntu.com trusty-security/universe i386 Packages [277 kB]
+
+                                                                               
+82% [21 Packages 236 kB/1,089 kB 22%] [23 Packages 2,553 B/277 kB 1%]
+                                                                     
+87% [21 Packages 298 kB/1,089 kB 27%]                               434 kB/s 1s
+87% [23 Packages bzip2 0 B] [21 Packages 298 kB/1,089 kB 27%] [Waiting for head
+87% [21 Packages 312 kB/1,089 kB 29%] [Waiting for headers]         434 kB/s 1s
+                                                                               
+Get:24 http://security.ubuntu.com trusty-security/multiverse i386 Packages [4,969 B]
+
+                                                                               
+89% [21 Packages 420 kB/1,089 kB 39%] [24 Packages 4,969 B/4,969 B 100%]
+                                                                        
+89% [21 Packages 420 kB/1,089 kB 39%]                               434 kB/s 1s
+89% [21 Packages 420 kB/1,089 kB 39%]                               434 kB/s 1s
+                                                                               
+Get:25 http://security.ubuntu.com trusty-security/main Translation-en [448 kB]
+
+                                                                               
+84% [21 Packages 501 kB/1,089 kB 46%] [25 Translation-en 2,553 B/448 kB 1%]
+                                                                           
+93% [21 Packages 601 kB/1,089 kB 55%]                               434 kB/s 1s
+93% [25 Translation-en bzip2 0 B] [21 Packages 601 kB/1,089 kB 55%] [Waiting fo
+                                                                               
+Get:26 http://security.ubuntu.com trusty-security/multiverse Translation-en [2,564 B]
+
+94% [25 Translation-en bzip2 0 B] [21 Packages 674 kB/1,089 kB 62%] [26 Transla
+                                                                               
+94% [25 Translation-en bzip2 0 B] [21 Packages 674 kB/1,089 kB 62%]
+                                                                   
+94% [21 Packages 693 kB/1,089 kB 64%] [Waiting for headers]         434 kB/s 0s
+94% [26 Translation-en bzip2 0 B] [21 Packages 693 kB/1,089 kB 64%] [Waiting fo
+94% [21 Packages 693 kB/1,089 kB 64%] [Waiting for headers]         434 kB/s 0s
+                                                                               
+Get:27 http://security.ubuntu.com trusty-security/restricted Translation-en [3,556 B]
+
+                                                                               
+95% [21 Packages 770 kB/1,089 kB 71%] [27 Translation-en 1,109 B/3,556 B 31%]
+                                                                             
+95% [21 Packages 770 kB/1,089 kB 71%]                               434 kB/s 0s
+95% [21 Packages 770 kB/1,089 kB 71%] [Waiting for headers]         434 kB/s 0s
+                                                                               
+Get:28 http://security.ubuntu.com trusty-security/universe Translation-en [162 kB]
+
+                                                                               
+95% [21 Packages 884 kB/1,089 kB 81%] [28 Translation-en 2,553 B/162 kB 2%]
+                                                                           
+99% [21 Packages 1,047 kB/1,089 kB 96%]                             682 kB/s 0s
+                                                                               
+99% [28 Translation-en bzip2 0 B] [21 Packages 1,047 kB/1,089 kB 96%]
+                                                                     
+100% [21 Packages 1,077 kB/1,089 kB 99%]                            682 kB/s 0s
+100% [Working]                                                      682 kB/s 0s
+100% [21 Packages bzip2 0 B] [Waiting for headers]                  682 kB/s 0s
+                                                                               
+Get:29 http://in.archive.ubuntu.com trusty-updates/restricted i386 Packages [17.0 kB]
+
+100% [21 Packages bzip2 0 B] [29 Packages 1,183 B/17.0 kB 7%]       682 kB/s 0s
+100% [21 Packages bzip2 0 B] [Waiting for headers]                  682 kB/s 0s
+                                                                               
+Get:30 http://in.archive.ubuntu.com trusty-updates/universe i386 Packages [504 kB]
+
+93% [21 Packages bzip2 0 B] [30 Packages 2,629 B/504 kB 1%]         682 kB/s 0s
+94% [30 Packages 91.0 kB/504 kB 18%]                                682 kB/s 0s
+94% [29 Packages bzip2 0 B] [30 Packages 91.0 kB/504 kB 18%]        682 kB/s 0s
+95% [30 Packages 108 kB/504 kB 21%]                                 682 kB/s 0s
+97% [30 Packages 278 kB/504 kB 55%]                                 682 kB/s 0s
+98% [30 Packages 379 kB/504 kB 75%]                                 682 kB/s 0s
+100% [30 Packages 482 kB/504 kB 96%]                                682 kB/s 0s
+100% [Working]                                                      682 kB/s 0s
+100% [30 Packages bzip2 0 B] [Waiting for headers]                  682 kB/s 0s
+                                                                               
+Get:31 http://in.archive.ubuntu.com trusty-updates/multiverse i386 Packages [15.1 kB]
+
+100% [30 Packages bzip2 0 B] [31 Packages 0 B/15.1 kB 0%]           682 kB/s 0s
+100% [30 Packages bzip2 0 B]                                        682 kB/s 0s
+100% [Waiting for headers]                                          682 kB/s 0s
+100% [31 Packages bzip2 0 B] [Waiting for headers]                  682 kB/s 0s
+100% [Waiting for headers]                                          682 kB/s 0s
+                                                                               
+Get:32 http://in.archive.ubuntu.com trusty-updates/main Translation-en [582 kB]
+
+93% [32 Translation-en 2,629 B/582 kB 0%]                           682 kB/s 0s
+94% [32 Translation-en 103 kB/582 kB 18%]                           682 kB/s 0s
+95% [32 Translation-en 169 kB/582 kB 29%]                           682 kB/s 0s
+96% [32 Translation-en 259 kB/582 kB 45%]                           682 kB/s 0s
+97% [32 Translation-en 313 kB/582 kB 54%]                           682 kB/s 0s
+98% [32 Translation-en 395 kB/582 kB 68%]                           682 kB/s 0s
+99% [32 Translation-en 520 kB/582 kB 89%]                           682 kB/s 0s
+100% [Working]                                                      682 kB/s 0s
+100% [32 Translation-en bzip2 0 B] [Waiting for headers]            682 kB/s 0s
+                                                                               
+Get:33 http://in.archive.ubuntu.com trusty-updates/multiverse Translation-en [7,616 B]
+
+                                                                               
+100% [32 Translation-en bzip2 0 B] [33 Translation-en 0 B/7,616 B 0%]
+                                                                     
+100% [32 Translation-en bzip2 0 B]                                  682 kB/s 0s
+                                                                               
+Get:34 http://in.archive.ubuntu.com trusty-updates/restricted Translation-en [4,028 B]
+
+                                                                               
+100% [32 Translation-en bzip2 0 B] [34 Translation-en 0 B/4,028 B 0%]
+                                                                     
+100% [32 Translation-en bzip2 0 B]                                  682 kB/s 0s
+                                                                               
+Get:35 http://in.archive.ubuntu.com trusty-updates/universe Translation-en [281 kB]
+
+                                                                               
+97% [32 Translation-en bzip2 0 B] [35 Translation-en 0 B/281 kB 0%]
+                                                                   
+97% [35 Translation-en 33.0 kB/281 kB 12%]                          682 kB/s 0s
+                                                                               
+97% [33 Translation-en bzip2 0 B] [35 Translation-en 33.0 kB/281 kB 12%]
+                                                                        
+97% [35 Translation-en 33.0 kB/281 kB 12%]                          682 kB/s 0s
+                                                                               
+97% [34 Translation-en bzip2 0 B] [35 Translation-en 33.0 kB/281 kB 12%]
+                                                                        
+97% [35 Translation-en 34.5 kB/281 kB 12%]                          682 kB/s 0s
+99% [35 Translation-en 198 kB/281 kB 71%]                           214 kB/s 0s
+100% [Working]                                                      214 kB/s 0s
+100% [35 Translation-en bzip2 0 B] [Waiting for headers]            214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty Release
+
+100% [35 Translation-en bzip2 0 B]                                  214 kB/s 0s
+100% [35 Translation-en bzip2 0 B] [Release gpgv 58.5 kB]           214 kB/s 0s
+100% [35 Translation-en bzip2 0 B] [Waiting for headers]            214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/main Sources
+
+100% [Working]                                                      214 kB/s 0s
+100% [Sources 34.0 kB] [Waiting for headers]                        214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/restricted Sources
+
+100% [Working]                                                      214 kB/s 0s
+100% [Sources 0 B] [Waiting for headers]                            214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/universe Sources
+
+100% [Working]                                                      214 kB/s 0s
+100% [Sources 141 kB] [Waiting for headers]                         214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse Sources
+
+100% [Working]                                                      214 kB/s 0s
+100% [Sources 4,444 B] [Waiting for headers]                        214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/main amd64 Packages
+
+100% [Working]                                                      214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/restricted amd64 Packages
+
+100% [Working]                                                      214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/universe amd64 Packages
+
+100% [Working]                                                      214 kB/s 0s
+100% [Packages 220 kB] [Waiting for headers]                        214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse amd64 Packages
+
+100% [Working]                                                      214 kB/s 0s
+100% [Packages 3,396 B] [Waiting for headers]                       214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/main i386 Packages
+
+100% [Working]                                                      214 kB/s 0s
+100% [Packages 59.0 kB] [Waiting for headers]                       214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/restricted i386 Packages
+
+100% [Working]                                                      214 kB/s 0s
+100% [Packages 0 B] [Waiting for headers]                           214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/universe i386 Packages
+
+100% [Working]                                                      214 kB/s 0s
+100% [Packages 219 kB] [Waiting for headers]                        214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse i386 Packages
+
+100% [Working]                                                      214 kB/s 0s
+100% [Packages 3,341 B] [Waiting for headers]                       214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/main Translation-en
+
+100% [Working]                                                      214 kB/s 0s
+100% [Translation-en 28.1 kB] [Waiting for headers]                 214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse Translation-en
+
+100% [Working]                                                      214 kB/s 0s
+100% [Translation-en 2,242 B] [Waiting for headers]                 214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/restricted Translation-en
+
+100% [Working]                                                      214 kB/s 0s
+100% [Translation-en 0 B] [Waiting for headers]                     214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/universe Translation-en
+
+100% [Working]                                                      214 kB/s 0s
+100% [Translation-en 155 kB] [Waiting for headers]                  214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/main Sources
+
+100% [Working]                                                      214 kB/s 0s
+100% [Sources 5,000 kB] [Waiting for headers]                       214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/restricted Sources
+
+100% [Sources 5,000 kB] [Waiting for headers]                       214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Sources 22.9 kB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/universe Sources
+
+100% [Sources 22.9 kB]                                              214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/multiverse Sources
+
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/main amd64 Packages
+
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/restricted amd64 Packages
+
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/universe amd64 Packages
+
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/multiverse amd64 Packages
+
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/main i386 Packages
+
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/restricted i386 Packages
+
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/universe i386 Packages
+
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/multiverse i386 Packages
+
+100% [Sources 27.9 MB] [Waiting for headers]                        214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Sources 711 kB] [Waiting for headers]                         214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Packages 8,235 kB] [Waiting for headers]                      214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/main Translation-en
+
+100% [Packages 8,235 kB]                                            214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/multiverse Translation-en
+
+100% [Packages 8,235 kB]                                            214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Packages 184 kB] [Waiting for headers]                        214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Packages 31.7 MB] [Waiting for headers]                       214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/restricted Translation-en
+
+100% [Packages 31.7 MB]                                             214 kB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/universe Translation-en
+
+100% [Packages 31.7 MB]                                             214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Packages 664 kB] [Waiting for headers]                        214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Packages 8,205 kB] [Waiting for headers]                      214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Packages 185 kB] [Waiting for headers]                        214 kB/s 0s
+100% [Waiting for headers]                                          214 kB/s 0s
+100% [Packages 31.7 MB] [Waiting for headers]                       214 kB/s 0s
+                                                                               
+Ign http://in.archive.ubuntu.com trusty/main Translation-en_IN
+
+100% [Packages 31.7 MB]                                             214 kB/s 0s
+                                                                               
+Ign http://in.archive.ubuntu.com trusty/multiverse Translation-en_IN
+
+100% [Packages 31.7 MB]                                             214 kB/s 0s
+                                                                               
+Ign http://in.archive.ubuntu.com trusty/restricted Translation-en_IN
+
+100% [Packages 31.7 MB]                                             214 kB/s 0s
+                                                                               
+Ign http://in.archive.ubuntu.com trusty/universe Translation-en_IN
+
+100% [Packages 31.7 MB]                                             214 kB/s 0s
+100% [Working]                                                      214 kB/s 0s
+100% [Packages 674 kB]                                              214 kB/s 0s
+100% [Working]                                                      214 kB/s 0s
+100% [Translation-en 4,149 kB]                                      214 kB/s 0s
+100% [Working]                                                      214 kB/s 0s
+100% [Translation-en 409 kB]                                        214 kB/s 0s
+100% [Working]                                                      214 kB/s 0s
+100% [Translation-en 21.2 kB]                                       214 kB/s 0s
+100% [Working]                                                      214 kB/s 0s
+100% [Translation-en 18.6 MB]                                       214 kB/s 0s
+100% [Working]                                                      214 kB/s 0s
+                                                                               
+Fetched 8,132 kB in 22s (365 kB/s)
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 1%
+
+Reading package lists... 4%
+
+Reading package lists... 4%
+
+Reading package lists... 5%
+
+Reading package lists... 5%
+
+Reading package lists... 23%
+
+Reading package lists... 24%
+
+Reading package lists... 24%
+
+Reading package lists... 24%
+
+Reading package lists... 24%
+
+Reading package lists... 29%
+
+Reading package lists... 29%
+
+Reading package lists... 29%
+
+Reading package lists... 29%
+
+Reading package lists... 48%
+
+Reading package lists... 48%
+
+Reading package lists... 49%
+
+Reading package lists... 49%
+
+Reading package lists... 51%
+
+Reading package lists... 51%
+
+Reading package lists... 52%
+
+Reading package lists... 52%
+
+Reading package lists... 52%
+
+Reading package lists... 52%
+
+Reading package lists... 53%
+
+Reading package lists... 63%
+
+Reading package lists... 63%
+
+Reading package lists... 68%
+
+Reading package lists... 68%
+
+Reading package lists... 68%
+
+Reading package lists... 68%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 76%
+
+Reading package lists... 77%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 88%
+
+Reading package lists... 88%
+
+Reading package lists... 88%
+
+Reading package lists... 88%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 98%
+
+Reading package lists... Done
+
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ sudp apt-get install apache2
+No command 'sudp' found, did you mean:
+ Command 'sudo' from package 'sudo' (main)
+ Command 'sudo' from package 'sudo-ldap' (universe)
+ Command 'sfdp' from package 'graphviz' (main)
+ Command 'sup' from package 'sup' (universe)
+sudp: command not found
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ sud0 apt-get install apache2[1P[1@o
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
+The following extra packages will be installed:
+  apache2-bin apache2-data libapr1 libaprutil1 libaprutil1-dbd-sqlite3
+  libaprutil1-ldap
+Suggested packages:
+  apache2-doc apache2-suexec-pristine apache2-suexec-custom apache2-utils
+The following NEW packages will be installed:
+  apache2 apache2-bin apache2-data libapr1 libaprutil1 libaprutil1-dbd-sqlite3
+  libaprutil1-ldap
+0 upgraded, 7 newly installed, 0 to remove and 1105 not upgraded.
+Need to get 1,273 kB of archives.
+After this operation, 5,264 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+
+
+0% [Working]
+            
+Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty/main libapr1 amd64 1.5.0-1 [85.1 kB]
+
+            
+1% [1 libapr1 15.7 kB/85.1 kB 18%]
+5% [1 libapr1 64.9 kB/85.1 kB 76%]
+                                  
+7% [Working]
+            
+Get:2 http://in.archive.ubuntu.com/ubuntu/ trusty/main libaprutil1 amd64 1.5.3-1 [76.4 kB]
+
+            
+7% [2 libaprutil1 2,630 B/76.4 kB 3%]
+                                     
+12% [2 libaprutil1 64.9 kB/76.4 kB 85%]
+                                       
+13% [Working]
+             
+Get:3 http://in.archive.ubuntu.com/ubuntu/ trusty/main libaprutil1-dbd-sqlite3 amd64 1.5.3-1 [10.5 kB]
+
+             
+13% [3 libaprutil1-dbd-sqlite3 2,631 B/10.5 kB 25%]
+                                                   
+14% [Working]
+             
+Get:4 http://in.archive.ubuntu.com/ubuntu/ trusty/main libaprutil1-ldap amd64 1.5.3-1 [8,634 B]
+
+             
+14% [4 libaprutil1-ldap 2,632 B/8,634 B 30%]
+                                            
+14% [Working]
+             
+Get:5 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main apache2-bin amd64 2.4.7-1ubuntu4.22 [845 kB]
+
+             
+15% [5 apache2-bin 4,077 B/845 kB 0%]
+23% [5 apache2-bin 110 kB/845 kB 13%]
+33% [5 apache2-bin 237 kB/845 kB 28%]
+42% [5 apache2-bin 354 kB/845 kB 42%]
+53% [5 apache2-bin 495 kB/845 kB 59%]
+61% [5 apache2-bin 595 kB/845 kB 70%]
+68% [5 apache2-bin 685 kB/845 kB 81%]
+73% [5 apache2-bin 747 kB/845 kB 88%]
+79% [5 apache2-bin 829 kB/845 kB 98%]
+                                     
+81% [Working]                                                       169 kB/s 1s
+                                                                               
+Get:6 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main apache2-data all 2.4.7-1ubuntu4.22 [160 kB]
+
+82% [6 apache2-data 21.6 kB/160 kB 14%]                             169 kB/s 1s
+88% [6 apache2-data 93.9 kB/160 kB 59%]                             169 kB/s 0s
+93% [Working]                                                       169 kB/s 0s
+                                                                               
+Get:7 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main apache2 amd64 2.4.7-1ubuntu4.22 [87.4 kB]
+
+93% [7 apache2 2,630 B/87.4 kB 3%]                                  169 kB/s 0s
+100% [Working]                                                      169 kB/s 0s
+                                                                               
+Fetched 1,273 kB in 7s (173 kB/s)
+Selecting previously unselected package libapr1:amd64.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 396271 files and directories currently installed.)
+Preparing to unpack .../libapr1_1.5.0-1_amd64.deb ...
+Unpacking libapr1:amd64 (1.5.0-1) ...
+Selecting previously unselected package libaprutil1:amd64.
+Preparing to unpack .../libaprutil1_1.5.3-1_amd64.deb ...
+Unpacking libaprutil1:amd64 (1.5.3-1) ...
+Selecting previously unselected package libaprutil1-dbd-sqlite3:amd64.
+Preparing to unpack .../libaprutil1-dbd-sqlite3_1.5.3-1_amd64.deb ...
+Unpacking libaprutil1-dbd-sqlite3:amd64 (1.5.3-1) ...
+Selecting previously unselected package libaprutil1-ldap:amd64.
+Preparing to unpack .../libaprutil1-ldap_1.5.3-1_amd64.deb ...
+Unpacking libaprutil1-ldap:amd64 (1.5.3-1) ...
+Selecting previously unselected package apache2-bin.
+Preparing to unpack .../apache2-bin_2.4.7-1ubuntu4.22_amd64.deb ...
+Unpacking apache2-bin (2.4.7-1ubuntu4.22) ...
+Selecting previously unselected package apache2-data.
+Preparing to unpack .../apache2-data_2.4.7-1ubuntu4.22_all.deb ...
+Unpacking apache2-data (2.4.7-1ubuntu4.22) ...
+Selecting previously unselected package apache2.
+Preparing to unpack .../apache2_2.4.7-1ubuntu4.22_amd64.deb ...
+Unpacking apache2 (2.4.7-1ubuntu4.22) ...
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Processing triggers for ufw (0.34~rc-0ubuntu2) ...
+Processing triggers for ureadahead (0.100.0-16) ...
+Setting up libapr1:amd64 (1.5.0-1) ...
+Setting up libaprutil1:amd64 (1.5.3-1) ...
+Setting up libaprutil1-dbd-sqlite3:amd64 (1.5.3-1) ...
+Setting up libaprutil1-ldap:amd64 (1.5.3-1) ...
+Setting up apache2-bin (2.4.7-1ubuntu4.22) ...
+Setting up apache2-data (2.4.7-1ubuntu4.22) ...
+Setting up apache2 (2.4.7-1ubuntu4.22) ...
+Enabling module mpm_event.
+Enabling module authz_core.
+Enabling module authz_host.
+Enabling module authn_core.
+Enabling module auth_basic.
+Enabling module access_compat.
+Enabling module authn_file.
+Enabling module authz_user.
+Enabling module alias.
+Enabling module dir.
+Enabling module autoindex.
+Enabling module env.
+Enabling module mime.
+Enabling module negotiation.
+Enabling module setenvif.
+Enabling module filter.
+Enabling module deflate.
+Enabling module status.
+Enabling conf charset.
+Enabling conf localized-error-pages.
+Enabling conf other-vhosts-access-log.
+Enabling conf security.
+Enabling conf serve-cgi-bin.
+Enabling site 000-default.
+ * Starting web server apache2       [80G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+ * 
+Processing triggers for libc-bin (2.19-0ubuntu6.4) ...
+Processing triggers for ufw (0.34~rc-0ubuntu2) ...
+Processing triggers for ureadahead (0.100.0-16) ...
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ if config
+> ^C
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ if config[1Pconfig
+eth0      Link encap:Ethernet  HWaddr b8:ae:ed:b2:d6:02  
+          inet addr:192.168.0.103  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::baae:edff:feb2:d602/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:38667 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:33658 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:43284063 (43.2 MB)  TX bytes:4540184 (4.5 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:2032 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2032 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:214976 (214.9 KB)  TX bytes:214976 (214.9 KB)
+
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ ll[Ks/var/www
+bash: ls/var/www: No such file or directory
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ sudo ^V[K[K /var/www/html/index.html[C /var/www/html/index.htmlg /var/www/html/index.html[1P /var/www/html/index.htmlg /var/www/html/index.htmle /var/www/html/index.htmld /var/www/html/index.htmli /var/www/html/index.htmlt /var/www/html/index.html
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5294): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ sudo ?et?init.d?apach2 [1P[1@/gedit /var/www/html/index.html
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls/var/www[K[K[K[K[K[K[K[K[K[K[Ksudo /etc/init.d/apache2 stop
+[sudo] password for user: 
+ * Stopping web server apache2       [80G  * 
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ sudo /etc/init.d/apache2 stop[K[K[K[Krestart
+ * Restarting web server apache2       [80G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+
+[74G[ OK ]
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ exit[K[K[K[Ksudo apt-get install vsftpop[K[Kd
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
+vsftpd is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 1105 not upgraded.
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ sudo gedit ?[K/etc/vsftpd.conf
+
+(gedit:5926): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gedit:5926): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ sudo service vsftpd restart
+vsftpd stop/waiting
+vsftpd start/running, process 5955
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ ifconfig
+eth0      Link encap:Ethernet  HWaddr b8:ae:ed:b2:d6:02  
+          inet addr:192.168.0.103  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::baae:edff:feb2:d602/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:45193 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:39888 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:47216552 (47.2 MB)  TX bytes:5354626 (5.3 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:3509 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:3509 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:406487 (406.4 KB)  TX bytes:406487 (406.4 KB)
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ ftp 192.168.0.103 service vsftpd restartc[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pftp 192.168.0.103 sudo gedit /etc/vsftpd.conf
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ service vsftpd restart[Ksudo gedit /etc/vsftpd.conf
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Pftp 192.168.0.103 
+Connected to 192.168.0.103.
+220 (vsFTPd 3.0.2)
+Name (192.168.0.103:user): user
+331 Please specify the password.
+Password:
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> ls
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+drwxrwxr-x    2 1000     1000         4096 Mar 21 11:30 2102
+drwxr-xr-x    4 1000     1000         4096 Nov 04 21:17 Desktop
+drwxr-xr-x    3 1000     1000         4096 Sep 26  2018 Documents
+drwxr-xr-x    3 1000     1000         4096 Feb 02 19:46 Downloads
+drwxr-xr-x    2 1000     1000         4096 Sep 09  2018 Music
+drwxr-xr-x    2 1000     1000         4096 Mar 01  2019 Pictures
+drwxr-xr-x    3 1000     1000         4096 Apr 21  2019 Public
+drwxrwxr-x    2 1000     1000         4096 Sep 26  2018 Scratch
+drwxr-xr-x    2 1000     1000         4096 Sep 09  2018 Templates
+lrwxrwxrwx    1 1000     1000           16 Apr 21  2019 TuxPaint-Pictures -> .tuxpaint/saved/
+drwxrwxr-x   12 1000     1000         4096 Apr 21  2019 Untitled Folder
+drwxrwxr-x    2 1000     1000         4096 Sep 09  2018 VCD_Copy
+drwxrwxr-x    8 1000     1000         4096 Feb 02 19:56 firefox
+drwxrwxr-x    3 1000     1000         4096 Jan 26 10:37 hellow
+drwxrwxr-x    2 1000     1000         4096 Apr 21  2019 mysite
+drwxrwxr-x    3 1000     1000         4096 Apr 21  2019 newprojectss
+ftp> exit
+221 Goodbye.
+]0;user@USER-PC: ~/2102user@USER-PC:~/2102$ exit
+exit
+There are stopped jobs.
+]0;user@USER-PC: ~/21

@@ -1,0 +1,38 @@
+CECCS18c53
+
+Saurav KJ
+
+--------------------------------
+#1: Aim/task
+---------------------------------
+Command/Shell script/Program name
+
+---------------------------------
+        #updating packages
+        sudo apt-get update
+
+        #install ftp server
+	sudo apt-get install vsftpd
+	
+        #To get IP
+        if config
+
+	# edit server configuration
+	sudo gedit /etc/vsftpd.conf
+	
+	# install apache2
+	sudo apt-get install apache2
+	
+	#Design HTML file
+	sudo gedi /var/www/html/index.html
+        
+        #Stopping https server
+        sudo /etc/init.d/apache2 stop
+--------------------------------
+Output: or Input & Output (whichever is applicable)
+
+ftp server available at ftp://192.168.0.103
+HTTPS server available at 192.168.0.103
+
+-------------------
+Remarks if any:Homepage of https server attached(image&code).
