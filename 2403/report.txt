@@ -1,0 +1,101 @@
+CEC CS 18 C53
+SAURAV KJ
+
+--------------------------------
+#1: Aim/task
+---------------------------------
+Linux Installation(T6)
+---------------------------------
+
+Input:  
+---------------
+#Downloaded Ubuntu 16.04.6 LTS from https://ubuntu.com/download/desktop
+
+#Ubuntu installation using bootable USB 
+
+--------------------------------
+Output: or Input & Output (whichever is applicable)
+
+Photos attached shows steps of installation(1-5,.png)
+Photo 5.png shows System details
+Ubuntu 16.04.6 LTS installed along with Windows 10  
+--------------------------------
+--------------------------------
+
+
+#2: Aim/task
+---------------------------------
+Package management (t8.1)
+---------------------------------
+
+Command:  
+---------------------------------
+
+        
+$ sudo apt-get update    # To update all local package
+
+$ sudo apt-get upgrade   # To upgrade all packages
+
+$ sudo apt install nmap  # To install nmap(package)           
+
+$ sudo apt remove nmap   # To remove package
+               
+$ sudo apt-get install ruby  #To install ruby  
+
+$ sudo apt remove ruby  # To remove Ruby      
+
+$ dpkg -l  # list all packages installed on the system
+          
+$ sudo apt-get install pppoe # To install PPPoE package
+
+$ sudo dpkg -s pppoe  #To get the status of package PPPoE
+  
+$ sudo apt-get autoremove  #To remove all dependencies and configuration files that are no longer required
+         
+$ sudo apt list > packages.txt   # To copy list of installed packages to text file
+
+-------------------------------
+Output: List of installed packages in packages.txt
+-------------------------------
+
+
+---------------------------------
+#3:Aim/Task
+---------------------------------
+Perl (t8.2)
+---------------------------------
+
+Program name
+---------------------------------
+
+1.Program to print
+
+2.Program to divide using function
+
+3.Program to check given number is palindrome
+
+4.Program to linear search
+
+---------------------------------
+Output:
+-------------------------------
+
+1.Hi I am Perl
+
+2.Enter two numbers 
+4
+1
+Result is 4,Remainder:0 
+
+3.Enter a number: 2002
+2002 is a palindrome
+
+4.Enter an integer search key:5
+Found 5 at position 5
+
+------------------------------
+Remarks if any:Perl files attached(hiname.pl,linearsearch.pl,palindrome.pl,divisio.pl)
+
+
+
+                
