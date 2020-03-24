@@ -94,7 +94,7 @@ Result is 4,Remainder:0
 Found 5 at position 5
 
 ------------------------------
-Remarks if any:Perl files attached(hiname.pl,linearsearch.pl,palindrome.pl,divisio.pl)
+Remarks if any: Perl files attached(hiname.pl,linearsearch.pl,palindrome.pl,divisio.pl)
 
 
 
