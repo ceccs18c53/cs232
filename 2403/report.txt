@@ -55,7 +55,7 @@ $ sudo apt-get autoremove  #To remove all dependencies and configuration files t
 $ sudo apt list > packages.txt   # To copy list of installed packages to text file
 
 -------------------------------
-Output: List of installed packages in packages.txt
+Output: List of installed packages in package.txt
 -------------------------------
 
 
