@@ -16,8 +16,8 @@ Input:
 --------------------------------
 Output: or Input & Output (whichever is applicable)
 
-Photos attached shows steps of installation(1-5,.png)
-Photo 5.png shows System details
+Photos attached shows steps of installation(1.png , 2-5,.jpg)
+Photo 6.png shows System details
 Ubuntu 16.04.6 LTS installed along with Windows 10  
 --------------------------------
 --------------------------------
@@ -55,7 +55,7 @@ $ sudo apt-get autoremove  #To remove all dependencies and configuration files t
 $ sudo apt list > packages.txt   # To copy list of installed packages to text file
 
 -------------------------------
-Output: List of installed packages in package.txt
+Output: List of installed packages in packages.txt
 -------------------------------
 
 
@@ -94,7 +94,7 @@ Result is 4,Remainder:0
 Found 5 at position 5
 
 ------------------------------
-Remarks if any: Perl files attached(hiname.pl,linearsearch.pl,palindrome.pl,divisio.pl)
+Remarks if any:Perl files attached(hiname.pl,linearsearch.pl,palindrome.pl,divisio.pl)
 
 
 
