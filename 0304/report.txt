@@ -1,0 +1,51 @@
+03/04/2020
+CEC CS 18 C53 
+SAURAV KJ
+--------------------------------
+#1: LAMP Stack-t8.3
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+	
+    # To update local package cache
+    sudo apt-get update
+	
+    # To install Apache2
+    sudo apt-get install apache2
+	
+    # To install MySQL
+    sudo apt-get install mysql-server libapache2-mod-auth-mysql php5-mysql
+
+    # To activate MySQL
+    sudo mysql_install_db
+
+    # MySQL setup script
+    sudo /usr/bin/mysql_secure_installation
+
+    # To install PHP
+    sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt
+
+    # To add php file
+    sudo gedit /var/www/info.php
+
+    # To restart apache
+    sudo service apache2 restart
+
+    # To Run script to install LAMP stack
+    bash ./lamp.sh
+
+
+--------------------------------
+Input:
+    
+    #Script file for setting up LAMP
+    lamp.sh
+   
+    #php file hosted in local host
+    info.php	
+        
+
+--------------------------------
+Output:#php page available at 192.168.0.103(proof.png)
+

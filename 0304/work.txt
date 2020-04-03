@@ -1,0 +1,3100 @@
+Script started on Tuesday 2 April 2020 09:26:01 PM IST
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo apt-get update
+[sudo] password for skj: 
+
+0% [Working]
+0% [Waiting for headers] [Waiting for headers]
+                                              
+Hit:1 http://security.ubuntu.com/ubuntu xenial-security InRelease
+
+                                              
+0% [Waiting for headers]
+0% [1 InRelease gpgv 109 kB] [Waiting for headers]
+                                                  
+0% [Waiting for headers]
+                        
+Ign:2 http://extras.ubuntu.com/ubuntu xenial InRelease
+
+                        
+0% [Working]
+            
+Ign:3 http://extras.ubuntu.com/ubuntu xenial Release
+
+0% [Working]
+            
+Ign:4 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+0% [Working]
+            
+Ign:5 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+0% [Working]
+            
+Ign:6 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+0% [Working]
+            
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+0% [Working]
+            
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+0% [Working]
+            
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+0% [Working]
+            
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+0% [Working]
+            
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+0% [Working]
+            
+Ign:4 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+0% [Working]
+            
+Ign:5 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+0% [Working]
+            
+Ign:6 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+0% [Working]
+            
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+0% [Working]
+            
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+0% [Working]
+            
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+0% [Working]
+            
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+0% [Working]
+            
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+0% [Waiting for headers]
+                        
+Hit:12 http://in.archive.ubuntu.com/ubuntu xenial InRelease
+
+0% [Waiting for headers]
+0% [12 InRelease gpgv 247 kB] [Waiting for headers] [Waiting for headers]
+                                                                         
+0% [Waiting for headers] [Waiting for headers]
+                                              
+Hit:13 http://in.archive.ubuntu.com/ubuntu xenial-updates InRelease
+
+0% [Waiting for headers] [Waiting for headers]
+0% [13 InRelease gpgv 109 kB] [Waiting for headers] [Waiting for headers]
+                                                                         
+Hit:14 http://in.archive.ubuntu.com/ubuntu xenial-backports InRelease
+
+                                                                         
+0% [13 InRelease gpgv 109 kB] [Waiting for headers]
+                                                   
+0% [Waiting for headers]
+0% [14 InRelease gpgv 107 kB] [Waiting for headers]
+                                                   
+Ign:4 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+0% [14 InRelease gpgv 107 kB] [Waiting for headers]
+                                                   
+19% [Waiting for headers]
+                         
+Ign:5 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+                         
+19% [Working]
+             
+Ign:6 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+19% [Working]
+             
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Working]
+             
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Working]
+             
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+19% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+19% [Waiting for headers]
+19% [Waiting for headers]
+                         
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+                         
+19% [Working]
+             
+Ign:4 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+19% [Working]
+             
+Ign:5 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+19% [Working]
+             
+Ign:6 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+19% [Working]
+             
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Waiting for headers]
+                         
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Waiting for headers]
+                         
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+                         
+19% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+19% [Working]
+             
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+19% [Working]
+             
+Ign:4 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+19% [Working]
+             
+Ign:5 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+19% [Waiting for headers]
+                         
+Ign:6 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+                         
+19% [Working]
+             
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Working]
+             
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Working]
+             
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+19% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+19% [Working]
+             
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+19% [Working]
+             
+Err:4 http://extras.ubuntu.com/ubuntu xenial/main Sources
+  404  Not Found [IP: 91.189.88.91 80]
+
+19% [Working]
+             
+Ign:5 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+19% [Working]
+             
+Ign:6 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+19% [Working]
+             
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Working]
+             
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Working]
+             
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+20% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+20% [Working]
+             
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+20% [Working]
+             
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 1%
+
+Reading package lists... 3%
+
+Reading package lists... 3%
+
+Reading package lists... 7%
+
+Reading package lists... 7%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 31%
+
+Reading package lists... 31%
+
+Reading package lists... 36%
+
+Reading package lists... 54%
+
+Reading package lists... 54%
+
+Reading package lists... 66%
+
+Reading package lists... 66%
+
+Reading package lists... 66%
+
+Reading package lists... 66%
+
+Reading package lists... 67%
+
+Reading package lists... 67%
+
+Reading package lists... 67%
+
+Reading package lists... 67%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 81%
+
+Reading package lists... 81%
+
+Reading package lists... 83%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 89%
+
+Reading package lists... 89%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 96%
+
+Reading package lists... 96%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+W: The repository 'http://extras.ubuntu.com/ubuntu xenial Release' does not have a Release file.
+N: Data from such a repository can't be authenticated and is therefore potentially dangerous to use.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+E: Failed to fetch http://extras.ubuntu.com/ubuntu/dists/xenial/main/source/Sources  404  Not Found [IP: 91.189.88.91 80]
+E: Some index files failed to download. They have been ignored, or old ones used instead.
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo apt-get install apache2
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 2%
+
+Reading state information... Done
+
+The following additional packages will be installed:
+  apache2-bin apache2-data apache2-utils libapr1 libaprutil1
+  libaprutil1-dbd-sqlite3 libaprutil1-ldap liblua5.1-0
+Suggested packages:
+  apache2-doc apache2-suexec-pristine | apache2-suexec-custom
+The following NEW packages will be installed:
+  apache2 apache2-bin apache2-data apache2-utils libapr1 libaprutil1
+  libaprutil1-dbd-sqlite3 libaprutil1-ldap liblua5.1-0
+0 upgraded, 9 newly installed, 0 to remove and 6 not upgraded.
+Need to get 1,546 kB of archives.
+After this operation, 6,375 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+
+0% [Working]
+            
+Get:1 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libapr1 amd64 1.5.2-3 [86.0 kB]
+
+0% [1 libapr1 2,630 B/86.0 kB 3%]
+                                 
+7% [Working]
+            
+Get:2 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libaprutil1 amd64 1.5.4-1build1 [77.1 kB]
+
+7% [2 libaprutil1 2,630 B/77.1 kB 3%]
+                                     
+13% [Working]
+             
+Get:3 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libaprutil1-dbd-sqlite3 amd64 1.5.4-1build1 [10.6 kB]
+
+13% [3 libaprutil1-dbd-sqlite3 577 B/10.6 kB 5%]
+                                                
+16% [Working]
+             
+Get:4 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libaprutil1-ldap amd64 1.5.4-1build1 [8,720 B]
+
+16% [4 libaprutil1-ldap 0 B/8,720 B 0%]
+                                       
+18% [Waiting for headers]
+                         
+Get:5 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 liblua5.1-0 amd64 5.1.5-8ubuntu1 [102 kB]
+
+18% [5 liblua5.1-0 2,452 B/102 kB 2%]
+                                     
+26% [Waiting for headers]
+                         
+Get:6 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 apache2-bin amd64 2.4.18-2ubuntu3.14 [930 kB]
+
+26% [6 apache2-bin 1,095 B/930 kB 0%]
+32% [6 apache2-bin 121 kB/930 kB 13%]
+38% [6 apache2-bin 228 kB/930 kB 25%]
+44% [6 apache2-bin 343 kB/930 kB 37%]
+50% [6 apache2-bin 466 kB/930 kB 50%]
+56% [6 apache2-bin 582 kB/930 kB 63%]
+61% [6 apache2-bin 687 kB/930 kB 74%]
+68% [6 apache2-bin 819 kB/930 kB 88%]
+74% [6 apache2-bin 921 kB/930 kB 99%]
+                                     
+76% [Waiting for headers]
+                         
+Get:7 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 apache2-utils amd64 2.4.18-2ubuntu3.14 [82.1 kB]
+
+76% [7 apache2-utils 4,078 B/82.1 kB 5%]
+80% [7 apache2-utils 80.8 kB/82.1 kB 98%]
+                                         
+83% [Waiting for headers]
+                         
+Get:8 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 apache2-data all 2.4.18-2ubuntu3.14 [162 kB]
+
+83% [8 apache2-data 1,371 B/162 kB 1%]
+88% [8 apache2-data 94.5 kB/162 kB 58%]                             230 kB/s 0s
+93% [Waiting for headers]                                           230 kB/s 0s
+                                                                               
+Get:9 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 apache2 amd64 2.4.18-2ubuntu3.14 [86.5 kB]
+
+93% [9 apache2 1,878 B/86.5 kB 2%]                                  230 kB/s 0s
+100% [Working]                                                      230 kB/s 0s
+                                                                               
+Fetched 1,546 kB in 6s (235 kB/s)
+Selecting previously unselected package libapr1:amd64.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 212749 files and directories currently installed.)
+Preparing to unpack .../libapr1_1.5.2-3_amd64.deb ...
+Unpacking libapr1:amd64 (1.5.2-3) ...
+Selecting previously unselected package libaprutil1:amd64.
+Preparing to unpack .../libaprutil1_1.5.4-1build1_amd64.deb ...
+Unpacking libaprutil1:amd64 (1.5.4-1build1) ...
+Selecting previously unselected package libaprutil1-dbd-sqlite3:amd64.
+Preparing to unpack .../libaprutil1-dbd-sqlite3_1.5.4-1build1_amd64.deb ...
+Unpacking libaprutil1-dbd-sqlite3:amd64 (1.5.4-1build1) ...
+Selecting previously unselected package libaprutil1-ldap:amd64.
+Preparing to unpack .../libaprutil1-ldap_1.5.4-1build1_amd64.deb ...
+Unpacking libaprutil1-ldap:amd64 (1.5.4-1build1) ...
+Selecting previously unselected package liblua5.1-0:amd64.
+Preparing to unpack .../liblua5.1-0_5.1.5-8ubuntu1_amd64.deb ...
+Unpacking liblua5.1-0:amd64 (5.1.5-8ubuntu1) ...
+Selecting previously unselected package apache2-bin.
+Preparing to unpack .../apache2-bin_2.4.18-2ubuntu3.14_amd64.deb ...
+Unpacking apache2-bin (2.4.18-2ubuntu3.14) ...
+Selecting previously unselected package apache2-utils.
+Preparing to unpack .../apache2-utils_2.4.18-2ubuntu3.14_amd64.deb ...
+Unpacking apache2-utils (2.4.18-2ubuntu3.14) ...
+Selecting previously unselected package apache2-data.
+Preparing to unpack .../apache2-data_2.4.18-2ubuntu3.14_all.deb ...
+Unpacking apache2-data (2.4.18-2ubuntu3.14) ...
+Selecting previously unselected package apache2.
+Preparing to unpack .../apache2_2.4.18-2ubuntu3.14_amd64.deb ...
+Unpacking apache2 (2.4.18-2ubuntu3.14) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for ufw (0.35-0ubuntu2) ...
+Processing triggers for ureadahead (0.100.0-19.1) ...
+Processing triggers for systemd (229-4ubuntu21.27) ...
+Setting up libapr1:amd64 (1.5.2-3) ...
+Setting up libaprutil1:amd64 (1.5.4-1build1) ...
+Setting up libaprutil1-dbd-sqlite3:amd64 (1.5.4-1build1) ...
+Setting up libaprutil1-ldap:amd64 (1.5.4-1build1) ...
+Setting up liblua5.1-0:amd64 (5.1.5-8ubuntu1) ...
+Setting up apache2-bin (2.4.18-2ubuntu3.14) ...
+Setting up apache2-utils (2.4.18-2ubuntu3.14) ...
+Setting up apache2-data (2.4.18-2ubuntu3.14) ...
+Setting up apache2 (2.4.18-2ubuntu3.14) ...
+Enabling module mpm_event.
+Enabling module authz_core.
+Enabling module authz_host.
+Enabling module authn_core.
+Enabling module auth_basic.
+Enabling module access_compat.
+Enabling module authn_file.
+Enabling module authz_user.
+Enabling module alias.
+Enabling module dir.
+Enabling module autoindex.
+Enabling module env.
+Enabling module mime.
+Enabling module negotiation.
+Enabling module setenvif.
+Enabling module filter.
+Enabling module deflate.
+Enabling module status.
+Enabling conf charset.
+Enabling conf localized-error-pages.
+Enabling conf other-vhosts-access-log.
+Enabling conf security.
+Enabling conf serve-cgi-bin.
+Enabling site 000-default.
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Processing triggers for ureadahead (0.100.0-19.1) ...
+Processing triggers for systemd (229-4ubuntu21.27) ...
+Processing triggers for ufw (0.35-0ubuntu2) ...
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ udo apt-get install mysql-server libapache2-mod-auth-mysql php 
+5-mysql
+The program 'udo' is currently not installed. You can install it by typing:
+sudo apt install udo
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ udo apt-get install mysql-server libapache2-mod-auth-mysql php 
+5-mysql
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt-get install mysql-server libapache2-mod-auth-mysql php5-mysql[A
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ [C
+
+
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+Package php5-mysql is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Unable to locate package libapache2-mod-auth-mysql
+E: Package 'php5-mysql' has no installation candidate
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo vim /etc/apache2/mods-enabled/dir.conf
+sudo: vim: command not found
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ ^V[Ksudo apt-get install mysql-server
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+The following additional packages will be installed:
+  libaio1 libevent-core-2.0-5 libhtml-template-perl mysql-client-5.7
+  mysql-client-core-5.7 mysql-common mysql-server-5.7 mysql-server-core-5.7
+Suggested packages:
+  libipc-sharedcache-perl mailx tinyca
+The following NEW packages will be installed:
+  libaio1 libevent-core-2.0-5 libhtml-template-perl mysql-client-5.7
+  mysql-client-core-5.7 mysql-common mysql-server mysql-server-5.7
+  mysql-server-core-5.7
+0 upgraded, 9 newly installed, 0 to remove and 6 not upgraded.
+Need to get 17.6 MB of archives.
+After this operation, 155 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+
+0% [Working]
+            
+Get:1 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 mysql-common all 5.7.29-0ubuntu0.16.04.1 [14.8 kB]
+
+0% [1 mysql-common 1,183 B/14.8 kB 8%]
+                                      
+2% [Working]
+            
+Get:2 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libaio1 amd64 0.3.110-2 [6,356 B]
+
+2% [2 libaio1 4,080 B/6,356 B 64%]
+                                  
+5% [Working]
+            
+Get:3 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 mysql-client-core-5.7 amd64 5.7.29-0ubuntu0.16.04.1 [6,074 kB]
+
+5% [3 mysql-client-core-5.7 0 B/6,074 kB 0%]
+5% [3 mysql-client-core-5.7 131 kB/6,074 kB 2%]
+6% [3 mysql-client-core-5.7 254 kB/6,074 kB 4%]
+6% [3 mysql-client-core-5.7 320 kB/6,074 kB 5%]
+6% [3 mysql-client-core-5.7 358 kB/6,074 kB 6%]
+7% [3 mysql-client-core-5.7 433 kB/6,074 kB 7%]
+7% [3 mysql-client-core-5.7 494 kB/6,074 kB 8%]
+7% [3 mysql-client-core-5.7 556 kB/6,074 kB 9%]
+7% [3 mysql-client-core-5.7 643 kB/6,074 kB 11%]
+8% [3 mysql-client-core-5.7 761 kB/6,074 kB 13%]
+8% [3 mysql-client-core-5.7 826 kB/6,074 kB 14%]
+8% [3 mysql-client-core-5.7 862 kB/6,074 kB 14%]
+9% [3 mysql-client-core-5.7 904 kB/6,074 kB 15%]              148 kB/s 1min 52s
+9% [3 mysql-client-core-5.7 939 kB/6,074 kB 15%]              148 kB/s 1min 51s
+9% [3 mysql-client-core-5.7 968 kB/6,074 kB 16%]              148 kB/s 1min 51s
+9% [3 mysql-client-core-5.7 1,005 kB/6,074 kB 17%]            148 kB/s 1min 51s
+9% [3 mysql-client-core-5.7 1,037 kB/6,074 kB 17%]            148 kB/s 1min 51s
+9% [3 mysql-client-core-5.7 1,081 kB/6,074 kB 18%]            148 kB/s 1min 51s
+10% [3 mysql-client-core-5.7 1,127 kB/6,074 kB 19%]           148 kB/s 1min 50s
+10% [3 mysql-client-core-5.7 1,162 kB/6,074 kB 19%]           148 kB/s 1min 50s
+10% [3 mysql-client-core-5.7 1,227 kB/6,074 kB 20%]           148 kB/s 1min 50s
+10% [3 mysql-client-core-5.7 1,273 kB/6,074 kB 21%]           148 kB/s 1min 49s
+11% [3 mysql-client-core-5.7 1,321 kB/6,074 kB 22%]           148 kB/s 1min 49s
+11% [3 mysql-client-core-5.7 1,396 kB/6,074 kB 23%]           148 kB/s 1min 48s
+11% [3 mysql-client-core-5.7 1,477 kB/6,074 kB 24%]          95.5 kB/s 2min 48s
+11% [3 mysql-client-core-5.7 1,527 kB/6,074 kB 25%]          95.5 kB/s 2min 47s
+12% [3 mysql-client-core-5.7 1,563 kB/6,074 kB 26%]          95.5 kB/s 2min 47s
+12% [3 mysql-client-core-5.7 1,595 kB/6,074 kB 26%]          95.5 kB/s 2min 47s
+12% [3 mysql-client-core-5.7 1,621 kB/6,074 kB 27%]          95.5 kB/s 2min 46s
+12% [3 mysql-client-core-5.7 1,653 kB/6,074 kB 27%]          95.5 kB/s 2min 46s
+12% [3 mysql-client-core-5.7 1,729 kB/6,074 kB 28%]          95.5 kB/s 2min 45s
+13% [3 mysql-client-core-5.7 1,812 kB/6,074 kB 30%]          95.5 kB/s 2min 44s
+13% [3 mysql-client-core-5.7 1,881 kB/6,074 kB 31%]          95.5 kB/s 2min 44s
+13% [3 mysql-client-core-5.7 1,915 kB/6,074 kB 32%]          95.5 kB/s 2min 43s
+13% [3 mysql-client-core-5.7 1,959 kB/6,074 kB 32%]          95.5 kB/s 2min 43s
+14% [3 mysql-client-core-5.7 2,048 kB/6,074 kB 34%]          95.5 kB/s 2min 42s
+14% [3 mysql-client-core-5.7 2,167 kB/6,074 kB 36%]           115 kB/s 2min 14s
+15% [3 mysql-client-core-5.7 2,227 kB/6,074 kB 37%]           115 kB/s 2min 13s
+15% [3 mysql-client-core-5.7 2,268 kB/6,074 kB 37%]           115 kB/s 2min 13s
+15% [3 mysql-client-core-5.7 2,327 kB/6,074 kB 38%]           115 kB/s 2min 12s
+15% [3 mysql-client-core-5.7 2,371 kB/6,074 kB 39%]           115 kB/s 2min 12s
+15% [3 mysql-client-core-5.7 2,400 kB/6,074 kB 40%]           115 kB/s 2min 12s
+16% [3 mysql-client-core-5.7 2,446 kB/6,074 kB 40%]           115 kB/s 2min 11s
+16% [3 mysql-client-core-5.7 2,523 kB/6,074 kB 42%]           115 kB/s 2min 10s
+16% [3 mysql-client-core-5.7 2,617 kB/6,074 kB 43%]           115 kB/s 2min 10s
+17% [3 mysql-client-core-5.7 2,698 kB/6,074 kB 44%]            115 kB/s 2min 9s
+17% [3 mysql-client-core-5.7 2,760 kB/6,074 kB 45%]            115 kB/s 2min 8s
+17% [3 mysql-client-core-5.7 2,798 kB/6,074 kB 46%]            115 kB/s 2min 8s
+18% [3 mysql-client-core-5.7 2,847 kB/6,074 kB 47%]            113 kB/s 2min 9s
+18% [3 mysql-client-core-5.7 2,908 kB/6,074 kB 48%]            113 kB/s 2min 9s
+18% [3 mysql-client-core-5.7 3,005 kB/6,074 kB 49%]            113 kB/s 2min 8s
+18% [3 mysql-client-core-5.7 3,044 kB/6,074 kB 50%]            113 kB/s 2min 8s
+19% [3 mysql-client-core-5.7 3,122 kB/6,074 kB 51%]            113 kB/s 2min 7s
+19% [3 mysql-client-core-5.7 3,224 kB/6,074 kB 53%]            113 kB/s 2min 6s
+20% [3 mysql-client-core-5.7 3,352 kB/6,074 kB 55%]            113 kB/s 2min 5s
+20% [3 mysql-client-core-5.7 3,480 kB/6,074 kB 57%]            113 kB/s 2min 4s
+21% [3 mysql-client-core-5.7 3,583 kB/6,074 kB 59%]            113 kB/s 2min 3s
+21% [3 mysql-client-core-5.7 3,691 kB/6,074 kB 61%]            113 kB/s 2min 2s
+22% [3 mysql-client-core-5.7 3,761 kB/6,074 kB 62%]            113 kB/s 2min 1s
+22% [3 mysql-client-core-5.7 3,814 kB/6,074 kB 63%]            113 kB/s 2min 1s
+22% [3 mysql-client-core-5.7 3,867 kB/6,074 kB 64%]           170 kB/s 1min 20s
+22% [3 mysql-client-core-5.7 3,901 kB/6,074 kB 64%]           170 kB/s 1min 20s
+22% [3 mysql-client-core-5.7 3,929 kB/6,074 kB 65%]           170 kB/s 1min 20s
+23% [3 mysql-client-core-5.7 3,975 kB/6,074 kB 65%]           170 kB/s 1min 20s
+23% [3 mysql-client-core-5.7 4,026 kB/6,074 kB 66%]           170 kB/s 1min 19s
+23% [3 mysql-client-core-5.7 4,126 kB/6,074 kB 68%]           170 kB/s 1min 19s
+24% [3 mysql-client-core-5.7 4,230 kB/6,074 kB 70%]           170 kB/s 1min 18s
+24% [3 mysql-client-core-5.7 4,304 kB/6,074 kB 71%]           170 kB/s 1min 18s
+25% [3 mysql-client-core-5.7 4,408 kB/6,074 kB 73%]           170 kB/s 1min 17s
+25% [3 mysql-client-core-5.7 4,502 kB/6,074 kB 74%]           170 kB/s 1min 16s
+25% [3 mysql-client-core-5.7 4,564 kB/6,074 kB 75%]           170 kB/s 1min 16s
+26% [3 mysql-client-core-5.7 4,633 kB/6,074 kB 76%]           170 kB/s 1min 16s
+26% [3 mysql-client-core-5.7 4,714 kB/6,074 kB 78%]           141 kB/s 1min 31s
+27% [3 mysql-client-core-5.7 4,834 kB/6,074 kB 80%]           141 kB/s 1min 30s
+27% [3 mysql-client-core-5.7 4,913 kB/6,074 kB 81%]           141 kB/s 1min 29s
+27% [3 mysql-client-core-5.7 4,971 kB/6,074 kB 82%]           141 kB/s 1min 29s
+27% [3 mysql-client-core-5.7 5,015 kB/6,074 kB 83%]           141 kB/s 1min 28s
+28% [3 mysql-client-core-5.7 5,068 kB/6,074 kB 83%]           141 kB/s 1min 28s
+28% [3 mysql-client-core-5.7 5,110 kB/6,074 kB 84%]           141 kB/s 1min 28s
+28% [3 mysql-client-core-5.7 5,167 kB/6,074 kB 85%]           141 kB/s 1min 27s
+28% [3 mysql-client-core-5.7 5,235 kB/6,074 kB 86%]           141 kB/s 1min 27s
+29% [3 mysql-client-core-5.7 5,323 kB/6,074 kB 88%]           141 kB/s 1min 26s
+29% [3 mysql-client-core-5.7 5,396 kB/6,074 kB 89%]           141 kB/s 1min 26s
+29% [3 mysql-client-core-5.7 5,459 kB/6,074 kB 90%]           141 kB/s 1min 25s
+30% [3 mysql-client-core-5.7 5,530 kB/6,074 kB 91%]           136 kB/s 1min 28s
+30% [3 mysql-client-core-5.7 5,632 kB/6,074 kB 93%]           136 kB/s 1min 27s
+30% [3 mysql-client-core-5.7 5,692 kB/6,074 kB 94%]           136 kB/s 1min 27s
+31% [3 mysql-client-core-5.7 5,733 kB/6,074 kB 94%]           136 kB/s 1min 26s
+31% [3 mysql-client-core-5.7 5,814 kB/6,074 kB 96%]           136 kB/s 1min 26s
+31% [3 mysql-client-core-5.7 5,910 kB/6,074 kB 97%]           136 kB/s 1min 25s
+32% [3 mysql-client-core-5.7 5,969 kB/6,074 kB 98%]           136 kB/s 1min 25s
+32% [3 mysql-client-core-5.7 6,028 kB/6,074 kB 99%]           136 kB/s 1min 24s
+34% [Working]                                                 136 kB/s 1min 24s
+                                                                               
+Get:4 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 mysql-client-5.7 amd64 5.7.29-0ubuntu0.16.04.1 [1,434 kB]
+
+34% [4 mysql-client-5.7 4,512 B/1,434 kB 0%]                  136 kB/s 1min 24s
+35% [4 mysql-client-5.7 66.8 kB/1,434 kB 5%]                  136 kB/s 1min 23s
+35% [4 mysql-client-5.7 117 kB/1,434 kB 8%]                   136 kB/s 1min 23s
+35% [4 mysql-client-5.7 200 kB/1,434 kB 14%]                  136 kB/s 1min 22s
+36% [4 mysql-client-5.7 316 kB/1,434 kB 22%]                  136 kB/s 1min 22s
+36% [4 mysql-client-5.7 430 kB/1,434 kB 30%]                  154 kB/s 1min 11s
+37% [4 mysql-client-5.7 481 kB/1,434 kB 34%]                  154 kB/s 1min 11s
+37% [4 mysql-client-5.7 536 kB/1,434 kB 37%]                  154 kB/s 1min 11s
+37% [4 mysql-client-5.7 594 kB/1,434 kB 41%]                  154 kB/s 1min 10s
+37% [4 mysql-client-5.7 636 kB/1,434 kB 44%]                  154 kB/s 1min 10s
+37% [4 mysql-client-5.7 668 kB/1,434 kB 47%]                  154 kB/s 1min 10s
+38% [4 mysql-client-5.7 750 kB/1,434 kB 52%]                   154 kB/s 1min 9s
+38% [4 mysql-client-5.7 844 kB/1,434 kB 59%]                   154 kB/s 1min 9s
+39% [4 mysql-client-5.7 923 kB/1,434 kB 64%]                   154 kB/s 1min 8s
+39% [4 mysql-client-5.7 989 kB/1,434 kB 69%]                   154 kB/s 1min 8s
+39% [4 mysql-client-5.7 1,043 kB/1,434 kB 73%]                 154 kB/s 1min 7s
+39% [4 mysql-client-5.7 1,115 kB/1,434 kB 78%]                 154 kB/s 1min 7s
+40% [4 mysql-client-5.7 1,185 kB/1,434 kB 83%]                126 kB/s 1min 21s
+40% [4 mysql-client-5.7 1,209 kB/1,434 kB 84%]                126 kB/s 1min 21s
+40% [4 mysql-client-5.7 1,234 kB/1,434 kB 86%]                126 kB/s 1min 21s
+40% [4 mysql-client-5.7 1,285 kB/1,434 kB 90%]                126 kB/s 1min 21s
+41% [4 mysql-client-5.7 1,358 kB/1,434 kB 95%]                126 kB/s 1min 20s
+41% [4 mysql-client-5.7 1,419 kB/1,434 kB 99%]                126 kB/s 1min 20s
+43% [Working]                                                 126 kB/s 1min 19s
+                                                                               
+Get:5 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 mysql-server-core-5.7 amd64 5.7.29-0ubuntu0.16.04.1 [7,430 kB]
+
+43% [5 mysql-server-core-5.7 2,499 B/7,430 kB 0%]             126 kB/s 1min 19s
+44% [5 mysql-server-core-5.7 92.3 kB/7,430 kB 1%]             126 kB/s 1min 19s
+44% [5 mysql-server-core-5.7 198 kB/7,430 kB 3%]              126 kB/s 1min 18s
+45% [5 mysql-server-core-5.7 294 kB/7,430 kB 4%]              126 kB/s 1min 17s
+45% [5 mysql-server-core-5.7 401 kB/7,430 kB 5%]              126 kB/s 1min 16s
+45% [5 mysql-server-core-5.7 473 kB/7,430 kB 6%]              126 kB/s 1min 16s
+46% [5 mysql-server-core-5.7 514 kB/7,430 kB 7%]              126 kB/s 1min 15s
+46% [5 mysql-server-core-5.7 563 kB/7,430 kB 8%]              132 kB/s 1min 11s
+46% [5 mysql-server-core-5.7 589 kB/7,430 kB 8%]              132 kB/s 1min 11s
+46% [5 mysql-server-core-5.7 615 kB/7,430 kB 8%]              132 kB/s 1min 11s
+46% [5 mysql-server-core-5.7 657 kB/7,430 kB 9%]              132 kB/s 1min 11s
+46% [5 mysql-server-core-5.7 690 kB/7,430 kB 9%]              132 kB/s 1min 10s
+47% [5 mysql-server-core-5.7 754 kB/7,430 kB 10%]             132 kB/s 1min 10s
+47% [5 mysql-server-core-5.7 812 kB/7,430 kB 11%]              132 kB/s 1min 9s
+47% [5 mysql-server-core-5.7 844 kB/7,430 kB 11%]              132 kB/s 1min 9s
+47% [5 mysql-server-core-5.7 866 kB/7,430 kB 12%]              132 kB/s 1min 9s
+47% [5 mysql-server-core-5.7 902 kB/7,430 kB 12%]              132 kB/s 1min 9s
+48% [5 mysql-server-core-5.7 960 kB/7,430 kB 13%]              132 kB/s 1min 8s
+48% [5 mysql-server-core-5.7 1,023 kB/7,430 kB 14%]            132 kB/s 1min 8s
+48% [5 mysql-server-core-5.7 1,148 kB/7,430 kB 15%]          97.4 kB/s 1min 31s
+49% [5 mysql-server-core-5.7 1,267 kB/7,430 kB 17%]          97.4 kB/s 1min 30s
+49% [5 mysql-server-core-5.7 1,310 kB/7,430 kB 18%]          97.4 kB/s 1min 29s
+49% [5 mysql-server-core-5.7 1,342 kB/7,430 kB 18%]          97.4 kB/s 1min 29s
+49% [5 mysql-server-core-5.7 1,385 kB/7,430 kB 19%]          97.4 kB/s 1min 28s
+50% [5 mysql-server-core-5.7 1,436 kB/7,430 kB 19%]          97.4 kB/s 1min 28s
+50% [5 mysql-server-core-5.7 1,466 kB/7,430 kB 20%]          97.4 kB/s 1min 28s
+50% [5 mysql-server-core-5.7 1,503 kB/7,430 kB 20%]          97.4 kB/s 1min 27s
+50% [5 mysql-server-core-5.7 1,532 kB/7,430 kB 21%]          97.4 kB/s 1min 27s
+50% [5 mysql-server-core-5.7 1,561 kB/7,430 kB 21%]          97.4 kB/s 1min 27s
+50% [5 mysql-server-core-5.7 1,591 kB/7,430 kB 21%]          97.4 kB/s 1min 26s
+51% [5 mysql-server-core-5.7 1,621 kB/7,430 kB 22%]          97.4 kB/s 1min 26s
+51% [5 mysql-server-core-5.7 1,662 kB/7,430 kB 22%]          85.6 kB/s 1min 37s
+51% [5 mysql-server-core-5.7 1,704 kB/7,430 kB 23%]          85.6 kB/s 1min 37s
+51% [5 mysql-server-core-5.7 1,747 kB/7,430 kB 24%]          85.6 kB/s 1min 36s
+52% [5 mysql-server-core-5.7 1,846 kB/7,430 kB 25%]          85.6 kB/s 1min 35s
+52% [5 mysql-server-core-5.7 1,943 kB/7,430 kB 26%]          85.6 kB/s 1min 34s
+52% [5 mysql-server-core-5.7 1,975 kB/7,430 kB 27%]          85.6 kB/s 1min 34s
+52% [5 mysql-server-core-5.7 1,998 kB/7,430 kB 27%]          85.6 kB/s 1min 34s
+52% [5 mysql-server-core-5.7 2,034 kB/7,430 kB 27%]          85.6 kB/s 1min 33s
+53% [5 mysql-server-core-5.7 2,083 kB/7,430 kB 28%]          85.6 kB/s 1min 33s
+53% [5 mysql-server-core-5.7 2,127 kB/7,430 kB 29%]          85.6 kB/s 1min 32s
+53% [5 mysql-server-core-5.7 2,147 kB/7,430 kB 29%]          85.6 kB/s 1min 32s
+53% [5 mysql-server-core-5.7 2,174 kB/7,430 kB 29%]          85.6 kB/s 1min 31s
+53% [5 mysql-server-core-5.7 2,240 kB/7,430 kB 30%]          96.2 kB/s 1min 21s
+54% [5 mysql-server-core-5.7 2,289 kB/7,430 kB 31%]          96.2 kB/s 1min 20s
+54% [5 mysql-server-core-5.7 2,328 kB/7,430 kB 31%]          96.2 kB/s 1min 20s
+54% [5 mysql-server-core-5.7 2,377 kB/7,430 kB 32%]          96.2 kB/s 1min 19s
+54% [5 mysql-server-core-5.7 2,461 kB/7,430 kB 33%]          96.2 kB/s 1min 18s
+55% [5 mysql-server-core-5.7 2,499 kB/7,430 kB 34%]          96.2 kB/s 1min 18s
+55% [5 mysql-server-core-5.7 2,567 kB/7,430 kB 35%]          96.2 kB/s 1min 17s
+55% [5 mysql-server-core-5.7 2,652 kB/7,430 kB 36%]          96.2 kB/s 1min 16s
+56% [5 mysql-server-core-5.7 2,736 kB/7,430 kB 37%]          96.2 kB/s 1min 15s
+56% [5 mysql-server-core-5.7 2,822 kB/7,430 kB 38%]          96.2 kB/s 1min 15s
+56% [5 mysql-server-core-5.7 2,875 kB/7,430 kB 39%]          96.2 kB/s 1min 14s
+57% [5 mysql-server-core-5.7 2,946 kB/7,430 kB 40%]          96.2 kB/s 1min 13s
+57% [5 mysql-server-core-5.7 3,017 kB/7,430 kB 41%]                129 kB/s 54s
+57% [5 mysql-server-core-5.7 3,085 kB/7,430 kB 42%]                129 kB/s 53s
+57% [5 mysql-server-core-5.7 3,120 kB/7,430 kB 42%]                129 kB/s 53s
+58% [5 mysql-server-core-5.7 3,150 kB/7,430 kB 42%]                129 kB/s 53s
+58% [5 mysql-server-core-5.7 3,194 kB/7,430 kB 43%]                129 kB/s 52s
+58% [5 mysql-server-core-5.7 3,255 kB/7,430 kB 44%]                129 kB/s 52s
+58% [5 mysql-server-core-5.7 3,307 kB/7,430 kB 45%]                129 kB/s 52s
+58% [5 mysql-server-core-5.7 3,336 kB/7,430 kB 45%]                129 kB/s 51s
+59% [5 mysql-server-core-5.7 3,379 kB/7,430 kB 45%]                129 kB/s 51s
+59% [5 mysql-server-core-5.7 3,453 kB/7,430 kB 46%]                129 kB/s 50s
+59% [5 mysql-server-core-5.7 3,572 kB/7,430 kB 48%]                129 kB/s 50s
+60% [5 mysql-server-core-5.7 3,734 kB/7,430 kB 50%]                129 kB/s 48s
+61% [5 mysql-server-core-5.7 3,873 kB/7,430 kB 52%]                142 kB/s 43s
+61% [5 mysql-server-core-5.7 4,022 kB/7,430 kB 54%]                142 kB/s 42s
+62% [5 mysql-server-core-5.7 4,155 kB/7,430 kB 56%]                142 kB/s 41s
+63% [5 mysql-server-core-5.7 4,283 kB/7,430 kB 58%]                142 kB/s 40s
+63% [5 mysql-server-core-5.7 4,360 kB/7,430 kB 59%]                142 kB/s 39s
+63% [5 mysql-server-core-5.7 4,422 kB/7,430 kB 60%]                142 kB/s 39s
+64% [5 mysql-server-core-5.7 4,483 kB/7,430 kB 60%]                142 kB/s 39s
+64% [5 mysql-server-core-5.7 4,571 kB/7,430 kB 62%]                142 kB/s 38s
+65% [5 mysql-server-core-5.7 4,704 kB/7,430 kB 63%]                142 kB/s 37s
+65% [5 mysql-server-core-5.7 4,772 kB/7,430 kB 64%]                142 kB/s 37s
+65% [5 mysql-server-core-5.7 4,798 kB/7,430 kB 65%]                142 kB/s 36s
+65% [5 mysql-server-core-5.7 4,859 kB/7,430 kB 65%]                142 kB/s 36s
+65% [5 mysql-server-core-5.7 4,898 kB/7,430 kB 66%]                171 kB/s 30s
+66% [5 mysql-server-core-5.7 4,945 kB/7,430 kB 67%]                171 kB/s 29s
+66% [5 mysql-server-core-5.7 5,001 kB/7,430 kB 67%]                171 kB/s 29s
+66% [5 mysql-server-core-5.7 5,060 kB/7,430 kB 68%]                171 kB/s 29s
+67% [5 mysql-server-core-5.7 5,127 kB/7,430 kB 69%]                171 kB/s 28s
+67% [5 mysql-server-core-5.7 5,215 kB/7,430 kB 70%]                171 kB/s 28s
+67% [5 mysql-server-core-5.7 5,331 kB/7,430 kB 72%]                171 kB/s 27s
+68% [5 mysql-server-core-5.7 5,473 kB/7,430 kB 74%]                171 kB/s 26s
+69% [5 mysql-server-core-5.7 5,599 kB/7,430 kB 75%]                171 kB/s 26s
+69% [5 mysql-server-core-5.7 5,718 kB/7,430 kB 77%]                171 kB/s 25s
+70% [5 mysql-server-core-5.7 5,792 kB/7,430 kB 78%]                171 kB/s 24s
+70% [5 mysql-server-core-5.7 5,874 kB/7,430 kB 79%]                171 kB/s 24s
+70% [5 mysql-server-core-5.7 5,949 kB/7,430 kB 80%]                175 kB/s 23s
+71% [5 mysql-server-core-5.7 6,036 kB/7,430 kB 81%]                175 kB/s 22s
+71% [5 mysql-server-core-5.7 6,130 kB/7,430 kB 83%]                175 kB/s 22s
+71% [5 mysql-server-core-5.7 6,190 kB/7,430 kB 83%]                175 kB/s 22s
+71% [5 mysql-server-core-5.7 6,223 kB/7,430 kB 84%]                175 kB/s 21s
+72% [5 mysql-server-core-5.7 6,290 kB/7,430 kB 85%]                175 kB/s 21s
+72% [5 mysql-server-core-5.7 6,371 kB/7,430 kB 86%]                175 kB/s 20s
+73% [5 mysql-server-core-5.7 6,443 kB/7,430 kB 87%]                175 kB/s 20s
+73% [5 mysql-server-core-5.7 6,537 kB/7,430 kB 88%]                175 kB/s 20s
+73% [5 mysql-server-core-5.7 6,653 kB/7,430 kB 90%]                175 kB/s 19s
+74% [5 mysql-server-core-5.7 6,794 kB/7,430 kB 91%]                175 kB/s 18s
+74% [5 mysql-server-core-5.7 6,882 kB/7,430 kB 93%]                175 kB/s 18s
+75% [5 mysql-server-core-5.7 6,938 kB/7,430 kB 93%]                165 kB/s 18s
+75% [5 mysql-server-core-5.7 7,001 kB/7,430 kB 94%]                165 kB/s 18s
+75% [5 mysql-server-core-5.7 7,063 kB/7,430 kB 95%]                165 kB/s 18s
+76% [5 mysql-server-core-5.7 7,153 kB/7,430 kB 96%]                165 kB/s 17s
+76% [5 mysql-server-core-5.7 7,212 kB/7,430 kB 97%]                165 kB/s 17s
+76% [5 mysql-server-core-5.7 7,280 kB/7,430 kB 98%]                165 kB/s 16s
+77% [5 mysql-server-core-5.7 7,338 kB/7,430 kB 99%]                165 kB/s 16s
+77% [5 mysql-server-core-5.7 7,410 kB/7,430 kB 100%]               165 kB/s 15s
+79% [Waiting for headers]                                          165 kB/s 15s
+                                                                               
+Get:6 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libevent-core-2.0-5 amd64 2.0.21-stable-2ubuntu0.16.04.1 [70.6 kB]
+
+79% [6 libevent-core-2.0-5 3,407 B/70.6 kB 5%]                     165 kB/s 15s
+82% [Waiting for headers]                                          165 kB/s 15s
+                                                                               
+Get:7 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 mysql-server-5.7 amd64 5.7.29-0ubuntu0.16.04.1 [2,472 kB]
+
+82% [7 mysql-server-5.7 2,036 B/2,472 kB 0%]                       165 kB/s 15s
+82% [7 mysql-server-5.7 137 kB/2,472 kB 6%]                        165 kB/s 14s
+83% [7 mysql-server-5.7 238 kB/2,472 kB 10%]                       165 kB/s 13s
+83% [7 mysql-server-5.7 290 kB/2,472 kB 12%]                       165 kB/s 13s
+83% [7 mysql-server-5.7 342 kB/2,472 kB 14%]                       165 kB/s 13s
+84% [7 mysql-server-5.7 406 kB/2,472 kB 16%]                       151 kB/s 14s
+84% [7 mysql-server-5.7 458 kB/2,472 kB 19%]                       151 kB/s 13s
+84% [7 mysql-server-5.7 533 kB/2,472 kB 22%]                       151 kB/s 13s
+85% [7 mysql-server-5.7 612 kB/2,472 kB 25%]                       151 kB/s 12s
+85% [7 mysql-server-5.7 658 kB/2,472 kB 27%]                       151 kB/s 12s
+85% [7 mysql-server-5.7 714 kB/2,472 kB 29%]                       151 kB/s 12s
+86% [7 mysql-server-5.7 832 kB/2,472 kB 34%]                       151 kB/s 11s
+86% [7 mysql-server-5.7 994 kB/2,472 kB 40%]                       151 kB/s 10s
+87% [7 mysql-server-5.7 1,092 kB/2,472 kB 44%]                      151 kB/s 9s
+87% [7 mysql-server-5.7 1,236 kB/2,472 kB 50%]                      151 kB/s 8s
+88% [7 mysql-server-5.7 1,375 kB/2,472 kB 56%]                      151 kB/s 7s
+88% [7 mysql-server-5.7 1,453 kB/2,472 kB 59%]                      151 kB/s 7s
+89% [7 mysql-server-5.7 1,509 kB/2,472 kB 61%]                      184 kB/s 5s
+89% [7 mysql-server-5.7 1,622 kB/2,472 kB 66%]                      184 kB/s 5s
+90% [7 mysql-server-5.7 1,777 kB/2,472 kB 72%]                      184 kB/s 4s
+90% [7 mysql-server-5.7 1,890 kB/2,472 kB 76%]                      184 kB/s 3s
+91% [7 mysql-server-5.7 1,984 kB/2,472 kB 80%]                      184 kB/s 3s
+91% [7 mysql-server-5.7 2,109 kB/2,472 kB 85%]                      184 kB/s 2s
+92% [7 mysql-server-5.7 2,272 kB/2,472 kB 92%]                      184 kB/s 1s
+93% [7 mysql-server-5.7 2,381 kB/2,472 kB 96%]                      184 kB/s 0s
+95% [Waiting for headers]                                           184 kB/s 0s
+                                                                               
+Get:8 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libhtml-template-perl all 2.95-2 [60.4 kB]
+
+95% [8 libhtml-template-perl 1,645 B/60.4 kB 3%]                    184 kB/s 0s
+98% [Waiting for headers]                                           184 kB/s 0s
+                                                                               
+Get:9 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 mysql-server all 5.7.29-0ubuntu0.16.04.1 [10.2 kB]
+
+98% [9 mysql-server 4,664 B/10.2 kB 46%]                            184 kB/s 0s
+100% [Working]                                                      184 kB/s 0s
+                                                                               
+Fetched 17.6 MB in 2min 5s (140 kB/s)
+Preconfiguring packages ...
+[?1049h[1;24r[4l[?25l(B[m[37m[40m[1;24r[H[2J[1;1H[97m[45m[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[1;1H[?25l[?12l[?25h[37mPackage configuration[6;3H[30m[47m┌────────────────────┤ [31mConfiguring mysql-server-5.7[30m ├─────────────────────┐[7;3H│ While not mandatory, it is highly recommended that you set a password   │[97m[40m [8;3H[30m[47m│ for the MySQL administrative "root" user.                               │[97m[40m [9;3H[30m[47m│                                                                         │[97m[40m [10;3H[30m[47m│ If this field is left blank, the password will not be changed.          │[97m[40m [11;3H[30m[47m│                                                                         │[97m[40m [12;3H[30m[47m│ New password for the MySQL "root" user:                                 │[97m[40m [13;3H[30m[47m│                                                                         │[97m[40m [14;3H[30m[47m│ [37m[45m_______________________________________________________________________[30m[47m │[97m[40m [15;3H[30m[47m│                                                                         │[97m[40m [16;3H[30m[47m│                                 <Ok>                                    │[97m[40m [17;3H[30m[47m│                                                                         │[97m[40m [18;3H[30m[47m└─────────────────────────────────────────────────────────────────────────┘[97m[40m [19;4H                                                                           [14;5H[37m[45m***___******[?25l[?12l[?25h[24;1H[40m(B[m[39;49m
+[K
+[?1049l[?1049h[1;24r[4l[?25l(B[m[37m[40m[1;24r[H[2J[1;1H[97m[45m[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[1;1H[?25l[?12l[?25h[37mPackage configuration[8;17H[30m[47m┌──────┤ [31mConfiguring mysql-server-5.7[30m ├───────┐[9;17H│                                             │[97m[40m [10;17H[30m[47m│                                             │[97m[40m [11;17H[30m[47m│ Repeat password for the MySQL "root" user:  │[97m[40m [12;17H[30m[47m│                                             │[97m[40m [13;17H[30m[47m│ [37m[45m___________________________________________[30m[47m │[97m[40m [14;17H[30m[47m│                                             │[97m[40m [15;17H[30m[47m│                   <Ok>                      │[97m[40m [16;17H[30m[47m│                                             │[97m[40m [17;17H[30m[47m└─────────────────────────────────────────────┘[97m[40m [18;18H                                               [13;19H[37m[45m******[?25l[?12l[?25h[24;1H[40m(B[m[39;49m
+[K
+[?1049lSelecting previously unselected package mysql-common.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 213431 files and directories currently installed.)
+Preparing to unpack .../mysql-common_5.7.29-0ubuntu0.16.04.1_all.deb ...
+Unpacking mysql-common (5.7.29-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libaio1:amd64.
+Preparing to unpack .../libaio1_0.3.110-2_amd64.deb ...
+Unpacking libaio1:amd64 (0.3.110-2) ...
+Selecting previously unselected package mysql-client-core-5.7.
+Preparing to unpack .../mysql-client-core-5.7_5.7.29-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking mysql-client-core-5.7 (5.7.29-0ubuntu0.16.04.1) ...
+Selecting previously unselected package mysql-client-5.7.
+Preparing to unpack .../mysql-client-5.7_5.7.29-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking mysql-client-5.7 (5.7.29-0ubuntu0.16.04.1) ...
+Selecting previously unselected package mysql-server-core-5.7.
+Preparing to unpack .../mysql-server-core-5.7_5.7.29-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking mysql-server-core-5.7 (5.7.29-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libevent-core-2.0-5:amd64.
+Preparing to unpack .../libevent-core-2.0-5_2.0.21-stable-2ubuntu0.16.04.1_amd64.deb ...
+Unpacking libevent-core-2.0-5:amd64 (2.0.21-stable-2ubuntu0.16.04.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Processing triggers for man-db (2.7.5-1) ...
+Setting up mysql-common (5.7.29-0ubuntu0.16.04.1) ...
+update-alternatives: using /etc/mysql/my.cnf.fallback to provide /etc/mysql/my.cnf (my.cnf) in auto mode
+Selecting previously unselected package mysql-server-5.7.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 213599 files and directories currently installed.)
+Preparing to unpack .../mysql-server-5.7_5.7.29-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking mysql-server-5.7 (5.7.29-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libhtml-template-perl.
+Preparing to unpack .../libhtml-template-perl_2.95-2_all.deb ...
+Unpacking libhtml-template-perl (2.95-2) ...
+Selecting previously unselected package mysql-server.
+Preparing to unpack .../mysql-server_5.7.29-0ubuntu0.16.04.1_all.deb ...
+Unpacking mysql-server (5.7.29-0ubuntu0.16.04.1) ...
+Processing triggers for ureadahead (0.100.0-19.1) ...
+Processing triggers for systemd (229-4ubuntu21.27) ...
+Processing triggers for man-db (2.7.5-1) ...
+Setting up libaio1:amd64 (0.3.110-2) ...
+Setting up mysql-client-core-5.7 (5.7.29-0ubuntu0.16.04.1) ...
+Setting up mysql-client-5.7 (5.7.29-0ubuntu0.16.04.1) ...
+Setting up mysql-server-core-5.7 (5.7.29-0ubuntu0.16.04.1) ...
+Setting up libevent-core-2.0-5:amd64 (2.0.21-stable-2ubuntu0.16.04.1) ...
+Setting up mysql-server-5.7 (5.7.29-0ubuntu0.16.04.1) ...
+update-alternatives: using /etc/mysql/mysql.cnf to provide /etc/mysql/my.cnf (my.cnf) in auto mode
+Renaming removed key_buffer and myisam-recover options (if present)
+Setting up libhtml-template-perl (2.95-2) ...
+Setting up mysql-server (5.7.29-0ubuntu0.16.04.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Processing triggers for ureadahead (0.100.0-19.1) ...
+Processing triggers for systemd (229-4ubuntu21.27) ...
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$  sudo mysql_install_db
+2020-03-31 21:33:42 [WARNING] mysql_install_db is deprecated. Please consider switching to mysqld --initialize
+2020-03-31 21:33:42 [ERROR]   The data directory needs to be specified.
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo /usr/bin/mysql_secure_installation
+
+Securing the MySQL server deployment.
+
+Enter password for user root: 
+Error: Access denied for user 'root'@'localhost' (using password: YES)
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo /usr/bin/mysql_secure_installation
+
+Securing the MySQL server deployment.
+
+Enter password for user root: 
+
+VALIDATE PASSWORD PLUGIN can be used to test passwords
+and improve security. It checks the strength of password
+and allows the users to set only those passwords which are
+secure enough. Would you like to setup VALIDATE PASSWORD plugin?
+
+Press y|Y for Yes, any other key for No: y
+
+There are three levels of password validation policy:
+
+LOW    Length >= 8
+MEDIUM Length >= 8, numeric, mixed case, and special characters
+STRONG Length >= 8, numeric, mixed case, special characters and dictionary                  file
+
+Please enter 0 = LOW, 1 = MEDIUM and 2 = STRONG: 0
+Using existing password for root.
+
+Estimated strength of the password: 25 
+Change the password for root ? ((Press y|Y for Yes, any other key for No) : j
+
+ ... skipping.
+By default, a MySQL installation has an anonymous user,
+allowing anyone to log into MySQL without having to have
+a user account created for them. This is intended only for
+testing, and to make the installation go a bit smoother.
+You should remove them before moving into a production
+environment.
+
+Remove anonymous users? (Press y|Y for Yes, any other key for No) : y
+Success.
+
+
+Normally, root should only be allowed to connect from
+'localhost'. This ensures that someone cannot guess at
+the root password from the network.
+
+Disallow root login remotely? (Press y|Y for Yes, any other key for No) : k
+
+ ... skipping.
+By default, MySQL comes with a database named 'test' that
+anyone can access. This is also intended only for testing,
+and should be removed before moving into a production
+environment.
+
+
+Remove test database and access to it? (Press y|Y for Yes, any other key for No) : m
+
+ ... skipping.
+Reloading the privilege tables will ensure that all changes
+made so far will take effect immediately.
+
+Reload privilege tables now? (Press y|Y for Yes, any other key for No) : l
+
+ ... skipping.
+All done! 
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$  sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+Package libapache2-mod-php5 is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+Package php5 is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+Package php5-mcrypt is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'php5' has no installation candidate
+E: Package 'libapache2-mod-php5' has no installation candidate
+E: Package 'php5-mcrypt' has no installation candidate
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo apt-get install php5 
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+Package php5 is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'php5' has no installation candidate
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ ^V[K/var/www/info.phpg/var/www/info.phpe/var/www/info.phpd/var/www/info.phpi/var/www/info.phpt/var/www/info.php /var/www/info.php
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ gedit /var/www/info.php[1@s[1@u[1@d[1@o[1@ 
+
+(gedit:10831): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (gedit:10831): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:10831): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:10831): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:10831): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:10831): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo service apache2 restart
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$     bash ./lamp.sh
+\n Update and Upgrade
+
+0% [Working]
+            
+Hit:1 http://in.archive.ubuntu.com/ubuntu xenial InRelease
+
+0% [Connecting to security.ubuntu.com] [Connecting to extras.ubuntu.com]
+0% [1 InRelease gpgv 247 kB] [Waiting for headers] [Connecting to security.ubun
+                                                                               
+Hit:2 http://in.archive.ubuntu.com/ubuntu xenial-updates InRelease
+
+0% [1 InRelease gpgv 247 kB] [Waiting for headers] [Connecting to security.ubun
+0% [Waiting for headers] [Connecting to security.ubuntu.com (91.189.88.152)] [C
+0% [2 InRelease gpgv 109 kB] [Waiting for headers] [Connecting to security.ubun
+                                                                               
+Hit:3 http://in.archive.ubuntu.com/ubuntu xenial-backports InRelease
+
+0% [2 InRelease gpgv 109 kB] [Connecting to security.ubuntu.com (91.189.88.152)
+                                                                               
+0% [Waiting for headers] [Connecting to extras.ubuntu.com (91.189.88.91)]
+0% [3 InRelease gpgv 107 kB] [Waiting for headers] [Connecting to extras.ubuntu
+                                                                               
+0% [Waiting for headers] [Connecting to extras.ubuntu.com (91.189.88.91)]
+                                                                         
+Hit:4 http://security.ubuntu.com/ubuntu xenial-security InRelease
+
+                                                                         
+0% [Waiting for headers]
+0% [4 InRelease gpgv 109 kB] [Waiting for headers]
+                                                  
+0% [Waiting for headers]
+                        
+Ign:5 http://extras.ubuntu.com/ubuntu xenial InRelease
+
+                        
+0% [Working]
+            
+Ign:6 http://extras.ubuntu.com/ubuntu xenial Release
+
+19% [Working]
+             
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+19% [Working]
+             
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+19% [Working]
+             
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+19% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Working]
+             
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Working]
+             
+Ign:12 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+19% [Working]
+             
+Ign:13 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+19% [Working]
+19% [Waiting for headers]
+                         
+Ign:14 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+                         
+19% [Working]
+             
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+19% [Working]
+             
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+19% [Working]
+             
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+19% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Working]
+             
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Working]
+             
+Ign:12 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+19% [Working]
+             
+Ign:13 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+19% [Working]
+             
+Ign:14 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+19% [Working]
+             
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+19% [Working]
+             
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+19% [Working]
+             
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+19% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Working]
+             
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Working]
+             
+Ign:12 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+19% [Working]
+             
+Ign:13 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+19% [Working]
+19% [Waiting for headers]
+                         
+Ign:14 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+                         
+19% [Working]
+             
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+19% [Working]
+             
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+19% [Working]
+             
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+19% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Working]
+             
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Working]
+             
+Ign:12 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+19% [Working]
+             
+Ign:13 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+19% [Working]
+             
+Ign:14 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+19% [Working]
+             
+Ign:7 http://extras.ubuntu.com/ubuntu xenial/main Sources
+
+19% [Working]
+             
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+19% [Working]
+             
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+19% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Working]
+             
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Working]
+             
+Ign:12 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+19% [Working]
+             
+Ign:13 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+19% [Working]
+             
+Ign:14 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+19% [Working]
+             
+Err:7 http://extras.ubuntu.com/ubuntu xenial/main Sources
+  404  Not Found [IP: 91.189.88.91 80]
+
+19% [Working]
+             
+Ign:8 http://extras.ubuntu.com/ubuntu xenial/main amd64 Packages
+
+19% [Working]
+             
+Ign:9 http://extras.ubuntu.com/ubuntu xenial/main i386 Packages
+
+19% [Working]
+             
+Ign:10 http://extras.ubuntu.com/ubuntu xenial/main all Packages
+
+19% [Working]
+             
+Ign:11 http://extras.ubuntu.com/ubuntu xenial/main Translation-en_IN
+
+19% [Working]
+             
+Ign:12 http://extras.ubuntu.com/ubuntu xenial/main Translation-en
+
+20% [Working]
+             
+Ign:13 http://extras.ubuntu.com/ubuntu xenial/main amd64 DEP-11 Metadata
+
+20% [Working]
+             
+Ign:14 http://extras.ubuntu.com/ubuntu xenial/main DEP-11 64x64 Icons
+
+20% [Working]
+             
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 1%
+
+Reading package lists... 3%
+
+Reading package lists... 3%
+
+Reading package lists... 7%
+
+Reading package lists... 7%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 31%
+
+Reading package lists... 31%
+
+Reading package lists... 37%
+
+Reading package lists... 54%
+
+Reading package lists... 54%
+
+Reading package lists... 66%
+
+Reading package lists... 66%
+
+Reading package lists... 66%
+
+Reading package lists... 66%
+
+Reading package lists... 67%
+
+Reading package lists... 67%
+
+Reading package lists... 67%
+
+Reading package lists... 67%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 74%
+
+Reading package lists... 74%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 78%
+
+Reading package lists... 81%
+
+Reading package lists... 81%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 89%
+
+Reading package lists... 89%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 96%
+
+Reading package lists... 96%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+W: The repository 'http://extras.ubuntu.com/ubuntu xenial Release' does not have a Release file.
+N: Data from such a repository can't be authenticated and is therefore potentially dangerous to use.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+E: Failed to fetch http://extras.ubuntu.com/ubuntu/dists/xenial/main/source/Sources  404  Not Found [IP: 91.189.88.91 80]
+E: Some index files failed to download. They have been ignored, or old ones used instead.
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+
+Calculating upgrade... 0%
+
+Calculating upgrade... 50%
+
+Calculating upgrade... Done
+
+The following packages will be upgraded:
+  libprocps4 procps thunderbird thunderbird-gnome-support
+  thunderbird-locale-en thunderbird-locale-en-us
+6 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 41.1 MB of archives.
+After this operation, 0 B of additional disk space will be used.
+
+0% [Working]
+            
+Get:1 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libprocps4 amd64 2:3.3.10-4ubuntu2.5 [32.9 kB]
+
+0% [1 libprocps4 1,183 B/32.9 kB 4%]
+                                    
+3% [Working]
+            
+Get:2 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 procps amd64 2:3.3.10-4ubuntu2.5 [222 kB]
+
+3% [2 procps 2,629 B/222 kB 1%]
+4% [2 procps 63.4 kB/222 kB 29%]
+                                
+4% [2 procps 120 kB/222 kB 54%]
+4% [2 procps 146 kB/222 kB 66%]
+4% [2 procps 204 kB/222 kB 92%]
+                               
+7% [Waiting for headers]
+                        
+Get:3 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 thunderbird-locale-en amd64 1:60.9.1+build1-0ubuntu0.16.04.1 [492 kB]
+
+7% [3 thunderbird-locale-en 1,980 B/492 kB 0%]
+7% [3 thunderbird-locale-en 62.8 kB/492 kB 13%]
+                                               
+7% [3 thunderbird-locale-en 116 kB/492 kB 24%]
+7% [3 thunderbird-locale-en 170 kB/492 kB 35%]
+8% [3 thunderbird-locale-en 221 kB/492 kB 45%]
+8% [3 thunderbird-locale-en 252 kB/492 kB 51%]
+8% [3 thunderbird-locale-en 303 kB/492 kB 62%]
+8% [3 thunderbird-locale-en 347 kB/492 kB 70%]               99.5 kB/s 6min 47s
+8% [3 thunderbird-locale-en 373 kB/492 kB 76%]               99.5 kB/s 6min 46s
+8% [3 thunderbird-locale-en 412 kB/492 kB 84%]               99.5 kB/s 6min 46s
+11% [Working]                                                99.5 kB/s 6min 45s
+                                                                               
+Get:4 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 thunderbird amd64 1:60.9.1+build1-0ubuntu0.16.04.1 [40.3 MB]
+
+11% [4 thunderbird 1,903 B/40.3 MB 0%]                       99.5 kB/s 6min 45s
+12% [4 thunderbird 75.8 kB/40.3 MB 0%]                       99.5 kB/s 6min 44s
+12% [4 thunderbird 116 kB/40.3 MB 0%]                        99.5 kB/s 6min 44s
+12% [4 thunderbird 148 kB/40.3 MB 0%]                        99.5 kB/s 6min 44s
+12% [4 thunderbird 197 kB/40.3 MB 0%]                        99.5 kB/s 6min 43s
+12% [4 thunderbird 235 kB/40.3 MB 1%]                        99.5 kB/s 6min 43s
+12% [4 thunderbird 289 kB/40.3 MB 1%]                        99.5 kB/s 6min 42s
+12% [4 thunderbird 393 kB/40.3 MB 1%]                        99.5 kB/s 6min 41s
+12% [4 thunderbird 449 kB/40.3 MB 1%]                        99.5 kB/s 6min 41s
+12% [4 thunderbird 503 kB/40.3 MB 1%]                        99.5 kB/s 6min 40s
+13% [4 thunderbird 564 kB/40.3 MB 1%]                          110 kB/s 6min 2s
+13% [4 thunderbird 578 kB/40.3 MB 1%]                          110 kB/s 6min 1s
+13% [4 thunderbird 594 kB/40.3 MB 1%]                          110 kB/s 6min 1s
+13% [4 thunderbird 633 kB/40.3 MB 2%]                          110 kB/s 6min 1s
+13% [4 thunderbird 693 kB/40.3 MB 2%]                          110 kB/s 6min 0s
+13% [4 thunderbird 745 kB/40.3 MB 2%]                          110 kB/s 6min 0s
+13% [4 thunderbird 807 kB/40.3 MB 2%]                         110 kB/s 5min 59s
+13% [4 thunderbird 871 kB/40.3 MB 2%]                         110 kB/s 5min 59s
+13% [4 thunderbird 913 kB/40.3 MB 2%]                         110 kB/s 5min 58s
+13% [4 thunderbird 946 kB/40.3 MB 2%]                         110 kB/s 5min 58s
+13% [4 thunderbird 1,021 kB/40.3 MB 3%]                       110 kB/s 5min 57s
+14% [4 thunderbird 1,095 kB/40.3 MB 3%]                       110 kB/s 5min 57s
+14% [4 thunderbird 1,194 kB/40.3 MB 3%]                       105 kB/s 6min 13s
+14% [4 thunderbird 1,254 kB/40.3 MB 3%]                       105 kB/s 6min 12s
+14% [4 thunderbird 1,289 kB/40.3 MB 3%]                       105 kB/s 6min 12s
+14% [4 thunderbird 1,346 kB/40.3 MB 3%]                       105 kB/s 6min 12s
+14% [4 thunderbird 1,414 kB/40.3 MB 4%]                       105 kB/s 6min 11s
+14% [4 thunderbird 1,496 kB/40.3 MB 4%]                       105 kB/s 6min 10s
+14% [4 thunderbird 1,534 kB/40.3 MB 4%]                       105 kB/s 6min 10s
+14% [4 thunderbird 1,534 kB/40.3 MB 4%]                       105 kB/s 6min 10s
+15% [4 thunderbird 1,619 kB/40.3 MB 4%]                        105 kB/s 6min 9s
+15% [4 thunderbird 1,674 kB/40.3 MB 4%]                        105 kB/s 6min 8s
+15% [4 thunderbird 1,741 kB/40.3 MB 4%]                        105 kB/s 6min 8s
+15% [4 thunderbird 1,774 kB/40.3 MB 4%]                        105 kB/s 6min 8s
+15% [4 thunderbird 1,802 kB/40.3 MB 4%]                       101 kB/s 6min 20s
+15% [4 thunderbird 1,832 kB/40.3 MB 5%]                       101 kB/s 6min 20s
+15% [4 thunderbird 1,903 kB/40.3 MB 5%]                       101 kB/s 6min 19s
+15% [4 thunderbird 1,968 kB/40.3 MB 5%]                       101 kB/s 6min 19s
+15% [4 thunderbird 2,018 kB/40.3 MB 5%]                       101 kB/s 6min 18s
+15% [4 thunderbird 2,028 kB/40.3 MB 5%]                       101 kB/s 6min 18s
+15% [4 thunderbird 2,064 kB/40.3 MB 5%]                       101 kB/s 6min 18s
+16% [4 thunderbird 2,122 kB/40.3 MB 5%]                       101 kB/s 6min 17s
+16% [4 thunderbird 2,149 kB/40.3 MB 5%]                       101 kB/s 6min 17s
+16% [4 thunderbird 2,206 kB/40.3 MB 5%]                       101 kB/s 6min 16s
+16% [4 thunderbird 2,277 kB/40.3 MB 6%]                       101 kB/s 6min 16s
+16% [4 thunderbird 2,340 kB/40.3 MB 6%]                       101 kB/s 6min 15s
+16% [4 thunderbird 2,413 kB/40.3 MB 6%]                       102 kB/s 6min 13s
+16% [4 thunderbird 2,458 kB/40.3 MB 6%]                       102 kB/s 6min 12s
+16% [4 thunderbird 2,539 kB/40.3 MB 6%]                       102 kB/s 6min 11s
+16% [4 thunderbird 2,588 kB/40.3 MB 6%]                       102 kB/s 6min 11s
+17% [4 thunderbird 2,631 kB/40.3 MB 7%]                       102 kB/s 6min 10s
+17% [4 thunderbird 2,658 kB/40.3 MB 7%]                       102 kB/s 6min 10s
+17% [4 thunderbird 2,698 kB/40.3 MB 7%]                       102 kB/s 6min 10s
+17% [4 thunderbird 2,723 kB/40.3 MB 7%]                       102 kB/s 6min 10s
+17% [4 thunderbird 2,752 kB/40.3 MB 7%]                        102 kB/s 6min 9s
+17% [4 thunderbird 2,782 kB/40.3 MB 7%]                        102 kB/s 6min 9s
+17% [4 thunderbird 2,805 kB/40.3 MB 7%]                        102 kB/s 6min 9s
+17% [4 thunderbird 2,867 kB/40.3 MB 7%]                        102 kB/s 6min 8s
+17% [4 thunderbird 2,905 kB/40.3 MB 7%]                      82.0 kB/s 7min 37s
+17% [4 thunderbird 2,933 kB/40.3 MB 7%]                      82.0 kB/s 7min 36s
+17% [4 thunderbird 2,991 kB/40.3 MB 7%]                      82.0 kB/s 7min 36s
+17% [4 thunderbird 3,054 kB/40.3 MB 8%]                      82.0 kB/s 7min 35s
+18% [4 thunderbird 3,143 kB/40.3 MB 8%]                      82.0 kB/s 7min 34s
+18% [4 thunderbird 3,211 kB/40.3 MB 8%]                      82.0 kB/s 7min 33s
+18% [4 thunderbird 3,269 kB/40.3 MB 8%]                      82.0 kB/s 7min 32s
+18% [4 thunderbird 3,300 kB/40.3 MB 8%]                      82.0 kB/s 7min 32s
+18% [4 thunderbird 3,353 kB/40.3 MB 8%]                      82.0 kB/s 7min 31s
+18% [4 thunderbird 3,434 kB/40.3 MB 9%]                      82.0 kB/s 7min 30s
+18% [4 thunderbird 3,510 kB/40.3 MB 9%]                      82.0 kB/s 7min 29s
+18% [4 thunderbird 3,550 kB/40.3 MB 9%]                      82.0 kB/s 7min 29s
+18% [4 thunderbird 3,581 kB/40.3 MB 9%]                       113 kB/s 5min 26s
+19% [4 thunderbird 3,638 kB/40.3 MB 9%]                       113 kB/s 5min 26s
+19% [4 thunderbird 3,712 kB/40.3 MB 9%]                       113 kB/s 5min 25s
+19% [4 thunderbird 3,745 kB/40.3 MB 9%]                       113 kB/s 5min 25s
+19% [4 thunderbird 3,786 kB/40.3 MB 9%]                       113 kB/s 5min 24s
+19% [4 thunderbird 3,816 kB/40.3 MB 9%]                       113 kB/s 5min 24s
+19% [4 thunderbird 3,838 kB/40.3 MB 10%]                      113 kB/s 5min 24s
+19% [4 thunderbird 3,865 kB/40.3 MB 10%]                      113 kB/s 5min 24s
+19% [4 thunderbird 3,917 kB/40.3 MB 10%]                      113 kB/s 5min 23s
+19% [4 thunderbird 3,969 kB/40.3 MB 10%]                      113 kB/s 5min 23s
+19% [4 thunderbird 4,036 kB/40.3 MB 10%]                      113 kB/s 5min 22s
+19% [4 thunderbird 4,123 kB/40.3 MB 10%]                      113 kB/s 5min 21s
+20% [4 thunderbird 4,224 kB/40.3 MB 10%]                      107 kB/s 5min 37s
+20% [4 thunderbird 4,349 kB/40.3 MB 11%]                      107 kB/s 5min 36s
+20% [4 thunderbird 4,405 kB/40.3 MB 11%]                      107 kB/s 5min 36s
+20% [4 thunderbird 4,498 kB/40.3 MB 11%]                      107 kB/s 5min 35s
+20% [4 thunderbird 4,563 kB/40.3 MB 11%]                      107 kB/s 5min 34s
+20% [4 thunderbird 4,612 kB/40.3 MB 11%]                      107 kB/s 5min 34s
+20% [4 thunderbird 4,643 kB/40.3 MB 12%]                      107 kB/s 5min 33s
+21% [4 thunderbird 4,708 kB/40.3 MB 12%]                      107 kB/s 5min 33s
+21% [4 thunderbird 4,770 kB/40.3 MB 12%]                      107 kB/s 5min 32s
+21% [4 thunderbird 4,830 kB/40.3 MB 12%]                      107 kB/s 5min 32s
+21% [4 thunderbird 4,879 kB/40.3 MB 12%]                      107 kB/s 5min 31s
+21% [4 thunderbird 4,960 kB/40.3 MB 12%]                      107 kB/s 5min 30s
+21% [4 thunderbird 5,053 kB/40.3 MB 13%]                      138 kB/s 4min 16s
+21% [4 thunderbird 5,121 kB/40.3 MB 13%]                      138 kB/s 4min 15s
+22% [4 thunderbird 5,199 kB/40.3 MB 13%]                      138 kB/s 4min 15s
+22% [4 thunderbird 5,264 kB/40.3 MB 13%]                      138 kB/s 4min 14s
+22% [4 thunderbird 5,339 kB/40.3 MB 13%]                      138 kB/s 4min 14s
+22% [4 thunderbird 5,391 kB/40.3 MB 13%]                      138 kB/s 4min 13s
+22% [4 thunderbird 5,449 kB/40.3 MB 14%]                      138 kB/s 4min 13s
+22% [4 thunderbird 5,555 kB/40.3 MB 14%]                      138 kB/s 4min 12s
+23% [4 thunderbird 5,685 kB/40.3 MB 14%]                      138 kB/s 4min 11s
+23% [4 thunderbird 5,791 kB/40.3 MB 14%]                      138 kB/s 4min 10s
+23% [4 thunderbird 5,887 kB/40.3 MB 15%]                      138 kB/s 4min 10s
+23% [4 thunderbird 5,952 kB/40.3 MB 15%]                       138 kB/s 4min 9s
+23% [4 thunderbird 6,011 kB/40.3 MB 15%]                      160 kB/s 3min 35s
+23% [4 thunderbird 6,091 kB/40.3 MB 15%]                      160 kB/s 3min 34s
+23% [4 thunderbird 6,189 kB/40.3 MB 15%]                      160 kB/s 3min 34s
+24% [4 thunderbird 6,280 kB/40.3 MB 16%]                      160 kB/s 3min 33s
+24% [4 thunderbird 6,357 kB/40.3 MB 16%]                      160 kB/s 3min 33s
+24% [4 thunderbird 6,424 kB/40.3 MB 16%]                      160 kB/s 3min 32s
+24% [4 thunderbird 6,501 kB/40.3 MB 16%]                      160 kB/s 3min 32s
+24% [4 thunderbird 6,547 kB/40.3 MB 16%]                      160 kB/s 3min 31s
+24% [4 thunderbird 6,585 kB/40.3 MB 16%]                      160 kB/s 3min 31s
+24% [4 thunderbird 6,650 kB/40.3 MB 16%]                      160 kB/s 3min 31s
+24% [4 thunderbird 6,703 kB/40.3 MB 17%]                      160 kB/s 3min 30s
+25% [4 thunderbird 6,748 kB/40.3 MB 17%]                      160 kB/s 3min 30s
+25% [4 thunderbird 6,780 kB/40.3 MB 17%]                      128 kB/s 4min 22s
+25% [4 thunderbird 6,842 kB/40.3 MB 17%]                      128 kB/s 4min 21s
+25% [4 thunderbird 6,910 kB/40.3 MB 17%]                      128 kB/s 4min 21s
+25% [4 thunderbird 6,955 kB/40.3 MB 17%]                      128 kB/s 4min 21s
+25% [4 thunderbird 6,991 kB/40.3 MB 17%]                      128 kB/s 4min 20s
+25% [4 thunderbird 7,048 kB/40.3 MB 17%]                      128 kB/s 4min 20s
+25% [4 thunderbird 7,113 kB/40.3 MB 18%]                      128 kB/s 4min 19s
+25% [4 thunderbird 7,171 kB/40.3 MB 18%]                      128 kB/s 4min 19s
+26% [4 thunderbird 7,243 kB/40.3 MB 18%]                      128 kB/s 4min 18s
+26% [4 thunderbird 7,287 kB/40.3 MB 18%]                      128 kB/s 4min 18s
+26% [4 thunderbird 7,326 kB/40.3 MB 18%]                      128 kB/s 4min 18s
+26% [4 thunderbird 7,358 kB/40.3 MB 18%]                      128 kB/s 4min 17s
+26% [4 thunderbird 7,416 kB/40.3 MB 18%]                      106 kB/s 5min 11s
+26% [4 thunderbird 7,495 kB/40.3 MB 19%]                      106 kB/s 5min 10s
+26% [4 thunderbird 7,582 kB/40.3 MB 19%]                       106 kB/s 5min 9s
+26% [4 thunderbird 7,646 kB/40.3 MB 19%]                       106 kB/s 5min 9s
+26% [4 thunderbird 7,691 kB/40.3 MB 19%]                       106 kB/s 5min 8s
+27% [4 thunderbird 7,762 kB/40.3 MB 19%]                       106 kB/s 5min 8s
+27% [4 thunderbird 7,870 kB/40.3 MB 20%]                       106 kB/s 5min 7s
+27% [4 thunderbird 7,963 kB/40.3 MB 20%]                       106 kB/s 5min 6s
+27% [4 thunderbird 8,044 kB/40.3 MB 20%]                       106 kB/s 5min 5s
+27% [4 thunderbird 8,151 kB/40.3 MB 20%]                       106 kB/s 5min 4s
+27% [4 thunderbird 8,208 kB/40.3 MB 20%]                       106 kB/s 5min 3s
+28% [4 thunderbird 8,303 kB/40.3 MB 21%]                       106 kB/s 5min 2s
+28% [4 thunderbird 8,428 kB/40.3 MB 21%]                       168 kB/s 3min 9s
+28% [4 thunderbird 8,545 kB/40.3 MB 21%]                       168 kB/s 3min 8s
+28% [4 thunderbird 8,644 kB/40.3 MB 21%]                       168 kB/s 3min 8s
+28% [4 thunderbird 8,707 kB/40.3 MB 22%]                       168 kB/s 3min 7s
+29% [4 thunderbird 8,762 kB/40.3 MB 22%]                       168 kB/s 3min 7s
+29% [4 thunderbird 8,822 kB/40.3 MB 22%]                       168 kB/s 3min 7s
+29% [4 thunderbird 8,885 kB/40.3 MB 22%]                       168 kB/s 3min 6s
+29% [4 thunderbird 8,958 kB/40.3 MB 22%]                       168 kB/s 3min 6s
+29% [4 thunderbird 9,045 kB/40.3 MB 22%]                       168 kB/s 3min 5s
+29% [4 thunderbird 9,104 kB/40.3 MB 23%]                       168 kB/s 3min 5s
+29% [4 thunderbird 9,140 kB/40.3 MB 23%]                       168 kB/s 3min 5s
+29% [4 thunderbird 9,171 kB/40.3 MB 23%]                       168 kB/s 3min 5s
+29% [4 thunderbird 9,197 kB/40.3 MB 23%]                       128 kB/s 4min 3s
+29% [4 thunderbird 9,231 kB/40.3 MB 23%]                       128 kB/s 4min 3s
+30% [4 thunderbird 9,281 kB/40.3 MB 23%]                       128 kB/s 4min 2s
+30% [4 thunderbird 9,357 kB/40.3 MB 23%]                       128 kB/s 4min 2s
+30% [4 thunderbird 9,428 kB/40.3 MB 23%]                       128 kB/s 4min 1s
+30% [4 thunderbird 9,486 kB/40.3 MB 24%]                       128 kB/s 4min 1s
+30% [4 thunderbird 9,589 kB/40.3 MB 24%]                       128 kB/s 4min 0s
+30% [4 thunderbird 9,748 kB/40.3 MB 24%]                      128 kB/s 3min 59s
+31% [4 thunderbird 9,844 kB/40.3 MB 24%]                      128 kB/s 3min 58s
+31% [4 thunderbird 9,908 kB/40.3 MB 25%]                      128 kB/s 3min 57s
+31% [4 thunderbird 9,971 kB/40.3 MB 25%]                      128 kB/s 3min 57s
+31% [4 thunderbird 10.0 MB/40.3 MB 25%]                       128 kB/s 3min 56s
+31% [4 thunderbird 10.1 MB/40.3 MB 25%]                       152 kB/s 3min 18s
+31% [4 thunderbird 10.2 MB/40.3 MB 25%]                       152 kB/s 3min 17s
+32% [4 thunderbird 10.3 MB/40.3 MB 26%]                       152 kB/s 3min 17s
+32% [4 thunderbird 10.4 MB/40.3 MB 26%]                       152 kB/s 3min 17s
+32% [4 thunderbird 10.4 MB/40.3 MB 26%]                       152 kB/s 3min 16s
+32% [4 thunderbird 10.5 MB/40.3 MB 26%]                       152 kB/s 3min 15s
+32% [4 thunderbird 10.6 MB/40.3 MB 26%]                       152 kB/s 3min 15s
+32% [4 thunderbird 10.7 MB/40.3 MB 26%]                       152 kB/s 3min 14s
+32% [4 thunderbird 10.7 MB/40.3 MB 27%]                       152 kB/s 3min 14s
+33% [4 thunderbird 10.9 MB/40.3 MB 27%]                       152 kB/s 3min 13s
+33% [4 thunderbird 11.0 MB/40.3 MB 27%]                       152 kB/s 3min 12s
+33% [4 thunderbird 11.1 MB/40.3 MB 28%]                       152 kB/s 3min 11s
+33% [4 thunderbird 11.2 MB/40.3 MB 28%]                       182 kB/s 2min 40s
+33% [4 thunderbird 11.3 MB/40.3 MB 28%]                       182 kB/s 2min 40s
+34% [4 thunderbird 11.4 MB/40.3 MB 28%]                       182 kB/s 2min 39s
+34% [4 thunderbird 11.5 MB/40.3 MB 29%]                       182 kB/s 2min 38s
+34% [4 thunderbird 11.6 MB/40.3 MB 29%]                       182 kB/s 2min 38s
+34% [4 thunderbird 11.7 MB/40.3 MB 29%]                       182 kB/s 2min 37s
+34% [4 thunderbird 11.8 MB/40.3 MB 29%]                       182 kB/s 2min 37s
+35% [4 thunderbird 11.9 MB/40.3 MB 29%]                       182 kB/s 2min 36s
+35% [4 thunderbird 12.0 MB/40.3 MB 30%]                       182 kB/s 2min 36s
+35% [4 thunderbird 12.1 MB/40.3 MB 30%]                       182 kB/s 2min 35s
+35% [4 thunderbird 12.2 MB/40.3 MB 30%]                       182 kB/s 2min 34s
+35% [4 thunderbird 12.3 MB/40.3 MB 30%]                       182 kB/s 2min 34s
+36% [4 thunderbird 12.4 MB/40.3 MB 31%]                       194 kB/s 2min 24s
+36% [4 thunderbird 12.4 MB/40.3 MB 31%]                       194 kB/s 2min 24s
+36% [4 thunderbird 12.5 MB/40.3 MB 31%]                       194 kB/s 2min 23s
+36% [4 thunderbird 12.6 MB/40.3 MB 31%]                       194 kB/s 2min 23s
+36% [4 thunderbird 12.6 MB/40.3 MB 31%]                       194 kB/s 2min 23s
+36% [4 thunderbird 12.6 MB/40.3 MB 31%]                       194 kB/s 2min 23s
+36% [4 thunderbird 12.7 MB/40.3 MB 31%]                       194 kB/s 2min 23s
+36% [4 thunderbird 12.8 MB/40.3 MB 32%]                       194 kB/s 2min 22s
+37% [4 thunderbird 12.9 MB/40.3 MB 32%]                       194 kB/s 2min 21s
+37% [4 thunderbird 13.0 MB/40.3 MB 32%]                       194 kB/s 2min 21s
+37% [4 thunderbird 13.0 MB/40.3 MB 32%]                       194 kB/s 2min 21s
+37% [4 thunderbird 13.2 MB/40.3 MB 33%]                       194 kB/s 2min 20s
+37% [4 thunderbird 13.4 MB/40.3 MB 33%]                       164 kB/s 2min 44s
+38% [4 thunderbird 13.5 MB/40.3 MB 33%]                       164 kB/s 2min 43s
+38% [4 thunderbird 13.6 MB/40.3 MB 34%]                       164 kB/s 2min 43s
+38% [4 thunderbird 13.6 MB/40.3 MB 34%]                       164 kB/s 2min 42s
+38% [4 thunderbird 13.7 MB/40.3 MB 34%]                       164 kB/s 2min 42s
+38% [4 thunderbird 13.8 MB/40.3 MB 34%]                       164 kB/s 2min 41s
+39% [4 thunderbird 14.0 MB/40.3 MB 35%]                       164 kB/s 2min 40s
+39% [4 thunderbird 14.1 MB/40.3 MB 35%]                       164 kB/s 2min 39s
+39% [4 thunderbird 14.2 MB/40.3 MB 35%]                       164 kB/s 2min 39s
+39% [4 thunderbird 14.3 MB/40.3 MB 35%]                       164 kB/s 2min 38s
+40% [4 thunderbird 14.4 MB/40.3 MB 36%]                       164 kB/s 2min 38s
+40% [4 thunderbird 14.6 MB/40.3 MB 36%]                       164 kB/s 2min 37s
+40% [4 thunderbird 14.8 MB/40.3 MB 37%]                       234 kB/s 1min 49s
+40% [4 thunderbird 14.9 MB/40.3 MB 37%]                       234 kB/s 1min 48s
+41% [4 thunderbird 15.0 MB/40.3 MB 37%]                       234 kB/s 1min 48s
+41% [4 thunderbird 15.1 MB/40.3 MB 38%]                       234 kB/s 1min 47s
+41% [4 thunderbird 15.2 MB/40.3 MB 38%]                       234 kB/s 1min 47s
+41% [4 thunderbird 15.4 MB/40.3 MB 38%]                       234 kB/s 1min 46s
+42% [4 thunderbird 15.6 MB/40.3 MB 39%]                       234 kB/s 1min 46s
+42% [4 thunderbird 15.8 MB/40.3 MB 39%]                       234 kB/s 1min 44s
+43% [4 thunderbird 16.1 MB/40.3 MB 40%]                       234 kB/s 1min 43s
+43% [4 thunderbird 16.3 MB/40.3 MB 40%]                       234 kB/s 1min 42s
+43% [4 thunderbird 16.4 MB/40.3 MB 41%]                       234 kB/s 1min 42s
+44% [4 thunderbird 16.5 MB/40.3 MB 41%]                       234 kB/s 1min 42s
+44% [4 thunderbird 16.6 MB/40.3 MB 41%]                       303 kB/s 1min 18s
+44% [4 thunderbird 16.6 MB/40.3 MB 41%]                       303 kB/s 1min 18s
+44% [4 thunderbird 16.8 MB/40.3 MB 42%]                       303 kB/s 1min 17s
+44% [4 thunderbird 16.9 MB/40.3 MB 42%]                       303 kB/s 1min 17s
+45% [4 thunderbird 17.0 MB/40.3 MB 42%]                       303 kB/s 1min 17s
+45% [4 thunderbird 17.2 MB/40.3 MB 43%]                       303 kB/s 1min 16s
+45% [4 thunderbird 17.4 MB/40.3 MB 43%]                       303 kB/s 1min 15s
+46% [4 thunderbird 17.6 MB/40.3 MB 44%]                       303 kB/s 1min 15s
+46% [4 thunderbird 17.8 MB/40.3 MB 44%]                       303 kB/s 1min 14s
+47% [4 thunderbird 18.1 MB/40.3 MB 45%]                       303 kB/s 1min 13s
+47% [4 thunderbird 18.4 MB/40.3 MB 46%]                       303 kB/s 1min 12s
+48% [4 thunderbird 18.6 MB/40.3 MB 46%]                       303 kB/s 1min 11s
+48% [4 thunderbird 18.7 MB/40.3 MB 46%]                            360 kB/s 60s
+48% [4 thunderbird 18.9 MB/40.3 MB 47%]                            360 kB/s 59s
+48% [4 thunderbird 19.0 MB/40.3 MB 47%]                            360 kB/s 59s
+49% [4 thunderbird 19.2 MB/40.3 MB 48%]                            360 kB/s 58s
+49% [4 thunderbird 19.4 MB/40.3 MB 48%]                            360 kB/s 58s
+49% [4 thunderbird 19.5 MB/40.3 MB 48%]                            360 kB/s 57s
+50% [4 thunderbird 19.7 MB/40.3 MB 49%]                            360 kB/s 57s
+50% [4 thunderbird 19.9 MB/40.3 MB 49%]                            360 kB/s 57s
+51% [4 thunderbird 20.1 MB/40.3 MB 50%]                            360 kB/s 56s
+51% [4 thunderbird 20.2 MB/40.3 MB 50%]                            360 kB/s 56s
+51% [4 thunderbird 20.3 MB/40.3 MB 50%]                            360 kB/s 55s
+51% [4 thunderbird 20.5 MB/40.3 MB 51%]                            360 kB/s 55s
+52% [4 thunderbird 20.7 MB/40.3 MB 51%]                            333 kB/s 58s
+52% [4 thunderbird 21.0 MB/40.3 MB 52%]                            333 kB/s 58s
+53% [4 thunderbird 21.3 MB/40.3 MB 53%]                            333 kB/s 57s
+53% [4 thunderbird 21.5 MB/40.3 MB 53%]                            333 kB/s 56s
+53% [4 thunderbird 21.6 MB/40.3 MB 54%]                            333 kB/s 56s
+54% [4 thunderbird 21.7 MB/40.3 MB 54%]                            333 kB/s 56s
+54% [4 thunderbird 21.9 MB/40.3 MB 54%]                            333 kB/s 55s
+54% [4 thunderbird 22.0 MB/40.3 MB 55%]                            333 kB/s 55s
+55% [4 thunderbird 22.3 MB/40.3 MB 55%]                            333 kB/s 54s
+55% [4 thunderbird 22.6 MB/40.3 MB 56%]                            333 kB/s 53s
+56% [4 thunderbird 22.8 MB/40.3 MB 57%]                            333 kB/s 52s
+56% [4 thunderbird 23.1 MB/40.3 MB 57%]                            333 kB/s 51s
+57% [4 thunderbird 23.3 MB/40.3 MB 58%]                            421 kB/s 40s
+57% [4 thunderbird 23.4 MB/40.3 MB 58%]                            421 kB/s 40s
+57% [4 thunderbird 23.5 MB/40.3 MB 58%]                            421 kB/s 40s
+57% [4 thunderbird 23.5 MB/40.3 MB 58%]                            421 kB/s 40s
+57% [4 thunderbird 23.6 MB/40.3 MB 59%]                            421 kB/s 39s
+58% [4 thunderbird 23.7 MB/40.3 MB 59%]                            421 kB/s 39s
+58% [4 thunderbird 23.8 MB/40.3 MB 59%]                            421 kB/s 39s
+58% [4 thunderbird 23.9 MB/40.3 MB 59%]                            421 kB/s 39s
+58% [4 thunderbird 24.0 MB/40.3 MB 59%]                            421 kB/s 39s
+58% [4 thunderbird 24.1 MB/40.3 MB 60%]                            421 kB/s 38s
+58% [4 thunderbird 24.2 MB/40.3 MB 60%]                            421 kB/s 38s
+59% [4 thunderbird 24.3 MB/40.3 MB 60%]                            421 kB/s 38s
+59% [4 thunderbird 24.4 MB/40.3 MB 60%]                       190 kB/s 1min 24s
+59% [4 thunderbird 24.5 MB/40.3 MB 61%]                       190 kB/s 1min 23s
+59% [4 thunderbird 24.6 MB/40.3 MB 61%]                       190 kB/s 1min 23s
+59% [4 thunderbird 24.7 MB/40.3 MB 61%]                       190 kB/s 1min 22s
+60% [4 thunderbird 24.8 MB/40.3 MB 62%]                       190 kB/s 1min 21s
+60% [4 thunderbird 25.0 MB/40.3 MB 62%]                       190 kB/s 1min 20s
+60% [4 thunderbird 25.1 MB/40.3 MB 62%]                       190 kB/s 1min 20s
+60% [4 thunderbird 25.2 MB/40.3 MB 62%]                       190 kB/s 1min 19s
+61% [4 thunderbird 25.3 MB/40.3 MB 63%]                       190 kB/s 1min 19s
+61% [4 thunderbird 25.4 MB/40.3 MB 63%]                       190 kB/s 1min 18s
+61% [4 thunderbird 25.6 MB/40.3 MB 63%]                       190 kB/s 1min 17s
+61% [4 thunderbird 25.7 MB/40.3 MB 64%]                       190 kB/s 1min 17s
+62% [4 thunderbird 25.8 MB/40.3 MB 64%]                        224 kB/s 1min 5s
+62% [4 thunderbird 25.8 MB/40.3 MB 64%]                        224 kB/s 1min 4s
+62% [4 thunderbird 25.9 MB/40.3 MB 64%]                        224 kB/s 1min 4s
+62% [4 thunderbird 26.0 MB/40.3 MB 64%]                        224 kB/s 1min 4s
+62% [4 thunderbird 26.1 MB/40.3 MB 65%]                        224 kB/s 1min 3s
+62% [4 thunderbird 26.1 MB/40.3 MB 65%]                        224 kB/s 1min 3s
+62% [4 thunderbird 26.2 MB/40.3 MB 65%]                        224 kB/s 1min 3s
+63% [4 thunderbird 26.3 MB/40.3 MB 65%]                        224 kB/s 1min 2s
+63% [4 thunderbird 26.3 MB/40.3 MB 65%]                        224 kB/s 1min 2s
+63% [4 thunderbird 26.4 MB/40.3 MB 65%]                        224 kB/s 1min 2s
+63% [4 thunderbird 26.4 MB/40.3 MB 66%]                        224 kB/s 1min 2s
+63% [4 thunderbird 26.5 MB/40.3 MB 66%]                        224 kB/s 1min 1s
+63% [4 thunderbird 26.6 MB/40.3 MB 66%]                       137 kB/s 1min 40s
+63% [4 thunderbird 26.7 MB/40.3 MB 66%]                       137 kB/s 1min 39s
+64% [4 thunderbird 26.8 MB/40.3 MB 66%]                       137 kB/s 1min 38s
+64% [4 thunderbird 26.9 MB/40.3 MB 67%]                       137 kB/s 1min 38s
+64% [4 thunderbird 27.0 MB/40.3 MB 67%]                       137 kB/s 1min 37s
+64% [4 thunderbird 27.1 MB/40.3 MB 67%]                       137 kB/s 1min 36s
+64% [4 thunderbird 27.1 MB/40.3 MB 67%]                       137 kB/s 1min 36s
+65% [4 thunderbird 27.3 MB/40.3 MB 68%]                       137 kB/s 1min 35s
+65% [4 thunderbird 27.4 MB/40.3 MB 68%]                       137 kB/s 1min 34s
+65% [4 thunderbird 27.4 MB/40.3 MB 68%]                       137 kB/s 1min 34s
+65% [4 thunderbird 27.5 MB/40.3 MB 68%]                       137 kB/s 1min 33s
+65% [4 thunderbird 27.6 MB/40.3 MB 68%]                       137 kB/s 1min 33s
+65% [4 thunderbird 27.6 MB/40.3 MB 68%]                       173 kB/s 1min 13s
+65% [4 thunderbird 27.6 MB/40.3 MB 69%]                       173 kB/s 1min 13s
+65% [4 thunderbird 27.7 MB/40.3 MB 69%]                       173 kB/s 1min 13s
+65% [4 thunderbird 27.8 MB/40.3 MB 69%]                       173 kB/s 1min 12s
+66% [4 thunderbird 27.8 MB/40.3 MB 69%]                       173 kB/s 1min 12s
+66% [4 thunderbird 28.0 MB/40.3 MB 69%]                       173 kB/s 1min 11s
+66% [4 thunderbird 28.1 MB/40.3 MB 70%]                       173 kB/s 1min 11s
+66% [4 thunderbird 28.1 MB/40.3 MB 70%]                       173 kB/s 1min 11s
+66% [4 thunderbird 28.1 MB/40.3 MB 70%]                       173 kB/s 1min 10s
+66% [4 thunderbird 28.2 MB/40.3 MB 70%]                       173 kB/s 1min 10s
+66% [4 thunderbird 28.2 MB/40.3 MB 70%]                       173 kB/s 1min 10s
+66% [4 thunderbird 28.3 MB/40.3 MB 70%]                        173 kB/s 1min 9s
+67% [4 thunderbird 28.3 MB/40.3 MB 70%]                       113 kB/s 1min 47s
+67% [4 thunderbird 28.3 MB/40.3 MB 70%]                       113 kB/s 1min 46s
+67% [4 thunderbird 28.4 MB/40.3 MB 70%]                       113 kB/s 1min 46s
+67% [4 thunderbird 28.5 MB/40.3 MB 71%]                       113 kB/s 1min 45s
+67% [4 thunderbird 28.6 MB/40.3 MB 71%]                       113 kB/s 1min 44s
+67% [4 thunderbird 28.7 MB/40.3 MB 71%]                       113 kB/s 1min 43s
+67% [4 thunderbird 28.8 MB/40.3 MB 71%]                       113 kB/s 1min 43s
+68% [4 thunderbird 28.8 MB/40.3 MB 71%]                       113 kB/s 1min 42s
+68% [4 thunderbird 28.8 MB/40.3 MB 71%]                       113 kB/s 1min 42s
+68% [4 thunderbird 28.9 MB/40.3 MB 72%]                       113 kB/s 1min 41s
+68% [4 thunderbird 28.9 MB/40.3 MB 72%]                       113 kB/s 1min 41s
+68% [4 thunderbird 29.0 MB/40.3 MB 72%]                       113 kB/s 1min 40s
+68% [4 thunderbird 29.1 MB/40.3 MB 72%]                       133 kB/s 1min 24s
+68% [4 thunderbird 29.1 MB/40.3 MB 72%]                       133 kB/s 1min 24s
+68% [4 thunderbird 29.2 MB/40.3 MB 72%]                       133 kB/s 1min 23s
+68% [4 thunderbird 29.2 MB/40.3 MB 72%]                       133 kB/s 1min 23s
+68% [4 thunderbird 29.3 MB/40.3 MB 73%]                       133 kB/s 1min 23s
+68% [4 thunderbird 29.3 MB/40.3 MB 73%]                       133 kB/s 1min 23s
+69% [4 thunderbird 29.4 MB/40.3 MB 73%]                       133 kB/s 1min 22s
+69% [4 thunderbird 29.4 MB/40.3 MB 73%]                       133 kB/s 1min 22s
+69% [4 thunderbird 29.5 MB/40.3 MB 73%]                       133 kB/s 1min 21s
+69% [4 thunderbird 29.5 MB/40.3 MB 73%]                       133 kB/s 1min 21s
+69% [4 thunderbird 29.6 MB/40.3 MB 73%]                       133 kB/s 1min 20s
+69% [4 thunderbird 29.7 MB/40.3 MB 74%]                       133 kB/s 1min 19s
+69% [4 thunderbird 29.8 MB/40.3 MB 74%]                       116 kB/s 1min 31s
+70% [4 thunderbird 29.9 MB/40.3 MB 74%]                       116 kB/s 1min 30s
+70% [4 thunderbird 29.9 MB/40.3 MB 74%]                       116 kB/s 1min 29s
+70% [4 thunderbird 30.0 MB/40.3 MB 74%]                       116 kB/s 1min 29s
+70% [4 thunderbird 30.0 MB/40.3 MB 74%]                       116 kB/s 1min 29s
+70% [4 thunderbird 30.1 MB/40.3 MB 75%]                       116 kB/s 1min 28s
+70% [4 thunderbird 30.2 MB/40.3 MB 75%]                       116 kB/s 1min 27s
+70% [4 thunderbird 30.2 MB/40.3 MB 75%]                       116 kB/s 1min 27s
+70% [4 thunderbird 30.3 MB/40.3 MB 75%]                       116 kB/s 1min 26s
+70% [4 thunderbird 30.3 MB/40.3 MB 75%]                       116 kB/s 1min 26s
+71% [4 thunderbird 30.4 MB/40.3 MB 75%]                       116 kB/s 1min 26s
+71% [4 thunderbird 30.4 MB/40.3 MB 75%]                       116 kB/s 1min 25s
+71% [4 thunderbird 30.4 MB/40.3 MB 75%]                       105 kB/s 1min 34s
+71% [4 thunderbird 30.4 MB/40.3 MB 75%]                       105 kB/s 1min 34s
+71% [4 thunderbird 30.5 MB/40.3 MB 76%]                       105 kB/s 1min 33s
+71% [4 thunderbird 30.5 MB/40.3 MB 76%]                       105 kB/s 1min 33s
+71% [4 thunderbird 30.6 MB/40.3 MB 76%]                       105 kB/s 1min 32s
+71% [4 thunderbird 30.7 MB/40.3 MB 76%]                       105 kB/s 1min 31s
+71% [4 thunderbird 30.7 MB/40.3 MB 76%]                       105 kB/s 1min 31s
+71% [4 thunderbird 30.8 MB/40.3 MB 76%]                       105 kB/s 1min 31s
+71% [4 thunderbird 30.8 MB/40.3 MB 76%]                       105 kB/s 1min 30s
+71% [4 thunderbird 30.8 MB/40.3 MB 76%]                       105 kB/s 1min 30s
+71% [4 thunderbird 30.8 MB/40.3 MB 76%]                       105 kB/s 1min 30s
+72% [4 thunderbird 30.9 MB/40.3 MB 77%]                       105 kB/s 1min 30s
+72% [4 thunderbird 30.9 MB/40.3 MB 77%]                      79.8 kB/s 1min 58s
+72% [4 thunderbird 30.9 MB/40.3 MB 77%]                      79.8 kB/s 1min 58s
+72% [4 thunderbird 31.0 MB/40.3 MB 77%]                      79.8 kB/s 1min 57s
+72% [4 thunderbird 31.0 MB/40.3 MB 77%]                      79.8 kB/s 1min 57s
+72% [4 thunderbird 31.1 MB/40.3 MB 77%]                      79.8 kB/s 1min 56s
+72% [4 thunderbird 31.1 MB/40.3 MB 77%]                      79.8 kB/s 1min 55s
+72% [4 thunderbird 31.2 MB/40.3 MB 77%]                      79.8 kB/s 1min 55s
+72% [4 thunderbird 31.2 MB/40.3 MB 77%]                      79.8 kB/s 1min 54s
+72% [4 thunderbird 31.2 MB/40.3 MB 77%]                      79.8 kB/s 1min 54s
+72% [4 thunderbird 31.3 MB/40.3 MB 78%]                      79.8 kB/s 1min 53s
+72% [4 thunderbird 31.3 MB/40.3 MB 78%]                      79.8 kB/s 1min 53s
+72% [4 thunderbird 31.3 MB/40.3 MB 78%]                      79.8 kB/s 1min 53s
+72% [4 thunderbird 31.4 MB/40.3 MB 78%]                      77.6 kB/s 1min 55s
+73% [4 thunderbird 31.4 MB/40.3 MB 78%]                      77.6 kB/s 1min 55s
+73% [4 thunderbird 31.5 MB/40.3 MB 78%]                      77.6 kB/s 1min 54s
+73% [4 thunderbird 31.5 MB/40.3 MB 78%]                      77.6 kB/s 1min 53s
+73% [4 thunderbird 31.6 MB/40.3 MB 78%]                      77.6 kB/s 1min 52s
+73% [4 thunderbird 31.6 MB/40.3 MB 78%]                      77.6 kB/s 1min 52s
+73% [4 thunderbird 31.7 MB/40.3 MB 79%]                      77.6 kB/s 1min 51s
+73% [4 thunderbird 31.7 MB/40.3 MB 79%]                      77.6 kB/s 1min 51s
+73% [4 thunderbird 31.8 MB/40.3 MB 79%]                      77.6 kB/s 1min 50s
+73% [4 thunderbird 31.8 MB/40.3 MB 79%]                      77.6 kB/s 1min 50s
+73% [4 thunderbird 31.9 MB/40.3 MB 79%]                      77.6 kB/s 1min 49s
+74% [4 thunderbird 31.9 MB/40.3 MB 79%]                      77.6 kB/s 1min 49s
+74% [4 thunderbird 31.9 MB/40.3 MB 79%]                      95.2 kB/s 1min 28s
+74% [4 thunderbird 32.0 MB/40.3 MB 79%]                      95.2 kB/s 1min 27s
+74% [4 thunderbird 32.1 MB/40.3 MB 79%]                      95.2 kB/s 1min 27s
+74% [4 thunderbird 32.1 MB/40.3 MB 80%]                      95.2 kB/s 1min 26s
+74% [4 thunderbird 32.2 MB/40.3 MB 80%]                      95.2 kB/s 1min 26s
+74% [4 thunderbird 32.2 MB/40.3 MB 80%]                      95.2 kB/s 1min 25s
+74% [4 thunderbird 32.3 MB/40.3 MB 80%]                      95.2 kB/s 1min 25s
+74% [4 thunderbird 32.3 MB/40.3 MB 80%]                      95.2 kB/s 1min 24s
+74% [4 thunderbird 32.4 MB/40.3 MB 80%]                      95.2 kB/s 1min 24s
+75% [4 thunderbird 32.4 MB/40.3 MB 80%]                      95.2 kB/s 1min 23s
+75% [4 thunderbird 32.5 MB/40.3 MB 80%]                      95.2 kB/s 1min 22s
+75% [4 thunderbird 32.5 MB/40.3 MB 81%]                      95.2 kB/s 1min 22s
+75% [4 thunderbird 32.6 MB/40.3 MB 81%]                       104 kB/s 1min 14s
+75% [4 thunderbird 32.6 MB/40.3 MB 81%]                       104 kB/s 1min 14s
+75% [4 thunderbird 32.6 MB/40.3 MB 81%]                       104 kB/s 1min 14s
+75% [4 thunderbird 32.7 MB/40.3 MB 81%]                       104 kB/s 1min 13s
+75% [4 thunderbird 32.8 MB/40.3 MB 81%]                       104 kB/s 1min 12s
+75% [4 thunderbird 32.8 MB/40.3 MB 81%]                       104 kB/s 1min 12s
+75% [4 thunderbird 32.8 MB/40.3 MB 81%]                       104 kB/s 1min 12s
+75% [4 thunderbird 32.9 MB/40.3 MB 81%]                       104 kB/s 1min 11s
+75% [4 thunderbird 32.9 MB/40.3 MB 82%]                       104 kB/s 1min 11s
+76% [4 thunderbird 33.0 MB/40.3 MB 82%]                       104 kB/s 1min 10s
+76% [4 thunderbird 33.0 MB/40.3 MB 82%]                       104 kB/s 1min 10s
+76% [4 thunderbird 33.1 MB/40.3 MB 82%]                        104 kB/s 1min 9s
+76% [4 thunderbird 33.1 MB/40.3 MB 82%]                      96.7 kB/s 1min 14s
+76% [4 thunderbird 33.2 MB/40.3 MB 82%]                      96.7 kB/s 1min 14s
+76% [4 thunderbird 33.2 MB/40.3 MB 82%]                      96.7 kB/s 1min 13s
+76% [4 thunderbird 33.3 MB/40.3 MB 82%]                      96.7 kB/s 1min 13s
+76% [4 thunderbird 33.3 MB/40.3 MB 83%]                      96.7 kB/s 1min 12s
+76% [4 thunderbird 33.4 MB/40.3 MB 83%]                      96.7 kB/s 1min 12s
+76% [4 thunderbird 33.4 MB/40.3 MB 83%]                      96.7 kB/s 1min 12s
+76% [4 thunderbird 33.4 MB/40.3 MB 83%]                      96.7 kB/s 1min 11s
+77% [4 thunderbird 33.5 MB/40.3 MB 83%]                      96.7 kB/s 1min 11s
+77% [4 thunderbird 33.5 MB/40.3 MB 83%]                      96.7 kB/s 1min 10s
+77% [4 thunderbird 33.6 MB/40.3 MB 83%]                      96.7 kB/s 1min 10s
+77% [4 thunderbird 33.7 MB/40.3 MB 83%]                       96.7 kB/s 1min 9s
+77% [4 thunderbird 33.7 MB/40.3 MB 84%]                       98.8 kB/s 1min 7s
+77% [4 thunderbird 33.8 MB/40.3 MB 84%]                       98.8 kB/s 1min 6s
+77% [4 thunderbird 33.9 MB/40.3 MB 84%]                       98.8 kB/s 1min 5s
+78% [4 thunderbird 34.0 MB/40.3 MB 84%]                       98.8 kB/s 1min 4s
+78% [4 thunderbird 34.1 MB/40.3 MB 85%]                       98.8 kB/s 1min 3s
+78% [4 thunderbird 34.2 MB/40.3 MB 85%]                       98.8 kB/s 1min 2s
+78% [4 thunderbird 34.3 MB/40.3 MB 85%]                       98.8 kB/s 1min 1s
+78% [4 thunderbird 34.3 MB/40.3 MB 85%]                       98.8 kB/s 1min 1s
+78% [4 thunderbird 34.4 MB/40.3 MB 85%]                           98.8 kB/s 60s
+79% [4 thunderbird 34.5 MB/40.3 MB 86%]                           98.8 kB/s 59s
+79% [4 thunderbird 34.6 MB/40.3 MB 86%]                           98.8 kB/s 58s
+79% [4 thunderbird 34.7 MB/40.3 MB 86%]                           98.8 kB/s 57s
+79% [4 thunderbird 34.8 MB/40.3 MB 86%]                            175 kB/s 31s
+79% [4 thunderbird 34.9 MB/40.3 MB 86%]                            175 kB/s 31s
+79% [4 thunderbird 34.9 MB/40.3 MB 86%]                            175 kB/s 31s
+79% [4 thunderbird 34.9 MB/40.3 MB 87%]                            175 kB/s 31s
+79% [4 thunderbird 35.0 MB/40.3 MB 87%]                            175 kB/s 30s
+80% [4 thunderbird 35.0 MB/40.3 MB 87%]                            175 kB/s 30s
+80% [4 thunderbird 35.0 MB/40.3 MB 87%]                            175 kB/s 30s
+80% [4 thunderbird 35.1 MB/40.3 MB 87%]                            175 kB/s 30s
+80% [4 thunderbird 35.1 MB/40.3 MB 87%]                            175 kB/s 29s
+80% [4 thunderbird 35.2 MB/40.3 MB 87%]                            175 kB/s 29s
+80% [4 thunderbird 35.2 MB/40.3 MB 87%]                            175 kB/s 29s
+80% [4 thunderbird 35.3 MB/40.3 MB 87%]                            175 kB/s 29s
+80% [4 thunderbird 35.3 MB/40.3 MB 88%]                           87.0 kB/s 58s
+80% [4 thunderbird 35.4 MB/40.3 MB 88%]                           87.0 kB/s 57s
+80% [4 thunderbird 35.4 MB/40.3 MB 88%]                           87.0 kB/s 56s
+81% [4 thunderbird 35.5 MB/40.3 MB 88%]                           87.0 kB/s 55s
+81% [4 thunderbird 35.6 MB/40.3 MB 88%]                           87.0 kB/s 54s
+81% [4 thunderbird 35.7 MB/40.3 MB 89%]                           87.0 kB/s 53s
+81% [4 thunderbird 35.8 MB/40.3 MB 89%]                           87.0 kB/s 52s
+81% [4 thunderbird 35.8 MB/40.3 MB 89%]                           87.0 kB/s 52s
+81% [4 thunderbird 35.9 MB/40.3 MB 89%]                           87.0 kB/s 51s
+81% [4 thunderbird 35.9 MB/40.3 MB 89%]                           87.0 kB/s 51s
+82% [4 thunderbird 36.0 MB/40.3 MB 89%]                           87.0 kB/s 50s
+82% [4 thunderbird 36.1 MB/40.3 MB 89%]                           87.0 kB/s 49s
+82% [4 thunderbird 36.2 MB/40.3 MB 90%]                            142 kB/s 29s
+82% [4 thunderbird 36.2 MB/40.3 MB 90%]                            142 kB/s 29s
+82% [4 thunderbird 36.3 MB/40.3 MB 90%]                            142 kB/s 28s
+82% [4 thunderbird 36.3 MB/40.3 MB 90%]                            142 kB/s 28s
+82% [4 thunderbird 36.4 MB/40.3 MB 90%]                            142 kB/s 27s
+82% [4 thunderbird 36.4 MB/40.3 MB 90%]                            142 kB/s 27s
+82% [4 thunderbird 36.5 MB/40.3 MB 90%]                            142 kB/s 27s
+83% [4 thunderbird 36.5 MB/40.3 MB 91%]                            142 kB/s 27s
+83% [4 thunderbird 36.6 MB/40.3 MB 91%]                            142 kB/s 26s
+83% [4 thunderbird 36.6 MB/40.3 MB 91%]                            142 kB/s 26s
+83% [4 thunderbird 36.7 MB/40.3 MB 91%]                            142 kB/s 26s
+83% [4 thunderbird 36.7 MB/40.3 MB 91%]                            142 kB/s 25s
+83% [4 thunderbird 36.8 MB/40.3 MB 91%]                           98.6 kB/s 36s
+83% [4 thunderbird 36.8 MB/40.3 MB 91%]                           98.6 kB/s 36s
+83% [4 thunderbird 36.8 MB/40.3 MB 91%]                           98.6 kB/s 35s
+83% [4 thunderbird 36.9 MB/40.3 MB 91%]                           98.6 kB/s 35s
+83% [4 thunderbird 37.0 MB/40.3 MB 92%]                           98.6 kB/s 34s
+83% [4 thunderbird 37.0 MB/40.3 MB 92%]                           98.6 kB/s 34s
+84% [4 thunderbird 37.0 MB/40.3 MB 92%]                           98.6 kB/s 33s
+84% [4 thunderbird 37.1 MB/40.3 MB 92%]                           98.6 kB/s 33s
+84% [4 thunderbird 37.1 MB/40.3 MB 92%]                           98.6 kB/s 32s
+84% [4 thunderbird 37.3 MB/40.3 MB 92%]                           98.6 kB/s 31s
+84% [4 thunderbird 37.4 MB/40.3 MB 93%]                           98.6 kB/s 30s
+84% [4 thunderbird 37.4 MB/40.3 MB 93%]                           98.6 kB/s 29s
+84% [4 thunderbird 37.5 MB/40.3 MB 93%]                            124 kB/s 23s
+85% [4 thunderbird 37.6 MB/40.3 MB 93%]                            124 kB/s 22s
+85% [4 thunderbird 37.7 MB/40.3 MB 93%]                            124 kB/s 21s
+85% [4 thunderbird 37.7 MB/40.3 MB 94%]                            124 kB/s 21s
+85% [4 thunderbird 37.9 MB/40.3 MB 94%]                            124 kB/s 20s
+85% [4 thunderbird 38.0 MB/40.3 MB 94%]                            124 kB/s 19s
+85% [4 thunderbird 38.0 MB/40.3 MB 94%]                            124 kB/s 18s
+86% [4 thunderbird 38.1 MB/40.3 MB 94%]                            124 kB/s 18s
+86% [4 thunderbird 38.1 MB/40.3 MB 94%]                            124 kB/s 18s
+86% [4 thunderbird 38.1 MB/40.3 MB 95%]                            124 kB/s 17s
+86% [4 thunderbird 38.2 MB/40.3 MB 95%]                            124 kB/s 17s
+86% [4 thunderbird 38.3 MB/40.3 MB 95%]                            124 kB/s 16s
+86% [4 thunderbird 38.3 MB/40.3 MB 95%]                            135 kB/s 15s
+86% [4 thunderbird 38.4 MB/40.3 MB 95%]                            135 kB/s 14s
+86% [4 thunderbird 38.4 MB/40.3 MB 95%]                            135 kB/s 14s
+86% [4 thunderbird 38.4 MB/40.3 MB 95%]                            135 kB/s 14s
+86% [4 thunderbird 38.5 MB/40.3 MB 95%]                            135 kB/s 13s
+86% [4 thunderbird 38.5 MB/40.3 MB 95%]                            135 kB/s 13s
+87% [4 thunderbird 38.6 MB/40.3 MB 96%]                            135 kB/s 13s
+87% [4 thunderbird 38.6 MB/40.3 MB 96%]                            135 kB/s 12s
+87% [4 thunderbird 38.7 MB/40.3 MB 96%]                            135 kB/s 12s
+87% [4 thunderbird 38.8 MB/40.3 MB 96%]                            135 kB/s 11s
+87% [4 thunderbird 38.9 MB/40.3 MB 96%]                            135 kB/s 10s
+87% [4 thunderbird 39.0 MB/40.3 MB 97%]                            135 kB/s 10s
+87% [4 thunderbird 39.1 MB/40.3 MB 97%]                            125 kB/s 10s
+88% [4 thunderbird 39.1 MB/40.3 MB 97%]                            125 kB/s 10s
+88% [4 thunderbird 39.1 MB/40.3 MB 97%]                             125 kB/s 9s
+88% [4 thunderbird 39.2 MB/40.3 MB 97%]                             125 kB/s 9s
+88% [4 thunderbird 39.2 MB/40.3 MB 97%]                             125 kB/s 9s
+88% [4 thunderbird 39.2 MB/40.3 MB 97%]                             125 kB/s 9s
+88% [4 thunderbird 39.3 MB/40.3 MB 97%]                             125 kB/s 8s
+88% [4 thunderbird 39.3 MB/40.3 MB 97%]                             125 kB/s 8s
+88% [4 thunderbird 39.4 MB/40.3 MB 98%]                             125 kB/s 7s
+88% [4 thunderbird 39.5 MB/40.3 MB 98%]                             125 kB/s 7s
+88% [4 thunderbird 39.5 MB/40.3 MB 98%]                             125 kB/s 6s
+89% [4 thunderbird 39.6 MB/40.3 MB 98%]                             125 kB/s 6s
+89% [4 thunderbird 39.7 MB/40.3 MB 98%]                             105 kB/s 6s
+89% [4 thunderbird 39.7 MB/40.3 MB 98%]                             105 kB/s 6s
+89% [4 thunderbird 39.7 MB/40.3 MB 99%]                             105 kB/s 5s
+89% [4 thunderbird 39.8 MB/40.3 MB 99%]                             105 kB/s 5s
+89% [4 thunderbird 39.8 MB/40.3 MB 99%]                             105 kB/s 5s
+89% [4 thunderbird 39.8 MB/40.3 MB 99%]                             105 kB/s 4s
+89% [4 thunderbird 39.9 MB/40.3 MB 99%]                             105 kB/s 4s
+89% [4 thunderbird 39.9 MB/40.3 MB 99%]                             105 kB/s 4s
+89% [4 thunderbird 40.0 MB/40.3 MB 99%]                             105 kB/s 3s
+89% [4 thunderbird 40.0 MB/40.3 MB 99%]                             105 kB/s 3s
+89% [4 thunderbird 40.0 MB/40.3 MB 99%]                             105 kB/s 3s
+89% [4 thunderbird 40.0 MB/40.3 MB 99%]                             105 kB/s 3s
+89% [4 thunderbird 40.0 MB/40.3 MB 99%]                            56.9 kB/s 5s
+89% [4 thunderbird 40.1 MB/40.3 MB 99%]                            56.9 kB/s 5s
+89% [4 thunderbird 40.1 MB/40.3 MB 99%]                            56.9 kB/s 4s
+90% [4 thunderbird 40.1 MB/40.3 MB 99%]                            56.9 kB/s 3s
+90% [4 thunderbird 40.2 MB/40.3 MB 100%]                           56.9 kB/s 3s
+90% [4 thunderbird 40.2 MB/40.3 MB 100%]                           56.9 kB/s 2s
+90% [4 thunderbird 40.3 MB/40.3 MB 100%]                           56.9 kB/s 1s
+90% [4 thunderbird 40.3 MB/40.3 MB 100%]                           56.9 kB/s 0s
+93% [Working]                                                      56.9 kB/s 0s
+                                                                               
+Get:5 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 thunderbird-gnome-support amd64 1:60.9.1+build1-0ubuntu0.16.04.1 [8,540 B]
+
+93% [5 thunderbird-gnome-support 2,737 B/8,540 B 32%]              56.9 kB/s 0s
+97% [Working]                                                      56.9 kB/s 0s
+                                                                               
+Get:6 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 thunderbird-locale-en-us all 1:60.9.1+build1-0ubuntu0.16.04.1 [9,324 B]
+
+97% [6 thunderbird-locale-en-us 1,173 B/9,324 B 13%]               56.9 kB/s 0s
+100% [Working]                                                     56.9 kB/s 0s
+                                                                               
+Fetched 41.1 MB in 4min 41s (146 kB/s)
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 213700 files and directories currently installed.)
+Preparing to unpack .../libprocps4_2%3a3.3.10-4ubuntu2.5_amd64.deb ...
+Unpacking libprocps4:amd64 (2:3.3.10-4ubuntu2.5) over (2:3.3.10-4ubuntu2.4) ...
+Preparing to unpack .../procps_2%3a3.3.10-4ubuntu2.5_amd64.deb ...
+Unpacking procps (2:3.3.10-4ubuntu2.5) over (2:3.3.10-4ubuntu2.4) ...
+Preparing to unpack .../thunderbird-locale-en_1%3a60.9.1+build1-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking thunderbird-locale-en (1:60.9.1+build1-0ubuntu0.16.04.1) over (1:60.9.0+build1-0ubuntu0.16.04.2) ...
+Preparing to unpack .../thunderbird_1%3a60.9.1+build1-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking thunderbird (1:60.9.1+build1-0ubuntu0.16.04.1) over (1:60.9.0+build1-0ubuntu0.16.04.2) ...
+Preparing to unpack .../thunderbird-gnome-support_1%3a60.9.1+build1-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking thunderbird-gnome-support (1:60.9.1+build1-0ubuntu0.16.04.1) over (1:60.9.0+build1-0ubuntu0.16.04.2) ...
+Preparing to unpack .../thunderbird-locale-en-us_1%3a60.9.1+build1-0ubuntu0.16.04.1_all.deb ...
+Unpacking thunderbird-locale-en-us (1:60.9.1+build1-0ubuntu0.16.04.1) over (1:60.9.0+build1-0ubuntu0.16.04.2) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Processing triggers for ureadahead (0.100.0-19.1) ...
+Processing triggers for systemd (229-4ubuntu21.27) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for gnome-menus (3.13.3-6ubuntu3.1) ...
+Processing triggers for desktop-file-utils (0.22-1ubuntu5.2) ...
+Processing triggers for bamfdaemon (0.5.3~bzr0+16.04.20180209-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Setting up libprocps4:amd64 (2:3.3.10-4ubuntu2.5) ...
+Setting up procps (2:3.3.10-4ubuntu2.5) ...
+update-rc.d: warning: start and stop actions are no longer supported; falling back to defaults
+Setting up thunderbird (1:60.9.1+build1-0ubuntu0.16.04.1) ...
+Setting up thunderbird-locale-en (1:60.9.1+build1-0ubuntu0.16.04.1) ...
+Setting up thunderbird-gnome-support (1:60.9.1+build1-0ubuntu0.16.04.1) ...
+Setting up thunderbird-locale-en-us (1:60.9.1+build1-0ubuntu0.16.04.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+\n Installing Apache2
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+Package apache2-mpm-prefork is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'apache2-mpm-prefork' has no installation candidate
+\n Installing PHP & Requirements
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+Package libapache2-mod-php5 is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+Package php5-dev is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+Package php5-common is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+Package php5-mcrypt is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+Package php5-gd is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+Package php5-imagick is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'libapache2-mod-php5' has no installation candidate
+E: Package 'php5-common' has no installation candidate
+E: Unable to locate package php5-curl
+E: Package 'php5-dev' has no installation candidate
+E: Package 'php5-gd' has no installation candidate
+E: Unable to locate package php5-idn
+E: Package 'php5-imagick' has no installation candidate
+E: Package 'php5-mcrypt' has no installation candidate
+\n Installing MySQL
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+E: Unable to locate package mysq-server
+E: Unable to locate package libmysqlclient15.dev
+E: Couldn't find any package by glob 'libmysqlclient15.dev'
+E: Couldn't find any package by regex 'libmysqlclient15.dev'
+\n Restarting apache 
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ ervice apache2 status[1@s
+[?1h=
+[0;1;32m●[0m apache2.service - LSB: Apache2 web server[m
+   Loaded: loaded (/etc/init.d/apache2; bad; vendor preset: enabled)[m
+  Drop-In: /lib/systemd/system/apache2.service.d[m
+           └─apache2-systemd.conf[m
+   Active: [0;1;32mactive (running)[0m since Tue 2020-03-31 21:47:43 IST; 19s ago[m
+     Docs: man:systemd-sysv-generator(8)[m
+  Process: 13551 ExecStop=/etc/init.d/apache2 stop (code=exited, status=0/SUCCES[m
+  Process: 13573 ExecStart=/etc/init.d/apache2 start (code=exited, status=0/SUCC[m
+   CGroup: /system.slice/apache2.service[m
+           ├─13591 /usr/sbin/apache2 -k start[m
+           ├─13594 /usr/sbin/apache2 -k start[m
+           └─13595 /usr/sbin/apache2 -k start[m
+[m
+Mar 31 21:47:42 darkknight systemd[1]: Starting LSB: Apache2 web server...[m
+Mar 31 21:47:42 darkknight apache2[13573]:  * Starting Apache httpd web server a[m
+Mar 31 21:47:42 darkknight apache2[13573]: AH00558: apache2: Could not reliably [m
+Mar 31 21:47:43 darkknight apache2[13573]:  *[m
+Mar 31 21:47:43 darkknight systemd[1]: Started LSB: Apache2 web server.[m
+[7mlines 1-18/18 (END)[27m[K
+[K...skipping...
+[0;1;32m●[0m apache2.service - LSB: Apache2 web server[m
+   Loaded: loaded (/etc/init.d/apache2; bad; vendor preset: enabled)[m
+  Drop-In: /lib/systemd/system/apache2.service.d[m
+           └─apache2-systemd.conf[m
+   Active: [0;1;32mactive (running)[0m since Tue 2020-03-31 21:47:43 IST; 19s ago[m
+     Docs: man:systemd-sysv-generator(8)[m
+  Process: 13551 ExecStop=/etc/init.d/apache2 stop (code=exited, status=0/SUCCES[m
+  Process: 13573 ExecStart=/etc/init.d/apache2 start (code=exited, status=0/SUCC[m
+   CGroup: /system.slice/apache2.service[m
+           ├─13591 /usr/sbin/apache2 -k start[m
+           ├─13594 /usr/sbin/apache2 -k start[m
+           └─13595 /usr/sbin/apache2 -k start[m
+[m
+Mar 31 21:47:42 darkknight systemd[1]: Starting LSB: Apache2 web server...[m
+Mar 31 21:47:42 darkknight apache2[13573]:  * Starting Apache httpd web server a[m
+Mar 31 21:47:42 darkknight apache2[13573]: AH00558: apache2: Could not reliably [m
+Mar 31 21:47:43 darkknight apache2[13573]:  *[m
+Mar 31 21:47:43 darkknight systemd[1]: Started LSB: Apache2 web server.[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-18/18 (END)[27m[K
+[K[?1l>
+[1]+  Stopped                 service apache2 status
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ mysqladmin -u root -p status
+Enter password: 
+Uptime: 900  Threads: 1  Questions: 8  Slow queries: 0  Opens: 109  Flush tables: 1  Open tables: 28  Queries per second avg: 0.008
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ if config
+> ^C
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ if config[Kif config[1Pconfig
+enp2s0    Link encap:Ethernet  HWaddr b8:ae:ed:b2:d6:02  
+          inet addr:192.168.0.103  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::eb93:47cb:2f00:474c/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:67700 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:47907 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:89604136 (89.6 MB)  TX bytes:4884173 (4.8 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:1928 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1928 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:185847 (185.8 KB)  TX bytes:185847 (185.8 KB)
+
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ ip addr show
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp2s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP group default qlen 1000
+    link/ether b8:ae:ed:b2:d6:02 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.0.103/24 brd 192.168.0.255 scope global dynamic enp2s0
+       valid_lft 84133sec preferred_lft 84133sec
+    inet6 fe80::eb93:47cb:2f00:474c/64 scope link 
+       valid_lft forever preferred_lft forever
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo vim /var/www/html/info.php
+sudo: vim: command not found
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo vim /var/www/html/info.php[1P /var/www/html/info.php[1P /var/www/html/info.php[1P /var/www/html/info.phpn /var/www/html/info.phpa /var/www/html/info.phpn /var/www/html/info.phpo /var/www/html/info.php
+[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3          File: /var/www/html/info.php                          [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[1;71H(B[0;7mModified
+[3d(B[0;1m[32m<?php
+[4d(B[0m[37mphpinfo([39m(B[m);
+[5d(B[0;1m[32m?>[39m(B[m[24;1H[?1049l
+[?1l>Use "fg" to return to nano.
+
+[2]+  Stopped                 sudo nano /var/www/html/info.php
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo nano /var/www/html/info.php[1P /var/www/html/info.php[1P /var/www/html/info.php[1P /var/www/html/info.php[1P /var/www/html/info.phpg /var/www/html/info.phpe /var/www/html/info.phpd /var/www/html/info.phpi /var/www/html/info.phpt /var/www/html/info.php
+
+(gedit:13874): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (gedit:13874): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:13874): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:13874): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$  service apache2 restart
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo gedit /var/www/html/info.php
+
+** (gedit:14308): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo gedit /var/www/html/info.php
+
+(gedit:14386): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (gedit:14386): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:14386): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:14386): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:14386): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:14386): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:14386): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:14386): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo gedit /var/www/html/info.php
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pnano[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pip addr show[4Pfconfig configmysqladmin -u root -p status
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pservice apache2[C[C[C[C[C[C[C
+[?1h=
+[0;1;32m●[0m apache2.service - LSB: Apache2 web server[m
+   Loaded: loaded (/etc/init.d/apache2; bad; vendor preset: enabled)[m
+  Drop-In: /lib/systemd/system/apache2.service.d[m
+           └─apache2-systemd.conf[m
+   Active: [0;1;32mactive (running)[0m since Tue 2020-03-31 21:58:57 IST; 10min ago[m
+     Docs: man:systemd-sysv-generator(8)[m
+  Process: 13935 ExecStop=/etc/init.d/apache2 stop (code=exited, status=0/SUCCES[m
+  Process: 13958 ExecStart=/etc/init.d/apache2 start (code=exited, status=0/SUCC[m
+   CGroup: /system.slice/apache2.service[m
+           ├─13976 /usr/sbin/apache2 -k start[m
+           ├─13979 /usr/sbin/apache2 -k start[m
+           └─13980 /usr/sbin/apache2 -k start[m
+[m
+Mar 31 21:58:55 darkknight systemd[1]: Starting LSB: Apache2 web server...[m
+Mar 31 21:58:55 darkknight apache2[13958]:  * Starting Apache httpd web server a[m
+Mar 31 21:58:55 darkknight apache2[13958]: AH00558: apache2: Could not reliably [m
+Mar 31 21:58:57 darkknight apache2[13958]:  *[m
+Mar 31 21:58:57 darkknight systemd[1]: Started LSB: Apache2 web server.[m
+[7mlines 1-18/18 (END)[27m[K
+[K[?1l>
+[3]+  Stopped                 service apache2 status
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ exit
+exit
+There are stopped jobs.
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo apt-get install php libapache2-mod-php php-mcrypt php-mys 
+ql
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+The following additional packages will be installed:
+  libapache2-mod-php7.0 libmcrypt4 php-common php7.0 php7.0-cli php7.0-common
+  php7.0-json php7.0-mcrypt php7.0-mysql php7.0-opcache php7.0-readline
+Suggested packages:
+  php-pear libmcrypt-dev mcrypt
+The following NEW packages will be installed:
+  libapache2-mod-php libapache2-mod-php7.0 libmcrypt4 php php-common
+  php-mcrypt php-mysql php7.0 php7.0-cli php7.0-common php7.0-json
+  php7.0-mcrypt php7.0-mysql php7.0-opcache php7.0-readline
+0 upgraded, 15 newly installed, 0 to remove and 0 not upgraded.
+Need to get 3,683 kB of archives.
+After this operation, 14.7 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+
+0% [Working]
+0% [Connecting to in.archive.ubuntu.com (103.97.84.254)]
+0% [Connecting to in.archive.ubuntu.com (103.97.84.254)]
+                                                        
+Get:1 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php-common all 1:35ubuntu6.1 [10.8 kB]
+
+                                                        
+0% [1 php-common 1,183 B/10.8 kB 11%]
+                                     
+2% [Working]
+            
+Get:2 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php7.0-common amd64 7.0.33-0ubuntu0.16.04.12 [844 kB]
+
+2% [2 php7.0-common 4,077 B/844 kB 0%]
+3% [2 php7.0-common 88.1 kB/844 kB 10%]
+                                       
+5% [2 php7.0-common 165 kB/844 kB 20%]
+6% [2 php7.0-common 217 kB/844 kB 26%]
+7% [2 php7.0-common 256 kB/844 kB 30%]
+8% [2 php7.0-common 314 kB/844 kB 37%]
+10% [2 php7.0-common 366 kB/844 kB 43%]
+10% [2 php7.0-common 383 kB/844 kB 45%]
+10% [2 php7.0-common 408 kB/844 kB 48%]
+11% [2 php7.0-common 428 kB/844 kB 51%]
+12% [2 php7.0-common 459 kB/844 kB 54%]                           74.7 kB/s 43s
+12% [2 php7.0-common 496 kB/844 kB 59%]                           74.7 kB/s 42s
+13% [2 php7.0-common 543 kB/844 kB 64%]                           74.7 kB/s 41s
+15% [2 php7.0-common 604 kB/844 kB 71%]                           74.7 kB/s 41s
+16% [2 php7.0-common 672 kB/844 kB 80%]                           74.7 kB/s 40s
+17% [2 php7.0-common 712 kB/844 kB 84%]                           74.7 kB/s 39s
+18% [2 php7.0-common 773 kB/844 kB 92%]                           74.7 kB/s 38s
+19% [2 php7.0-common 825 kB/844 kB 98%]                           74.7 kB/s 38s
+21% [Working]                                                     74.7 kB/s 37s
+                                                                               
+Get:3 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php7.0-json amd64 7.0.33-0ubuntu0.16.04.12 [16.9 kB]
+
+21% [3 php7.0-json 0 B/16.9 kB 0%]                                74.7 kB/s 37s
+23% [Working]                                                     74.7 kB/s 37s
+                                                                               
+Get:4 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php7.0-opcache amd64 7.0.33-0ubuntu0.16.04.12 [77.1 kB]
+
+23% [4 php7.0-opcache 1,182 B/77.1 kB 2%]                         74.7 kB/s 37s
+24% [4 php7.0-opcache 49.0 kB/77.1 kB 63%]                        74.7 kB/s 36s
+26% [Waiting for headers]                                         74.7 kB/s 36s
+                                                                               
+Get:5 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php7.0-readline amd64 7.0.33-0ubuntu0.16.04.12 [12.8 kB]
+
+26% [5 php7.0-readline 543 B/12.8 kB 4%]                          74.7 kB/s 36s
+28% [Working]                                                     74.7 kB/s 36s
+                                                                               
+Get:6 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php7.0-cli amd64 7.0.33-0ubuntu0.16.04.12 [1,283 kB]
+
+28% [6 php7.0-cli 472 B/1,283 kB 0%]                              74.7 kB/s 36s
+29% [6 php7.0-cli 46.8 kB/1,283 kB 4%]                            74.7 kB/s 35s
+30% [6 php7.0-cli 119 kB/1,283 kB 9%]                             74.7 kB/s 34s
+32% [6 php7.0-cli 187 kB/1,283 kB 15%]                             109 kB/s 23s
+33% [6 php7.0-cli 252 kB/1,283 kB 20%]                             109 kB/s 22s
+34% [6 php7.0-cli 276 kB/1,283 kB 21%]                             109 kB/s 22s
+34% [6 php7.0-cli 305 kB/1,283 kB 24%]                             109 kB/s 22s
+35% [6 php7.0-cli 334 kB/1,283 kB 26%]                             109 kB/s 21s
+35% [6 php7.0-cli 362 kB/1,283 kB 28%]                             109 kB/s 21s
+36% [6 php7.0-cli 397 kB/1,283 kB 31%]                             109 kB/s 21s
+38% [6 php7.0-cli 471 kB/1,283 kB 37%]                             109 kB/s 20s
+40% [6 php7.0-cli 577 kB/1,283 kB 45%]                             109 kB/s 19s
+42% [6 php7.0-cli 656 kB/1,283 kB 51%]                             109 kB/s 18s
+43% [6 php7.0-cli 711 kB/1,283 kB 55%]                             109 kB/s 18s
+44% [6 php7.0-cli 774 kB/1,283 kB 60%]                             109 kB/s 17s
+47% [6 php7.0-cli 872 kB/1,283 kB 68%]                             114 kB/s 16s
+48% [6 php7.0-cli 959 kB/1,283 kB 75%]                             114 kB/s 15s
+50% [6 php7.0-cli 1,021 kB/1,283 kB 80%]                           114 kB/s 14s
+51% [6 php7.0-cli 1,058 kB/1,283 kB 82%]                           114 kB/s 14s
+51% [6 php7.0-cli 1,089 kB/1,283 kB 85%]                           114 kB/s 14s
+52% [6 php7.0-cli 1,140 kB/1,283 kB 89%]                           114 kB/s 13s
+53% [6 php7.0-cli 1,175 kB/1,283 kB 92%]                           114 kB/s 13s
+54% [6 php7.0-cli 1,228 kB/1,283 kB 96%]                           114 kB/s 13s
+55% [6 php7.0-cli 1,281 kB/1,283 kB 100%]                          114 kB/s 12s
+57% [Working]                                                      114 kB/s 12s
+                                                                               
+Get:7 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libapache2-mod-php7.0 amd64 7.0.33-0ubuntu0.16.04.12 [1,225 kB]
+
+57% [7 libapache2-mod-php7.0 0 B/1,225 kB 0%]                      114 kB/s 12s
+57% [7 libapache2-mod-php7.0 28.8 kB/1,225 kB 2%]                  114 kB/s 12s
+58% [7 libapache2-mod-php7.0 56.3 kB/1,225 kB 5%]                  114 kB/s 12s
+59% [7 libapache2-mod-php7.0 111 kB/1,225 kB 9%]                   114 kB/s 11s
+61% [7 libapache2-mod-php7.0 187 kB/1,225 kB 15%]                 98.4 kB/s 12s
+63% [7 libapache2-mod-php7.0 294 kB/1,225 kB 24%]                 98.4 kB/s 11s
+64% [7 libapache2-mod-php7.0 346 kB/1,225 kB 28%]                 98.4 kB/s 11s
+65% [7 libapache2-mod-php7.0 391 kB/1,225 kB 32%]                 98.4 kB/s 10s
+66% [7 libapache2-mod-php7.0 415 kB/1,225 kB 34%]                 98.4 kB/s 10s
+66% [7 libapache2-mod-php7.0 436 kB/1,225 kB 36%]                 98.4 kB/s 10s
+67% [7 libapache2-mod-php7.0 466 kB/1,225 kB 38%]                  98.4 kB/s 9s
+68% [7 libapache2-mod-php7.0 498 kB/1,225 kB 41%]                  98.4 kB/s 9s
+69% [7 libapache2-mod-php7.0 560 kB/1,225 kB 46%]                  98.4 kB/s 8s
+70% [7 libapache2-mod-php7.0 608 kB/1,225 kB 50%]                  98.4 kB/s 8s
+71% [7 libapache2-mod-php7.0 651 kB/1,225 kB 53%]                  98.4 kB/s 7s
+72% [7 libapache2-mod-php7.0 679 kB/1,225 kB 55%]                  98.4 kB/s 7s
+73% [7 libapache2-mod-php7.0 725 kB/1,225 kB 59%]                  89.7 kB/s 7s
+73% [7 libapache2-mod-php7.0 746 kB/1,225 kB 61%]                  89.7 kB/s 7s
+73% [7 libapache2-mod-php7.0 767 kB/1,225 kB 63%]                  89.7 kB/s 7s
+74% [7 libapache2-mod-php7.0 792 kB/1,225 kB 65%]                  89.7 kB/s 7s
+75% [7 libapache2-mod-php7.0 853 kB/1,225 kB 70%]                  89.7 kB/s 6s
+76% [7 libapache2-mod-php7.0 899 kB/1,225 kB 73%]                  89.7 kB/s 6s
+77% [7 libapache2-mod-php7.0 915 kB/1,225 kB 75%]                  89.7 kB/s 5s
+77% [7 libapache2-mod-php7.0 927 kB/1,225 kB 76%]                  89.7 kB/s 5s
+78% [7 libapache2-mod-php7.0 958 kB/1,225 kB 78%]                  89.7 kB/s 5s
+78% [7 libapache2-mod-php7.0 999 kB/1,225 kB 82%]                  89.7 kB/s 4s
+79% [7 libapache2-mod-php7.0 1,034 kB/1,225 kB 84%]                89.7 kB/s 4s
+80% [7 libapache2-mod-php7.0 1,083 kB/1,225 kB 88%]                89.7 kB/s 3s
+81% [7 libapache2-mod-php7.0 1,115 kB/1,225 kB 91%]                64.8 kB/s 4s
+81% [7 libapache2-mod-php7.0 1,132 kB/1,225 kB 92%]                64.8 kB/s 4s
+82% [7 libapache2-mod-php7.0 1,161 kB/1,225 kB 95%]                64.8 kB/s 4s
+83% [7 libapache2-mod-php7.0 1,191 kB/1,225 kB 97%]                64.8 kB/s 3s
+85% [Working]                                                      64.8 kB/s 3s
+                                                                               
+Get:8 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libapache2-mod-php all 1:7.0+35ubuntu6.1 [2,990 B]
+
+85% [8 libapache2-mod-php 2,990 B/2,990 B 100%]                    64.8 kB/s 3s
+86% [Waiting for headers]                                          64.8 kB/s 3s
+                                                                               
+Get:9 http://in.archive.ubuntu.com/ubuntu xenial/universe amd64 libmcrypt4 amd64 2.5.8-3.3 [63.0 kB]
+
+86% [9 libmcrypt4 0 B/63.0 kB 0%]                                  64.8 kB/s 3s
+87% [9 libmcrypt4 55.0 kB/63.0 kB 87%]                             64.8 kB/s 2s
+89% [Working]                                                      64.8 kB/s 2s
+                                                                               
+Get:10 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php7.0 all 7.0.33-0ubuntu0.16.04.12 [1,290 B]
+
+89% [10 php7.0 0 B/1,290 B 0%]                                     64.8 kB/s 2s
+90% [Waiting for headers]                                          64.8 kB/s 2s
+                                                                               
+Get:11 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php all 1:7.0+35ubuntu6.1 [2,862 B]
+
+90% [11 php 1,818 B/2,862 B 64%]                                   64.8 kB/s 2s
+92% [Working]                                                      64.8 kB/s 2s
+                                                                               
+Get:12 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 php7.0-mcrypt amd64 7.0.33-0ubuntu0.16.04.12 [14.5 kB]
+
+92% [12 php7.0-mcrypt 1,587 B/14.5 kB 11%]                         64.8 kB/s 2s
+93% [Waiting for headers]                                          64.8 kB/s 1s
+                                                                               
+Get:13 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 php-mcrypt all 1:7.0+35ubuntu6.1 [1,934 B]
+
+95% [Working]                                                      64.8 kB/s 1s
+                                                                               
+Get:14 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php7.0-mysql amd64 7.0.33-0ubuntu0.16.04.12 [124 kB]
+
+95% [14 php7.0-mysql 2,001 B/124 kB 2%]                            64.8 kB/s 1s
+95% [14 php7.0-mysql 23.9 kB/124 kB 19%]                           64.8 kB/s 1s
+96% [14 php7.0-mysql 52.8 kB/124 kB 42%]                           64.8 kB/s 1s
+96% [14 php7.0-mysql 80.3 kB/124 kB 65%]                           64.8 kB/s 0s
+97% [14 php7.0-mysql 108 kB/124 kB 87%]                            64.8 kB/s 0s
+99% [Working]                                                      64.8 kB/s 0s
+                                                                               
+Get:15 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 php-mysql all 1:7.0+35ubuntu6.1 [1,928 B]
+
+100% [Working]                                                     64.8 kB/s 0s
+                                                                               
+Fetched 3,683 kB in 41s (88.7 kB/s)
+Selecting previously unselected package php-common.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 213700 files and directories currently installed.)
+Preparing to unpack .../php-common_1%3a35ubuntu6.1_all.deb ...
+Unpacking php-common (1:35ubuntu6.1) ...
+Selecting previously unselected package php7.0-common.
+Preparing to unpack .../php7.0-common_7.0.33-0ubuntu0.16.04.12_amd64.deb ...
+Unpacking php7.0-common (7.0.33-0ubuntu0.16.04.12) ...
+Selecting previously unselected package php7.0-json.
+Preparing to unpack .../php7.0-json_7.0.33-0ubuntu0.16.04.12_amd64.deb ...
+Unpacking php7.0-json (7.0.33-0ubuntu0.16.04.12) ...
+Selecting previously unselected package php7.0-opcache.
+Preparing to unpack .../php7.0-opcache_7.0.33-0ubuntu0.16.04.12_amd64.deb ...
+Unpacking php7.0-opcache (7.0.33-0ubuntu0.16.04.12) ...
+Selecting previously unselected package php7.0-readline.
+Preparing to unpack .../php7.0-readline_7.0.33-0ubuntu0.16.04.12_amd64.deb ...
+Unpacking php7.0-readline (7.0.33-0ubuntu0.16.04.12) ...
+Selecting previously unselected package php7.0-cli.
+Preparing to unpack .../php7.0-cli_7.0.33-0ubuntu0.16.04.12_amd64.deb ...
+Unpacking php7.0-cli (7.0.33-0ubuntu0.16.04.12) ...
+Selecting previously unselected package libapache2-mod-php7.0.
+Preparing to unpack .../libapache2-mod-php7.0_7.0.33-0ubuntu0.16.04.12_amd64.deb ...
+Unpacking libapache2-mod-php7.0 (7.0.33-0ubuntu0.16.04.12) ...
+Selecting previously unselected package libapache2-mod-php.
+Preparing to unpack .../libapache2-mod-php_1%3a7.0+35ubuntu6.1_all.deb ...
+Unpacking libapache2-mod-php (1:7.0+35ubuntu6.1) ...
+Selecting previously unselected package libmcrypt4.
+Preparing to unpack .../libmcrypt4_2.5.8-3.3_amd64.deb ...
+Unpacking libmcrypt4 (2.5.8-3.3) ...
+Selecting previously unselected package php7.0.
+Preparing to unpack .../php7.0_7.0.33-0ubuntu0.16.04.12_all.deb ...
+Unpacking php7.0 (7.0.33-0ubuntu0.16.04.12) ...
+Selecting previously unselected package php.
+Preparing to unpack .../php_1%3a7.0+35ubuntu6.1_all.deb ...
+Unpacking php (1:7.0+35ubuntu6.1) ...
+Selecting previously unselected package php7.0-mcrypt.
+Preparing to unpack .../php7.0-mcrypt_7.0.33-0ubuntu0.16.04.12_amd64.deb ...
+Unpacking php7.0-mcrypt (7.0.33-0ubuntu0.16.04.12) ...
+Selecting previously unselected package php-mcrypt.
+Preparing to unpack .../php-mcrypt_1%3a7.0+35ubuntu6.1_all.deb ...
+Unpacking php-mcrypt (1:7.0+35ubuntu6.1) ...
+Selecting previously unselected package php7.0-mysql.
+Preparing to unpack .../php7.0-mysql_7.0.33-0ubuntu0.16.04.12_amd64.deb ...
+Unpacking php7.0-mysql (7.0.33-0ubuntu0.16.04.12) ...
+Selecting previously unselected package php-mysql.
+Preparing to unpack .../php-mysql_1%3a7.0+35ubuntu6.1_all.deb ...
+Unpacking php-mysql (1:7.0+35ubuntu6.1) ...
+Processing triggers for man-db (2.7.5-1) ...
+Setting up php-common (1:35ubuntu6.1) ...
+Setting up php7.0-common (7.0.33-0ubuntu0.16.04.12) ...
+
+Creating config file /etc/php/7.0/mods-available/calendar.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/ctype.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/exif.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/fileinfo.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/ftp.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/gettext.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/iconv.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/pdo.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/phar.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/posix.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/shmop.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/sockets.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/sysvmsg.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/sysvsem.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/sysvshm.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/tokenizer.ini with new version
+Setting up php7.0-json (7.0.33-0ubuntu0.16.04.12) ...
+
+Creating config file /etc/php/7.0/mods-available/json.ini with new version
+Setting up php7.0-opcache (7.0.33-0ubuntu0.16.04.12) ...
+
+Creating config file /etc/php/7.0/mods-available/opcache.ini with new version
+Setting up php7.0-readline (7.0.33-0ubuntu0.16.04.12) ...
+
+Creating config file /etc/php/7.0/mods-available/readline.ini with new version
+Setting up php7.0-cli (7.0.33-0ubuntu0.16.04.12) ...
+update-alternatives: using /usr/bin/php7.0 to provide /usr/bin/php (php) in auto mode
+update-alternatives: using /usr/bin/phar7.0 to provide /usr/bin/phar (phar) in auto mode
+update-alternatives: using /usr/bin/phar.phar7.0 to provide /usr/bin/phar.phar (phar.phar) in auto mode
+
+Creating config file /etc/php/7.0/cli/php.ini with new version
+Setting up libapache2-mod-php7.0 (7.0.33-0ubuntu0.16.04.12) ...
+
+Creating config file /etc/php/7.0/apache2/php.ini with new version
+Module mpm_event disabled.
+Enabling module mpm_prefork.
+apache2_switch_mpm Switch to prefork
+apache2_invoke: Enable module php7.0
+Setting up libapache2-mod-php (1:7.0+35ubuntu6.1) ...
+Setting up libmcrypt4 (2.5.8-3.3) ...
+Setting up php7.0 (7.0.33-0ubuntu0.16.04.12) ...
+Setting up php (1:7.0+35ubuntu6.1) ...
+Setting up php7.0-mcrypt (7.0.33-0ubuntu0.16.04.12) ...
+
+Creating config file /etc/php/7.0/mods-available/mcrypt.ini with new version
+Setting up php-mcrypt (1:7.0+35ubuntu6.1) ...
+Setting up php7.0-mysql (7.0.33-0ubuntu0.16.04.12) ...
+
+Creating config file /etc/php/7.0/mods-available/mysqlnd.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/mysqli.ini with new version
+
+Creating config file /etc/php/7.0/mods-available/pdo_mysql.ini with new version
+Setting up php-mysql (1:7.0+35ubuntu6.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Processing triggers for libapache2-mod-php7.0 (7.0.33-0ubuntu0.16.04.12) ...
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo apt-get install php libapache2-mod-php php-mcrypt php-mysq
+ql[A
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ exit[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cservice apache2 status
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cudo gedit /var/www/html/info.php
+
+(gedit:22106): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (gedit:22106): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:22106): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:22106): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:22106): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:22106): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo gedit /var/www/html/info.php
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo apt-get install php libapache2-mod-php php-mcrypt php-mys 
+ql
+[sudo] password for skj: 
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 1%
+
+Reading state information... Done
+
+libapache2-mod-php is already the newest version (1:7.0+35ubuntu6.1).
+php is already the newest version (1:7.0+35ubuntu6.1).
+php-mysql is already the newest version (1:7.0+35ubuntu6.1).
+php-mcrypt is already the newest version (1:7.0+35ubuntu6.1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ sudo apt-get install php libapache2-mod-php php-mcrypt php-mysq
+ql[A
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ [K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C sudo gedit /var/www/html/info.php
+
+** (gedit:22307): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:22307): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:22307): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ service apache2 restart
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ x[Kexit
+exit
+
+Script done on Tuesday 2 April 2020 10:18:42 PM IST
