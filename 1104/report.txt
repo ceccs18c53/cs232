@@ -1,0 +1,57 @@
+11.04.2020
+CEC CS 18 C53
+
+SAURAV KJ 
+
+
+-----------------------------------------------
+#1: Shell Programming (s4)
+-----------------------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+	
+	syl4.sh
+
+--------------------------------
+Output: 
+        To get
+	1. Currently logged in user and loginname 
+	2. Current shell 
+	3. Home directory 
+	4. Operating system type 
+	5. Current path setting 
+	6. Current working directory 
+	7.Currently logged on users and number of users online
+        
+
+-------------------
+Remarks if any:
+
+
+
+-------------------------------------
+-------------------------------------
+
+--------------------------------
+#2: Shell Programming (s5)
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+		
+	syl5.sh
+
+--------------------------------
+Output: 
+        To get
+	1. OS and version, release number, kernel version 
+	2. All available shells 
+	3. Computer CPU informatio
+	4. Memory information 
+	5. Hard disk information  
+	6. File system (Mounted) 
+
+-------------------
+Remarks if any:
+

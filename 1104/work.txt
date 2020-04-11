@@ -1,0 +1,536 @@
+Script started on Saturday 11 April 2020 11:56:36 AM IST
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ cd 1104
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ cd 1104[3Pexitw[K[Kgedit syl4.sh
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ who
+skj      tty7         2020-04-11 16:12 (:0)
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 16.04.6 LTS
+Release:	16.04
+Codename:	xenial
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ lsb_release -a[K[K
+No LSB modules are available.
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ chlsb_release -awho[Kgedit syl4.sh[6Pcd 1104[3Pexitw[Kgedit syl4.sh[3Psh[C[C[C[C[C[C[C[C[6@chmod +x[C[C[C[C[C[C[C[C
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ chmod +x syl4.sh[4Plsb_release -awho[Kgedit syl4.sh[6Pcd 1104[3Pexitw[Kgedit syl4.sh[3Psh[C[C[C[C[C[C[C[C
+Your username:skj
+Currently logged on users:$ who
+Home directory :  /home/skj
+Operating System Type: -a
+Current path setting : /home/skj/bin:/home/skj/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+current working directory :
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ sh syl4.sh[6@chmod +x[C[C[C[C[C[C[C[C[4Plsb_release -awho[Kgedit syl4.sh
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ gedit syl4.sh[3Psh[C[C[C[C[C[C[C[C[6@chmod +x[C[C[C[C[C[C[C[C
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ chmod +x syl4.sh[3Pgedit[C[C[C[C[C[C[C[C[3Psh[C[C[C[C[C[C[C[C
+ Your Username : skj
+
+Your Login Name : skj
+
+ Your Current Shell : /bin/bash
+
+-Home directory : /home/skj
+
+ Your Operating System type : 
+
+GNU/Linux
+
+ Your current Path setting : /home/skj/bin:/home/skj/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Your current Working Directory : 
+
+/home/skj/1104
+
+ Currently logged on users in:
+skj      tty7         2020-04-11 16:12 (:0)
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ sh syl4.sh[6@chmod +x[C[C[C[C[C[C[C[C[3Pgedit[C[C[C[C[C[C[C[C
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ gedit syl4.sh[3Psh[C[C[C[C[C[C[C[C[6@chmod +x[C[C[C[C[C[C[C[C
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ chmod +x syl4.sh[3Pgedit[C[C[C[C[C[C[C[C[3Psh[C[C[C[C[C[C[C[C[6@chmod +x[C[C[C[C[C[C[C[C[3Pgedit[C[C[C[C[C[C[C[C[3Psh[C[C[C[C[C[C[C[C
+Your Username : skj
+
+Your Login Name : skj
+
+Your Current Shell : /bin/bash
+
+Home directory : /home/skj
+
+Your Operating System type : 
+
+GNU/Linux
+Your current Path setting : /home/skj/bin:/home/skj/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Your current Working Directory : 
+
+/home/skj/1104
+Currently logged on users in:
+
+skj      tty7         2020-04-11 16:12 (:0)
+Number of logged in users:
+
+1
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ gedit syl5.a[Ksh
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ gedit syl5.sh
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ chmod +x syl5.sh
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ sh syk5.sh[C[1P5.shl5.sh
+
+ Operating System name,version number(version codename) :
+
+NAME="Ubuntu"
+VERSION="16.04.6 LTS (Xenial Xerus)"
+
+ OS Kernel version : 
+
+4.17.0-rc2
+
+ All available shells :
+
+# /etc/shells: valid login shells
+/bin/sh
+/bin/dash
+/bin/bash
+/bin/rbash
+
+ C.P.U Information :
+
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 58
+model name	: Intel(R) Pentium(R) CPU G2030 @ 3.00GHz
+stepping	: 9
+microcode	: 0x21
+cpu MHz		: 2427.921
+cache size	: 3072 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 58
+model name	: Intel(R) Pentium(R) CPU G2030 @ 3.00GHz
+stepping	: 9
+microcode	: 0x21
+cpu MHz		: 1915.318
+cache size	: 3072 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+
+ Memory Information :
+
+MemTotal:        3920744 kB
+MemFree:          124004 kB
+MemAvailable:    1631012 kB
+Buffers:          309656 kB
+Cached:          1593632 kB
+SwapCached:     0 kB
+Active:          2316208 kB
+Inactive:        1086820 kB
+Active(anon):    1368008 kB
+Inactive(anon):   503780 kB
+Active(file):     948200 kB
+Inactive(file):   583040 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:       1974268 kB
+SwapFree:        1974268 kB
+Dirty:               720 kB
+Writeback:      0 kB
+AnonPages:       1499748 kB
+Mapped:           472420 kB
+Shmem:            372052 kB
+Slab:             299296 kB
+SReclaimable:     260800 kB
+SUnreclaim:        38496 kB
+KernelStack:        9564 kB
+PageTables:        38796 kB
+NFS_Unstable:   0 kB
+Bounce:         0 kB
+WritebackTmp:   0 kB
+CommitLimit:     3934640 kB
+Committed_AS:    5649408 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:    0 kB
+VmallocChunk:   0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:      2048 kB
+ShmemHugePages: 0 kB
+ShmemPmdMapped: 0 kB
+CmaTotal:       0 kB
+CmaFree:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      171536 kB
+DirectMap2M:     3903488 kB
+
+ Hard disk Information :
+
+WARNING: you should run this program as super-user.
+
+
+DMI
+
+   
+SMP
+
+   
+PA-RISC
+
+       
+device-tree
+
+           
+SPD
+
+   
+memory
+
+      
+/proc/cpuinfo
+
+             
+CPUID
+
+     
+PCI (sysfs)
+
+           
+ISA PnP
+
+       
+PCMCIA
+
+      
+PCMCIA
+
+      
+kernel device tree (sysfs)
+
+                          
+USB
+
+   
+IDE
+
+   
+SCSI
+
+    
+Network interfaces
+
+                  
+Framebuffer devices
+
+                   
+Display
+
+       
+CPUFreq
+
+       
+ABI
+
+   
+
+H/W path       Device      Class          Description
+=====================================================
+/0/2/0.0.0     /dev/cdrom  disk           DVDRAM GH22NS50
+WARNING: output may be incomplete or inaccurate, you should run this program as super-user.
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.7G     0  1.7G   0% /dev
+tmpfs           383M  6.1M  377M   2% /run
+/dev/sda7        44G   31G   11G  74% /
+tmpfs           1.9G  137M  1.8G   8% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.9G     0  1.9G   0% /sys/fs/cgroup
+tmpfs           383M   84K  383M   1% /run/user/1000
+/dev/sda2        98G   78G   20G  80% /media/skj/0A0EE0240EE00A91
+
+ File System(Mounted) :
+
+sysfs on /sys type sysfs (rw,nosuid,nodev,noexec,relatime)
+proc on /proc type proc (rw,nosuid,nodev,noexec,relatime)
+udev on /dev type devtmpfs (rw,nosuid,relatime,size=1731480k,nr_inodes=432870,mode=755)
+devpts on /dev/pts type devpts (rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000)
+tmpfs on /run type tmpfs (rw,nosuid,noexec,relatime,size=392076k,mode=755)
+/dev/sda7 on / type ext4 (rw,relatime,errors=remount-ro)
+securityfs on /sys/kernel/security type securityfs (rw,nosuid,nodev,noexec,relatime)
+tmpfs on /dev/shm type tmpfs (rw,nosuid,nodev)
+tmpfs on /run/lock type tmpfs (rw,nosuid,nodev,noexec,relatime,size=5120k)
+tmpfs on /sys/fs/cgroup type tmpfs (ro,nosuid,nodev,noexec,mode=755)
+cgroup on /sys/fs/cgroup/systemd type cgroup (rw,nosuid,nodev,noexec,relatime,xattr,release_agent=/lib/systemd/systemd-cgroups-agent,name=systemd)
+pstore on /sys/fs/pstore type pstore (rw,nosuid,nodev,noexec,relatime)
+cgroup on /sys/fs/cgroup/devices type cgroup (rw,nosuid,nodev,noexec,relatime,devices)
+cgroup on /sys/fs/cgroup/pids type cgroup (rw,nosuid,nodev,noexec,relatime,pids)
+cgroup on /sys/fs/cgroup/hugetlb type cgroup (rw,nosuid,nodev,noexec,relatime,hugetlb)
+cgroup on /sys/fs/cgroup/memory type cgroup (rw,nosuid,nodev,noexec,relatime,memory)
+cgroup on /sys/fs/cgroup/cpu,cpuacct type cgroup (rw,nosuid,nodev,noexec,relatime,cpu,cpuacct)
+cgroup on /sys/fs/cgroup/cpuset type cgroup (rw,nosuid,nodev,noexec,relatime,cpuset)
+cgroup on /sys/fs/cgroup/rdma type cgroup (rw,nosuid,nodev,noexec,relatime,rdma)
+cgroup on /sys/fs/cgroup/net_cls,net_prio type cgroup (rw,nosuid,nodev,noexec,relatime,net_cls,net_prio)
+cgroup on /sys/fs/cgroup/blkio type cgroup (rw,nosuid,nodev,noexec,relatime,blkio)
+cgroup on /sys/fs/cgroup/perf_event type cgroup (rw,nosuid,nodev,noexec,relatime,perf_event)
+cgroup on /sys/fs/cgroup/freezer type cgroup (rw,nosuid,nodev,noexec,relatime,freezer)
+systemd-1 on /proc/sys/fs/binfmt_misc type autofs (rw,relatime,fd=35,pgrp=1,timeout=0,minproto=5,maxproto=5,direct,pipe_ino=9734)
+mqueue on /dev/mqueue type mqueue (rw,relatime)
+hugetlbfs on /dev/hugepages type hugetlbfs (rw,relatime,pagesize=2M)
+debugfs on /sys/kernel/debug type debugfs (rw,relatime)
+configfs on /sys/kernel/config type configfs (rw,relatime)
+fusectl on /sys/fs/fuse/connections type fusectl (rw,relatime)
+tracefs on /sys/kernel/debug/tracing type tracefs (rw,relatime)
+tmpfs on /run/user/1000 type tmpfs (rw,nosuid,nodev,relatime,size=392076k,mode=700,uid=1000,gid=1000)
+gvfsd-fuse on /run/user/1000/gvfs type fuse.gvfsd-fuse (rw,nosuid,nodev,relatime,user_id=1000,group_id=1000)
+/dev/sda2 on /media/skj/0A0EE0240EE00A91 type fuseblk (rw,nosuid,nodev,relatime,user_id=0,group_id=0,default_permissions,allow_other,blksize=4096,uhelper=udisks2)
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ sh syl5.sh[6@chmod +x[C[C[C[C[C[C[C[C[3Pgedit[C[C[C[C[C[C[C[C
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ gedit syl5.sh[3Psh[C[C[C[C[C[C[C[C[6@chmod +x[C[C[C[C[C[C[C[C
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ chmod +x syl5.sh[3Pgedit[C[C[C[C[C[C[C[C[3Psh[C[C[C[C[C[C[C[C
+
+ Operating System name,version number(version codename) :
+
+NAME="Ubuntu"
+VERSION="16.04.6 LTS (Xenial Xerus)"
+
+ OS Kernel version : 
+
+4.17.0-rc2
+
+ All available shells :
+
+# /etc/shells: valid login shells
+/bin/sh
+/bin/dash
+/bin/bash
+/bin/rbash
+
+ C.P.U Information :
+
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 58
+model name	: Intel(R) Pentium(R) CPU G2030 @ 3.00GHz
+stepping	: 9
+microcode	: 0x21
+cpu MHz		: 1848.787
+cache size	: 3072 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 58
+model name	: Intel(R) Pentium(R) CPU G2030 @ 3.00GHz
+stepping	: 9
+microcode	: 0x21
+cpu MHz		: 1736.786
+cache size	: 3072 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+
+ Memory Information :
+
+MemTotal:        3920744 kB
+MemFree:          129492 kB
+MemAvailable:    1636756 kB
+Buffers:          309828 kB
+Cached:          1592156 kB
+SwapCached:     0 kB
+Active:          2312832 kB
+Inactive:        1085280 kB
+Active(anon):    1364396 kB
+Inactive(anon):   502220 kB
+Active(file):     948436 kB
+Inactive(file):   583060 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:       1974268 kB
+SwapFree:        1974268 kB
+Dirty:               816 kB
+Writeback:      0 kB
+AnonPages:       1496196 kB
+Mapped:           466852 kB
+Shmem:            370492 kB
+Slab:             299240 kB
+SReclaimable:     260800 kB
+SUnreclaim:        38440 kB
+KernelStack:        9580 kB
+PageTables:        38252 kB
+NFS_Unstable:   0 kB
+Bounce:         0 kB
+WritebackTmp:   0 kB
+CommitLimit:     3934640 kB
+Committed_AS:    5609308 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:    0 kB
+VmallocChunk:   0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:      2048 kB
+ShmemHugePages: 0 kB
+ShmemPmdMapped: 0 kB
+CmaTotal:       0 kB
+CmaFree:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      171536 kB
+DirectMap2M:     3903488 kB
+
+ Hard disk Information :
+
+[sudo] password for skj: 
+
+
+DMI
+
+   
+SMP
+
+   
+PA-RISC
+
+       
+device-tree
+
+           
+SPD
+
+   
+memory
+
+      
+/proc/cpuinfo
+
+             
+CPUID
+
+     
+PCI (sysfs)
+
+           
+ISA PnP
+
+       
+PCMCIA
+
+      
+PCMCIA
+
+      
+kernel device tree (sysfs)
+
+                          
+USB
+
+   
+IDE
+
+   
+SCSI
+
+    
+Network interfaces
+
+                  
+Framebuffer devices
+
+                   
+Display
+
+       
+CPUFreq
+
+       
+ABI
+
+   
+
+H/W path         Device      Class          Description
+=======================================================
+/0/1/0.0.0       /dev/cdrom  disk           DVDRAM GH22NS50
+/0/2/0.0.0       /dev/sda    disk           500GB TOSHIBA DT01ACA0
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.7G     0  1.7G   0% /dev
+tmpfs           383M  6.1M  377M   2% /run
+/dev/sda7        44G   31G   11G  74% /
+tmpfs           1.9G  137M  1.8G   8% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.9G     0  1.9G   0% /sys/fs/cgroup
+tmpfs           383M   88K  383M   1% /run/user/1000
+/dev/sda2        98G   78G   20G  80% /media/skj/0A0EE0240EE00A91
+
+ File System(Mounted) :
+
+sysfs on /sys type sysfs (rw,nosuid,nodev,noexec,relatime)
+proc on /proc type proc (rw,nosuid,nodev,noexec,relatime)
+udev on /dev type devtmpfs (rw,nosuid,relatime,size=1731480k,nr_inodes=432870,mode=755)
+devpts on /dev/pts type devpts (rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000)
+tmpfs on /run type tmpfs (rw,nosuid,noexec,relatime,size=392076k,mode=755)
+/dev/sda7 on / type ext4 (rw,relatime,errors=remount-ro)
+securityfs on /sys/kernel/security type securityfs (rw,nosuid,nodev,noexec,relatime)
+tmpfs on /dev/shm type tmpfs (rw,nosuid,nodev)
+tmpfs on /run/lock type tmpfs (rw,nosuid,nodev,noexec,relatime,size=5120k)
+tmpfs on /sys/fs/cgroup type tmpfs (ro,nosuid,nodev,noexec,mode=755)
+cgroup on /sys/fs/cgroup/systemd type cgroup (rw,nosuid,nodev,noexec,relatime,xattr,release_agent=/lib/systemd/systemd-cgroups-agent,name=systemd)
+pstore on /sys/fs/pstore type pstore (rw,nosuid,nodev,noexec,relatime)
+cgroup on /sys/fs/cgroup/devices type cgroup (rw,nosuid,nodev,noexec,relatime,devices)
+cgroup on /sys/fs/cgroup/pids type cgroup (rw,nosuid,nodev,noexec,relatime,pids)
+cgroup on /sys/fs/cgroup/hugetlb type cgroup (rw,nosuid,nodev,noexec,relatime,hugetlb)
+cgroup on /sys/fs/cgroup/memory type cgroup (rw,nosuid,nodev,noexec,relatime,memory)
+cgroup on /sys/fs/cgroup/cpu,cpuacct type cgroup (rw,nosuid,nodev,noexec,relatime,cpu,cpuacct)
+cgroup on /sys/fs/cgroup/cpuset type cgroup (rw,nosuid,nodev,noexec,relatime,cpuset)
+cgroup on /sys/fs/cgroup/rdma type cgroup (rw,nosuid,nodev,noexec,relatime,rdma)
+cgroup on /sys/fs/cgroup/net_cls,net_prio type cgroup (rw,nosuid,nodev,noexec,relatime,net_cls,net_prio)
+cgroup on /sys/fs/cgroup/blkio type cgroup (rw,nosuid,nodev,noexec,relatime,blkio)
+cgroup on /sys/fs/cgroup/perf_event type cgroup (rw,nosuid,nodev,noexec,relatime,perf_event)
+cgroup on /sys/fs/cgroup/freezer type cgroup (rw,nosuid,nodev,noexec,relatime,freezer)
+systemd-1 on /proc/sys/fs/binfmt_misc type autofs (rw,relatime,fd=35,pgrp=1,timeout=0,minproto=5,maxproto=5,direct,pipe_ino=9734)
+mqueue on /dev/mqueue type mqueue (rw,relatime)
+hugetlbfs on /dev/hugepages type hugetlbfs (rw,relatime,pagesize=2M)
+debugfs on /sys/kernel/debug type debugfs (rw,relatime)
+configfs on /sys/kernel/config type configfs (rw,relatime)
+fusectl on /sys/fs/fuse/connections type fusectl (rw,relatime)
+tracefs on /sys/kernel/debug/tracing type tracefs (rw,relatime)
+tmpfs on /run/user/1000 type tmpfs (rw,nosuid,nodev,relatime,size=392076k,mode=700,uid=1000,gid=1000)
+gvfsd-fuse on /run/user/1000/gvfs type fuse.gvfsd-fuse (rw,nosuid,nodev,relatime,user_id=1000,group_id=1000)
+/dev/sda2 on /media/skj/0A0EE0240EE00A91 type fuseblk (rw,nosuid,nodev,relatime,user_id=0,group_id=0,default_permissions,allow_other,blksize=4096,uhelper=udisks2)
+]0;skj@darkknight: ~/1104[01;32mskj@darkknight[00m:[01;34m~/1104[00m$ exit
+exit
+
+Script done on Saturday 11 April 2020 01:30:33 PM IST
