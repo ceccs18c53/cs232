@@ -1,0 +1,54 @@
+04/04/2020
+CEC CS 18 C52
+SAURAV KJ
+
+--------------------------------
+#1: Kernel Compilation T8.4
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+	
+       -Downloading the kernel
+	  $ wget https://git.kernel.org/torvalds/t/linux-4.17-rc2.tar.gz
+      
+       -Installing requirements
+          $ sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-dev bc flex libelf-dev bison
+      
+       -Extracting the source
+          $ tar xvzf linux-4.17-rc2.tar.gz
+       
+       -Configuring the kernel
+          $ cp -v /boot/config-$(uname -r) .config
+           
+       -Compiling the kernel
+          $ make -j 4
+       -Installing linux modules
+          $ sudo make modules_install (install modules)
+          $ sudo make install (install kernel)
+        
+       -Updating grub
+          $sudo update-grub
+       
+       -Verify new Linux kernel version after reboot:
+          $ uname -mrs
+
+
+	
+--------------------------------
+Output:
+--------------------------------
+       Linux 4.17.0-rc2 x86_64
+   
+
+     
+--------------------------------
+Remarks if any:
+--------------------------------
+      -Compiled Kernel at linux-4.17.tar,sign
+      -Screenshot of the compiled files  at info.png
+
+
+
+-------------------------------------
+-------------------------------------
