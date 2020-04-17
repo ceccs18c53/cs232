@@ -1,0 +1,25 @@
+17.04.2020
+CEC CS 18 C53
+
+SAURAV KJ 
+
+
+-----------------------------------------------
+#1: Menu driven calculator (s6)
+-----------------------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+	
+	cal.sh
+
+--------------------------------
+Output: 
+
+       calculator.png(Screenshot of cal.sh performing arithmetic operations)       
+
+-------------------
+Remarks if any:
+
+
+

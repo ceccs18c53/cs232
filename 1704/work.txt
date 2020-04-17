@@ -1,0 +1,51 @@
+Script started on Friday 17 April 2020 02:23:17 PM IST
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ gedit
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ gedit cal.sh
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ bash cal.sh
+Enter first number  : 4
+Enter operator (+,-,*,/): +
+Enter second number : 2
+Result: 6
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ bash cal.sh
+Enter first number  : 8
+Enter operator (+,-,*,/): -
+Enter second number : 2
+Result: 6
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ bash cal.sh
+Enter first number  : 4
+Enter operator (+,-,*,/): *
+Enter second number : 3
+Result: 12
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ bash cal.sh
+Enter first number  : 4
+Enter operator (+,-,*,/): /
+Enter second number : 0
+Error: division by zero
+Result: 
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ bash cal.sh
+Enter first number  : 4
+Enter operator (+,-,*,/): /
+Enter second number : 2
+Result: 2
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ bash cal.sh[1@gedit[C[C[C[C[C[C[C
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ gedit cal.sh[1Pbash[C[C[C[C[C[C[C
+Enter first number  : 4
+Enter operator (+,-,*,/): /
+Enter second number : 0
+Result: 
+Error: division by zero
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ bash cal.sh[1@gedit[C[C[C[C[C[C[C[1Pbash[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[Kgedit cal.sh[1Pbash[C[C[C[C[C[C[C
+Enter first number  : 4
+Enter operator (+,-,*,/): '
+Enter second number : 6
+cal.sh: line 34: syntax error near unexpected token `;;'
+cal.sh: line 34: `                         exit 0;; '
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ bash cal.sh[1@gedit[C[C[C[C[C[C[C[1Pbash[C[C[C[C[C[C[C
+Enter first number  : 4
+Enter operator (+,-,*,/): p [
+Enter second number : 6
+Incorrect operator. Try (+,-,*,/)
+]0;skj@darkknight: ~[01;32mskj@darkknight[00m:[01;34m~[00m$ exit
+exit
+
+Script done on Friday 17 April 2020 02:48:53 PM IST
